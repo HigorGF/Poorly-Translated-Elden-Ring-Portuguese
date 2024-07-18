@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2220">Um talismã retratando um conjunto de vidros de perfume.
+Aumenta a potência de artes que usam perfume.
+
+Há jardins conhecidos apenas pelos perfumistas. Escondidas nas periferias dos planaltos ou obscurecidas pelas sombras no interior de cavernas, as flores crescem em segredo, esperando para liberar seu perfume.</text>
+<text id="7000">Um medalhão incrustado com âmbar carmesim.
+Aumenta os PV ao extremo.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimado como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Esses medalhões, da maior variedade, eram conferidos ao círculo mais íntimo dos distintos cavaleiros dourados de Godwyn.</text>
+<text id="7001">%null%</text>
+<text id="7002">%null%</text>
+<text id="7003">%null%</text>
+<text id="7004">%null%</text>
+<text id="7005">%null%</text>
+<text id="7006">%null%</text>
+<text id="7007">%null%</text>
+<text id="7008">%null%</text>
+<text id="7009">%null%</text>
+<text id="7010">Um medalhão incrustado com âmbar cerúleo.
+Aumenta os PF ao extremo.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimado como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Esses medalhões, da maior variedade, eram conferidos ao círculo mais íntimo dos distintos cavaleiros dourados de Godwyn.</text>
+<text id="7011">%null%</text>
+<text id="7012">%null%</text>
+<text id="7013">%null%</text>
+<text id="7014">%null%</text>
+<text id="7015">%null%</text>
+<text id="7016">%null%</text>
+<text id="7017">%null%</text>
+<text id="7018">%null%</text>
+<text id="7019">%null%</text>
+<text id="7020">Um medalhão incrustado com âmbar viridiano.
+Aumenta o vigor ao extremo.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimado como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Esses medalhões, da maior variedade, eram conferidos ao círculo mais íntimo dos distintos cavaleiros dourados de Godwyn.</text>
+<text id="7021">%null%</text>
+<text id="7022">%null%</text>
+<text id="7023">%null%</text>
+<text id="7024">%null%</text>
+<text id="7025">%null%</text>
+<text id="7026">%null%</text>
+<text id="7027">%null%</text>
+<text id="7028">%null%</text>
+<text id="7029">%null%</text>
+<text id="7030">Um talismã na forma de uma tartaruga verde de duas cabeças.
+Aumenta muito a velocidade da recuperação de vigor.
+
+Tartarugas são conhecidas por serem um ingrediente nutritivo, um símbolo do poder inesgotável.
+
+Tartarugas de duas cabeças são assunto favorito na terra da torre, devido à forma espiral de seus pescoços entrelaçados.</text>
+<text id="7031">%null%</text>
+<text id="7032">%null%</text>
+<text id="7033">%null%</text>
+<text id="7034">%null%</text>
+<text id="7035">%null%</text>
+<text id="7036">%null%</text>
+<text id="7037">%null%</text>
+<text id="7038">%null%</text>
+<text id="7039">%null%</text>
+<text id="7040">Traje cerimonial usado pelos enviados do chifre.
+Aumenta vastamente a robustez.
+(Robustez indica a resistência à perda de sangue e congelamento.)
+
+Chifres são artefatos sublimes para os enviados do chifre, e a presença deles confirma a crença de que eles são um povo escolhido.
+
+Apenas o surgimento repetido de chifres novos pode criar um chifre entrelaçado, o que é visto como símbolo irrefutável de primazia.</text>
+<text id="7041">%null%</text>
+<text id="7042">%null%</text>
+<text id="7043">%null%</text>
+<text id="7044">%null%</text>
+<text id="7045">%null%</text>
+<text id="7046">%null%</text>
+<text id="7047">%null%</text>
+<text id="7048">%null%</text>
+<text id="7049">%null%</text>
+<text id="7050">Traje cerimonial usado pelos enviados do chifre.
+Aumenta vastamente a imunidade.
+(Imunidade indica a resistência a veneno e podridão.)
+
+Chifres são artefatos sublimes para os enviados do chifre, e a presença deles confirma a crença de que eles são um povo escolhido.
+
+Apenas o surgimento repetido de chifres novos pode criar um chifre entrelaçado, o que é visto como símbolo irrefutável de primazia.</text>
+<text id="7051">%null%</text>
+<text id="7052">%null%</text>
+<text id="7053">%null%</text>
+<text id="7054">%null%</text>
+<text id="7055">%null%</text>
+<text id="7056">%null%</text>
+<text id="7057">%null%</text>
+<text id="7058">%null%</text>
+<text id="7059">%null%</text>
+<text id="7060">Traje cerimonial usado pelos enviados do chifre.
+Aumenta vastamente o foco.
+(Foco indica a resistência a sono e loucura.)
+
+Chifres são artefatos sublimes para os enviados do chifre, e a presença deles confirma a crença de que eles são um povo escolhido.
+
+Apenas o surgimento repetido de chifres novos pode criar um chifre entrelaçado, o que é visto como símbolo irrefutável de primazia.</text>
+<text id="7080">Traje cerimonial de cores vívidas usado pelos enviados do chifre.
+
+Aumenta vastamente imunidade, robustez e foco.
+
+Chifres são artefatos sublimes para os enviados do chifre, e a presença deles confirma a crença de que eles são um povo escolhido.
+
+Apenas o surgimento repetido de chifres novos pode criar um chifre entrelaçado, o que é visto como símbolo irrefutável de primazia.</text>
+<text id="7081">%null%</text>
+<text id="7082">%null%</text>
+<text id="7083">%null%</text>
+<text id="7084">%null%</text>
+<text id="7085">%null%</text>
+<text id="7086">%null%</text>
+<text id="7087">%null%</text>
+<text id="7088">%null%</text>
+<text id="7089">%null%</text>
+<text id="7090">Talismã com uma imagem grande de um dragão azul ancião.
+Fortalece negação de dano mágico ao extremo.
+
+Os dragões anciões, que governaram na era pré-histórica antes da Térvore, protegiam seu senhor como uma parede de rocha viva.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="7091">%null%</text>
+<text id="7092">%null%</text>
+<text id="7093">%null%</text>
+<text id="7094">%null%</text>
+<text id="7095">%null%</text>
+<text id="7096">%null%</text>
+<text id="7097">%null%</text>
+<text id="7098">%null%</text>
+<text id="7099">%null%</text>
+<text id="7100">Talismã com uma imagem grande de um dragão vermelho ancião.
+Fortalece negação de dano de fogo ao extremo.
+
+Os dragões anciões, que governaram na era pré-histórica antes da Térvore, protegiam seu senhor como uma parede de rocha viva.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="7101">%null%</text>
+<text id="7102">%null%</text>
+<text id="7103">%null%</text>
+<text id="7104">%null%</text>
+<text id="7105">%null%</text>
+<text id="7106">%null%</text>
+<text id="7107">%null%</text>
+<text id="7108">%null%</text>
+<text id="7109">%null%</text>
+<text id="7110">Talismã com uma imagem grande de um dragão amarelo ancião.
+Fortalece negação de dano de relâmpago ao extremo.
+
+Os dragões anciões, que governaram na era pré-histórica antes da Térvore, protegiam seu senhor como uma parede de rocha viva.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="7111">%null%</text>
+<text id="7112">%null%</text>
+<text id="7113">%null%</text>
+<text id="7114">%null%</text>
+<text id="7115">%null%</text>
+<text id="7116">%null%</text>
+<text id="7117">%null%</text>
+<text id="7118">%null%</text>
+<text id="7119">%null%</text>
+<text id="7120">Uma parte de uma trança de cabelo dourado.
+A oferenda da Rainha Marika para a Matriarca.
+
+Melhora a negação de dano sagrado ao máximo.
+
+Qual foi sua prece? Seu desejo, sua confissão?
+Não sobrou ninguém para responder, e Marika nunca mais retornou para casa.</text>
+<text id="7121">%null%</text>
+<text id="7122">%null%</text>
+<text id="7123">%null%</text>
+<text id="7124">%null%</text>
+<text id="7125">%null%</text>
+<text id="7126">%null%</text>
+<text id="7127">%null%</text>
+<text id="7128">%null%</text>
+<text id="7129">%null%</text>
+<text id="7130">Talismã com uma imagem grande de um dragão perolado ancião.
+Fortalece negação de dano não-físico ao extremo.
+
+Os dragões anciões, que governaram na era pré-histórica antes da Térvore, protegiam seu senhor como uma parede de rocha viva.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="7131">%null%</text>
+<text id="7132">%null%</text>
+<text id="7133">%null%</text>
+<text id="7134">%null%</text>
+<text id="7135">%null%</text>
+<text id="7136">%null%</text>
+<text id="7137">%null%</text>
+<text id="7138">%null%</text>
+<text id="7139">%null%</text>
+<text id="7140">Um talismã carmesim inspirado por uma semente da Térvore.
+Aumenta muito a restauração de PV do Frasco de Lágrimas Carmesins.
+
+Pensava-se que a semente da Térvore desse talismã era um objeto mítico. Este artefato também representa os Dois Dedos, talvez recordando ao nascimento da Térvore.</text>
+<text id="7141">%null%</text>
+<text id="7142">%null%</text>
+<text id="7143">%null%</text>
+<text id="7144">%null%</text>
+<text id="7145">%null%</text>
+<text id="7146">%null%</text>
+<text id="7147">%null%</text>
+<text id="7148">%null%</text>
+<text id="7149">%null%</text>
+<text id="7150">Um talismã cerúleo inspirado por uma semente da Térvore.
+Aumenta muito a restauração de PF do Frasco de Lágrimas Cerúleas.
+
+Pensava-se que a semente da Térvore desse talismã era um objeto mítico. Este artefato também representa os Dois Dedos, talvez recordando ao nascimento da Térvore.</text>
+<text id="8000">Talismã retratando a dádiva abençoada que é uma gota da seiva azul e luminescente da Térvore.
+
+Recupera PF gradualmente.
+
+Acreditava-se que a seiva abençoada da Térvore escorreria de seus ramos para sempre, mas aquela era de abundância rapidamente chegou ao fim e, com o tempo, a Térvore se tornou apenas um objeto de fé.</text>
+<text id="8001">%null%</text>
+<text id="8002">%null%</text>
+<text id="8003">%null%</text>
+<text id="8004">%null%</text>
+<text id="8005">%null%</text>
+<text id="8006">%null%</text>
+<text id="8007">%null%</text>
+<text id="8008">%null%</text>
+<text id="8009">%null%</text>
+<text id="8010">Um talismã feito a partir de penas finas que representam os aspectos de várias criaturas.
+Dizem que cresciam no corpo humano há muito tempo atrás.
+
+Melhora o passo para trás, mas aumenta o dano sofrido.
+
+Enviados do chifre enxergam o Crisol como sagrado pelo refinamento realizado por meio de seus dons evolutivos.</text>
+<text id="8011">%null%</text>
+<text id="8012">%null%</text>
+<text id="8013">%null%</text>
+<text id="8014">%null%</text>
+<text id="8015">%null%</text>
+<text id="8016">%null%</text>
+<text id="8017">%null%</text>
+<text id="8018">%null%</text>
+<text id="8019">%null%</text>
+<text id="8020">Um talismã entalhado com o conhecimento de um deus forasteiro.
+Aumenta o arcano.
+
+O clã, que perdeu tudo no grande incêndio, olhou para o corpo de seu ancestral, normalmente um ato de santidade, e viu em sua sombra uma divindade deturpada.
+
+O clã sofreu tamanho tormento que tal coisa horrível foi tida como um objeto de adoração.</text>
+<text id="8021">%null%</text>
+<text id="8022">%null%</text>
+<text id="8023">%null%</text>
+<text id="8024">%null%</text>
+<text id="8025">%null%</text>
+<text id="8026">%null%</text>
+<text id="8027">%null%</text>
+<text id="8028">%null%</text>
+<text id="8029">%null%</text>
+<text id="8030">Pedra fundamental quebrada.
+
+Aumenta a potência de habilidades de chute e pisoteamento.
+
+Pedras fundamentais são âncoras espirituais que mantêm o solo no lugar e reprimem a fúria dos terremotos, quando essa se quebrou, a cidade ao seu redor desmoronou nas fendas da terra partida. Um relato afirmava que a própria lua havia desabado.</text>
+<text id="8031">%null%</text>
+<text id="8032">%null%</text>
+<text id="8033">%null%</text>
+<text id="8034">%null%</text>
+<text id="8035">%null%</text>
+<text id="8036">%null%</text>
+<text id="8037">%null%</text>
+<text id="8038">%null%</text>
+<text id="8039">%null%</text>
+<text id="8040">Um talismã retratando um guerreiro segurando uma espada com as duas mãos.
+Melhora ataques com armas de duas mãos.
+
+Os guerreiros com chifres eram representantes adequados para o poderio militar da torre que eles vigiavam, seus ataques hábeis cortando todo e qualquer inimigo.</text>
+<text id="8041">%null%</text>
+<text id="8042">%null%</text>
+<text id="8043">%null%</text>
+<text id="8044">%null%</text>
+<text id="8045">%null%</text>
+<text id="8046">%null%</text>
+<text id="8047">%null%</text>
+<text id="8048">%null%</text>
+<text id="8049">%null%</text>
+<text id="8050">Um talismã retratando uma lança erguida sobre um fundo de chamas, em memória das vidas perdidas na cruzada sagrada guiada por Messmer.
+
+Aumenta o poder de ataque após derrotar um inimigo.
+
+Os guerreiros que lutaram na cruzada deixaram de lado tanto a honra quanto a piedade para empalar e queimar desenfreadamente aqueles considerados impuros.
+
+Os homens que se sentiram revigorados por cada grito de morte eram os mesmos que tinham absoluta certeza na santidade da campanha.</text>
+<text id="8051">%null%</text>
+<text id="8052">%null%</text>
+<text id="8053">%null%</text>
+<text id="8054">%null%</text>
+<text id="8055">%null%</text>
+<text id="8056">%null%</text>
+<text id="8057">%null%</text>
+<text id="8058">%null%</text>
+<text id="8059">%null%</text>
+<text id="8060">Um talismã que representa a exultação do intocável envelhecido, cuja cabeça lembra um cacho de uvas maduras.
+
+ Aumenta o poder de ataque quando a loucura está nas proximidades.
+
+"Presenteie a sua loucura ao nosso Lorde.
+Abençoe nossos irmãos com uvas.
+Cuide deles para que amadureçam por completo"</text>
+<text id="8061">%null%</text>
+<text id="8062">%null%</text>
+<text id="8063">%null%</text>
+<text id="8064">%null%</text>
+<text id="8065">%null%</text>
+<text id="8066">%null%</text>
+<text id="8067">%null%</text>
+<text id="8068">%null%</text>
+<text id="8069">%null%</text>
+<text id="8070">Um talismã composto por flechas de penas e ferro.
+
+Aumenta o alcance efetivo dos arcos e o poder de ataque de flechas e setas.</text>
+<text id="8090">Um talismã que retrata um cavaleiro portando um escudo perolado.
+​
+Aumenta todas as formas de negação de dano não físico enquanto estiver defendendo.
+
+A natureza e o potencial da impureza ultrapassaram a compreensão dos cavaleiros, e por isso eles foram forçados a se preparar para todas as ameaças conhecidas ou desconhecidas.</text>
+<text id="8091">%null%</text>
+<text id="8092">%null%</text>
+<text id="8093">%null%</text>
+<text id="8094">%null%</text>
+<text id="8095">%null%</text>
+<text id="8096">%null%</text>
+<text id="8097">%null%</text>
+<text id="8098">%null%</text>
+<text id="8099">%null%</text>
+<text id="8100">Um curioso buquê de flores secas, oferecido a uma pequena sepultura.
+
+Aumenta o poder de ataque quando o espírito invocado morrer.
+
+A tristeza que flui da morte prematura de um ente querido é um sentimento partilhado por todos, independente de sua origem.</text>
+<text id="8101">%null%</text>
+<text id="8102">%null%</text>
+<text id="8103">%null%</text>
+<text id="8104">%null%</text>
+<text id="8105">%null%</text>
+<text id="8106">%null%</text>
+<text id="8107">%null%</text>
+<text id="8108">%null%</text>
+<text id="8109">%null%</text>
+<text id="8110">Um talismã representando um antigo martelo de ferreiro.
+Tem uma inscrição com uma escrita de forja.
+
+Melhora os ataques de arremesso de armas.
+
+Nos tempos antigos, a forja era um ato divino, e ferreiros interpretavam as letras que eles descobriam nas rugas do aço fundido para dar almas às armas.</text>
+<text id="8111">%null%</text>
+<text id="8112">%null%</text>
+<text id="8113">%null%</text>
+<text id="8114">%null%</text>
+<text id="8115">%null%</text>
+<text id="8116">%null%</text>
+<text id="8117">%null%</text>
+<text id="8118">%null%</text>
+<text id="8119">%null%</text>
+<text id="8120">Um talismã representando uma alma doente.
+
+Quando certas doenças são desencadeadas, este talismã concede resistência à mesma doença.
+
+Quando os fracos foram infectados com a temida doença da mosca, eles definharam antes de completar a metamorfose. Estranhamente, aqueles que cuidavam dos infectados e garantiam que recebessem um enterro adequado nunca foram atingidos.</text>
+<text id="8121">%null%</text>
+<text id="8122">%null%</text>
+<text id="8123">%null%</text>
+<text id="8124">%null%</text>
+<text id="8125">%null%</text>
+<text id="8126">%null%</text>
+<text id="8127">%null%</text>
+<text id="8128">%null%</text>
+<text id="8129">%null%</text>
+<text id="8130">Um artesanato representando uma árvore cruzada dourada.
+Um dos itens conferidos aos Cavaleiros da Agulha.
+
+Melhora ataques executados após rolar ou dar um passo para trás.
+
+Há muito tempo, os Cavaleiros da Agulha serviam Miquella, mas agora não existem mais. Exceto por uma.</text>
+<text id="8131">%null%</text>
+<text id="8132">%null%</text>
+<text id="8133">%null%</text>
+<text id="8134">%null%</text>
+<text id="8135">%null%</text>
+<text id="8136">%null%</text>
+<text id="8137">%null%</text>
+<text id="8138">%null%</text>
+<text id="8139">%null%</text>
+<text id="8140">Um artesanato representando uma árvore cruzada dourada.
+Um dos itens conferidos aos Cavaleiros da Agulha.
+
+Melhora ataques de arremetida.
+
+Há muito tempo, os Cavaleiros da Agulha serviam Miquella, mas agora não existem mais. Exceto por uma.</text>
+<text id="8141">%null%</text>
+<text id="8142">%null%</text>
+<text id="8143">%null%</text>
+<text id="8144">%null%</text>
+<text id="8145">%null%</text>
+<text id="8146">%null%</text>
+<text id="8147">%null%</text>
+<text id="8148">%null%</text>
+<text id="8149">%null%</text>
+<text id="8150">Um talismã representando um arqueiro empunhando um arco longo.
+Aumenta o poder de ataque de disparos precisos.
+
+Os arqueiros Albináuricos eram uma classe própria, e seus mortais especialistas de longo alcance causavam medo nos corações dos homens.</text>
+<text id="8151">%null%</text>
+<text id="8152">%null%</text>
+<text id="8153">%null%</text>
+<text id="8154">%null%</text>
+<text id="8155">%null%</text>
+<text id="8156">%null%</text>
+<text id="8157">%null%</text>
+<text id="8158">%null%</text>
+<text id="8159">%null%</text>
+<text id="8160">Um talismã representando uma sorridente Sta. Trina,
+uma visão conjurada profundamente no coração de um certo homem.
+
+Aumenta o poder de ataque quando houver sono nas proximidades.
+
+"Apenas eu tenho permissão de saber. Sobre o seu sono aveludado. Seu doce e gentil abraço. Vá em frente, sorria. Para mim, apenas para mim."</text>
+<text id="8161">%null%</text>
+<text id="8162">%null%</text>
+<text id="8163">%null%</text>
+<text id="8164">%null%</text>
+<text id="8165">%null%</text>
+<text id="8166">%null%</text>
+<text id="8167">%null%</text>
+<text id="8168">%null%</text>
+<text id="8169">%null%</text>
+<text id="8170">Talismã retratando o terrível dragão do pico pontiagudo, cujos rugidos fazem com que a fúria derretida do pico ferva e se agite.
+
+Aumenta a potência do magma.
+
+Bayle era o nome do terrível dragão, um terrível arauto da destruição cujo desafio ao antigo Lorde Dragão terminou em uma grave ferida em ambos.</text>
+<text id="8171">%null%</text>
+<text id="8172">%null%</text>
+<text id="8173">%null%</text>
+<text id="8174">%null%</text>
+<text id="8175">%null%</text>
+<text id="8176">%null%</text>
+<text id="8177">%null%</text>
+<text id="8178">%null%</text>
+<text id="8179">%null%</text>
+<text id="8180">Um amuleto representando a dança enlouquecida e saltitante da fera divina conduzida no festival da torre.
+
+Aumenta a potência de tempestades.
+
+As feras divinas são mensageiras dos céus, e sua raiva reflete o tumulto dos céus, dos quais as tempestades são o ápice.</text>
+<text id="8181">%null%</text>
+<text id="8182">%null%</text>
+<text id="8183">%null%</text>
+<text id="8184">%null%</text>
+<text id="8185">%null%</text>
+<text id="8186">%null%</text>
+<text id="8187">%null%</text>
+<text id="8188">%null%</text>
+<text id="8189">%null%</text>
+<text id="8190">Um talismã representando uma mão enrugada segurando suavemente uma pedrilhante.
+
+Diminui o tempo para lançar encantamentos e feitiçaria ao extremo, mas aumenta o dano recebido.
+
+Conde Ymir era conhecido por suas recitações.
+"É preciso apenas imaginar o romance das estrelas no céu com adoração pela poeira estelar em seu coração para se tornar um grande feiticeiro. Faça isso e você conhecerá o amor."</text>
+<text id="8191">%null%</text>
+<text id="8192">%null%</text>
+<text id="8193">%null%</text>
+<text id="8194">%null%</text>
+<text id="8195">%null%</text>
+<text id="8196">%null%</text>
+<text id="8197">%null%</text>
+<text id="8198">%null%</text>
+<text id="8199">%null%</text>
+<text id="8200">Um talismã retratando Godfrey, o primeiro Lorde Prístino, recebendo a preciosa seiva.
+
+Aumenta o equilíbrio após usar um frasco de lágrimas.
+
+O Lorde aceitou a seiva estoicamente, sem hesitar. Não é de surpreender então que o Lorde da Térvore lance uma grande sombra sobre as terras.</text>
+<text id="8201">%null%</text>
+<text id="8202">%null%</text>
+<text id="8203">%null%</text>
+<text id="8204">%null%</text>
+<text id="8205">%null%</text>
+<text id="8206">%null%</text>
+<text id="8207">%null%</text>
+<text id="8208">%null%</text>
+<text id="8209">%null%</text>
+<text id="8210">Um disco de azinhavre, o metal corroído conhecido por seu peso.
+
+Aumenta a defesa com maior carga de equipamento.
+
+Grande peso resulta em grande força. A força para proteger os outros.</text>
+<text id="8211">%null%</text>
+<text id="8212">%null%</text>
+<text id="8213">%null%</text>
+<text id="8214">%null%</text>
+<text id="8215">%null%</text>
+<text id="8216">%null%</text>
+<text id="8217">%null%</text>
+<text id="8218">%null%</text>
+<text id="8219">%null%</text>
+<text id="8220">Talismã retratando a figura galante de Rellana, Cavaleira das Luas Gêmeas.
+
+Melhora ataques executados após manter a mesma postura por um certo tempo.
+
+Gravado como um lembrete da devoção incomparável daqueles que deixaram suas terras natais para servir Rellana.
+
+"Com sua licença, iremos acompanhá-la onde quer que sua embarcação lunar a leve."</text>
+<text id="8221">%null%</text>
+<text id="8222">%null%</text>
+<text id="8223">%null%</text>
+<text id="8224">%null%</text>
+<text id="8225">%null%</text>
+<text id="8226">%null%</text>
+<text id="8227">%null%</text>
+<text id="8228">%null%</text>
+<text id="8229">%null%</text>
+<text id="8230">Uma adaga fina e manchada de sangue. Não está mais em condições de uso.
+
+Aumenta o poder de ataque após cada acerto crítico.
+
+Enviados do chifre usavam a adaga para pôr fim ao sofrimento de um compatriota com honra. Depois de ceifar inúmeras vidas, a adaga está quebrada, mas adquiriu uma aura espectral.</text>
+<text id="8231">%null%</text>
+<text id="8232">%null%</text>
+<text id="8233">%null%</text>
+<text id="8234">%null%</text>
+<text id="8235">%null%</text>
+<text id="8236">%null%</text>
+<text id="8237">%null%</text>
+<text id="8238">%null%</text>
+<text id="8239">%null%</text>
+<text id="8240">Uma massa gigante de atributos do Crisol misturados.
+
+Reduz o dano recebido de acertos críticos e disparos na cabeça, e melhora a eficácia de rolar e dar um passo para trás, mas também aumenta o dano recebido todas as vezes.
+
+Há rumores de que brotou de gigantes e agora é conhecida como a "mãe dos Crisóis" na antiga tradição da torre.</text>
+</entries>
+</fmg>

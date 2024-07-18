@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="280004">Verifique o botão Configurações, que possui funções de menu que não podem ser combinadas com outras funções.</text>
+<text id="401130">Os seguintes DLCs não foram encontrados:
+
+&lt;? Você quer DcList?&gt;
+
+Este perfil não pode ser carregado até que o DLC necessário seja instalado.</text>
+<text id="401131">Sombras de oito árvores</text>
+<text id="401406">Nenhum link para o Steamworks: &lt;?errcodeSteam?&gt;
+Voltar ao menu principal</text>
+</entries>
+</fmg>

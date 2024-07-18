@@ -1,0 +1,904 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">Habilidade: Redemoinho de Folhaseca
+
+Esta habilidade representa o auge da arte marcial baseada em chutes de Dane.
+Sobe no ar com uma série de chutes giratórios antes de cair com um golpe final. Imbui chutes com energia, aumentando seu alcance.</text>
+<text id="2001">Habilidade: Aspectos do Crisol (Asas)
+
+Esta habilidade tem origem nas formas de vida do Crisol.
+Cria um par de asas douradas e concede voo. Voa e mergulha até o inimigo, atingindo-o com a arma. Um ataque giratório é realizado se estiver empunhando lâminas-gêmeas.</text>
+<text id="4000">Habilidade: Impulso Gravitacional Giratório
+
+Uma habilidade de gravidade aprimorada pelos discípulos de um Lorde de Alabastro. Usa o poder gravitacional para ficar suspenso no ar antes de girar o corpo e avançar. Um comando adicional permite um ataque extra.</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">Habilidade: Explosão de Palma
+
+Habilidade dos buscadores espirituais conhecidos como Seita Folhaseca. Golpeia com a palma da mão imbuída de energia, liberando uma explosão. O poder e impacto já formidáveis podem ser reforçados ao carregar o ataque.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">Habilidade: Arremesso Perfurante
+
+Arremessa a arma com um giro poderoso, fazendo com que ela atravesse os inimigos. Ao usar essa habilidade, o arremesso é mais longo que o normal e atravessa os inimigos.</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">Habilidade: Arremesso Disperso
+
+Usa artes de forja para conjurar múltiplas cópias da arma em ambas as mãos e arremessar todas de uma vez. Repita o comando para arremessar novamente.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">Habilidade: Parede de Faíscas
+
+Espalha um pó perfumado ao redor, produzindo faíscas intensas após um momento. Pode ser carregado para aumentar o poder e distância.
+As propriedades das faíscas são determinadas pelo frasco de perfume usado.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">Habilidade: Onda de Faíscas
+
+Espalha pó perfumado à sua frente, causando explosões de faíscas mortais.
+As propriedades das faíscas são determinadas pelo frasco de perfume usado.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">Habilidade: Fera Furiosa
+
+Avança com a rapidez de uma fera, salta alto e corta o inimigo de cima. O passo inicial pode ser dado para frente, para trás, para a esquerda ou para a direita. Um ataque forte permite um ataque extra.</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">Habilidade: Garras Selvagens
+
+Ataca como uma fera para cortar o inimigo violentamente por todos os lados com as garras.</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">Habilidade Única: Caçada do Urso Vermelho
+
+Abate a presa com garras afiadas em um grande movimento de braço. O ataque cria um vácuo que causa dano contínuo. Comandos repetidos permitem até dois ataques extras.</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">Habilidade: Ponto Cego
+
+Avança para aproveitar o ponto cego do inimigo e acertá-lo pela lateral. A direção determina o lado do ataque. Este ataque atravessa a defesa do oponente.</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">Habilidade: Corte Rápido
+
+Uma habilidade passada entre espadachins enviados do chifre. Dá um passo rápido para frente para cortar os inimigos. Este golpe certeiro também dispara um vácuo cortante. Pode ser carragada para aumentar o poder da habilidade e a distância do passo.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Habilidade: Postura Aérea
+
+Uma habilidade que começa com a lâmina erguida em posição de prontidão.
+Execute um ataque normal a partir desta postura para dar um passo à frente e cortar para baixo, ou um ataque forte para desferir uma série de cortes para baixo.</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">Habilidade: Postura de Asa
+
+Assume calmamente uma postura do lado direito. O ataque normal desencadeia uma combinação rápida de três cortes. Um ataque forte desencadeia um impulso de salto.</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">Habilidade: Raio de Lampejo
+
+Habilidade usada pelos cavaleiros de ouro que serviam Godwyn. De uma postura baixa, o corpo é transformado em um raio e avança para frente em uma velocidade fulgurante.</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">Habilidade: Espeto Flamejante
+
+Habilidade de Queelign dos Cavaleiros de Fogo. Envolve a arma em chamas e assume uma postura baixa antes de espetar o inimigo em um único movimento. O ataque forte desencadeia um ataque de chamas extra.</text>
+<text id="4141">%null%</text>
+<text id="4142">%null%</text>
+<text id="4143">%null%</text>
+<text id="4144">%null%</text>
+<text id="4145">%null%</text>
+<text id="4146">%null%</text>
+<text id="4147">%null%</text>
+<text id="4148">%null%</text>
+<text id="4149">%null%</text>
+<text id="4150">Habilidade: Garra do Leão Selvagem
+
+Habilidade dos especialmente corajosos, mesmo entre os Jubas Vermelhas. Realiza uma cambalhota para a frente, atingindo os inimigos com a arma. Um ataque adicional pode ser executado com um comando adicional.</text>
+<text id="4151">%null%</text>
+<text id="4152">%null%</text>
+<text id="4153">%null%</text>
+<text id="4154">%null%</text>
+<text id="4155">%null%</text>
+<text id="4156">%null%</text>
+<text id="4157">%null%</text>
+<text id="4158">%null%</text>
+<text id="4159">%null%</text>
+<text id="4160">Habilidade: Pisão Congelante da Fera Divina
+
+Uma habilidade que imita a ira da dança da fera divina. Projeta uma perna para cima e pisa no chão com muita força. Emite uma poderosa onda de gelo diretamente pelo chão. Pode ser carregada para aumentar o poder e o alcance.</text>
+<text id="4161">%null%</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">Habilidade: Lança Flamejante
+
+Habilidade de Kood, capitão dos Cavaleiros de Fogo.
+Prepara a arma para um ataque de estocada e solta uma lança de fogo bem à frente. Carregue o ataque para aumentar o dano causado e a distância percorrida.</text>
+<text id="4171">%null%</text>
+<text id="4172">%null%</text>
+<text id="4173">%null%</text>
+<text id="4174">%null%</text>
+<text id="4175">%null%</text>
+<text id="4176">%null%</text>
+<text id="4177">%null%</text>
+<text id="4178">%null%</text>
+<text id="4179">%null%</text>
+<text id="4180">Habilidade: Soberania Cariana
+
+Uma habilidade passada de geração em geração pela realeza cariana. Transforma a lâmina em uma espada mágica e golpeia para baixo.  Um comando adicional inclui um ataque horizontal. Ambos os ataques podem ser carregados para aumentar seu poder.</text>
+<text id="4181">%null%</text>
+<text id="4182">%null%</text>
+<text id="4183">%null%</text>
+<text id="4184">%null%</text>
+<text id="4185">%null%</text>
+<text id="4186">%null%</text>
+<text id="4187">%null%</text>
+<text id="4188">%null%</text>
+<text id="4189">%null%</text>
+<text id="4190">Habilidade: Grito de Tristeza
+
+Habilidade utilizada pelos oprimidos. Um grito que faz com que os inimigos próximos hesitem e relembrem ressentimentos enterrados, aumentando o poder de ataque com base na quantidade de PV restante. Quanto menos PV, maior o efeito.</text>
+<text id="4191">%null%</text>
+<text id="4192">%null%</text>
+<text id="4193">%null%</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">Habilidade: Ataque com Escudo
+
+Uma habilidade que usa o escudo para atacar.
+Repetir o comando permite que ataque novamente até três vezes.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">Habilidade: Caçada de Draco de Igon
+
+Habilidade de Igon, o Guerreiro Draco. Prepara o arco antes de liberar um disparo retorcido com um berro que melhora o poder consideravelmente.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">Habilidade: Chamado da Chama Espectral
+
+Golpeia com a arma para invocar uma chama espectral.
+Prossiga com um ataque normal para incendiar o chão com a chama espectral, ou com um ataque forte para desencadear uma grande explosão.</text>
+<text id="5000">Habilidade Única: Corte Rasga Dragão
+
+Projetada para caçar dragões colossais, esta habilidade reveste a arma com uma aura irregular de cascalho antes de executar um golpe de salto pelo alto. Carregar o ataque também dispara a aura.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">Habilidade Única: Perfuração de Agulha
+
+Habilidade da Cavaleira da Agulha Leda. Gera dez agulhas douradas que perfuram o alvo todas de uma vez. Aqueles perfurados se livram de todas as doenças e efeitos.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">Habilidade Única: Luz
+
+Libera a luz entalhada na lâmina da arma. Projeta a espada para o alto para liberar uma luz ofuscante cujos muitos raios varrem a área ao redor. E melhora temporariamente os próprios ataques sagrados.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">Habilidade Única: Escuridão
+
+Ergue a espada e corta os arredores com escuridão. Causa dano sagrado e temporariamente reduz a negação de dano sagrado.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">Habilidade Única: Alinhamento Estrelar de Onze
+
+Essa habilidade, nomeada a partir de um mestre das espadas semi-humano, imbui energia de feitiçaria em uma fileira de pedrilhantes para potencializar ataques cortantes. Comandos repetidos permitem até dois ataques extras, cada um causando mais dano que o anterior.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">Habilidade: A Flor Venenosa Brota Duas Vezes
+
+Conjura espinhos de podridão escarlate do chão para perfurar o inimigo. Se este ataque atingir com sucesso um inimigo já infligido com veneno ou podridão, ele causará um dano massivo de uma só vez.</text>
+<text id="5080">Habilidade Única: Guilhotina Giratória
+
+Ao segurar a lâmina pútrida em ambas as extremidades e arquear-se para trás, desfere um corte poderoso vindo de cima. Comandos repetidos permitem ataques seguidos enquanto durar o vigor. O ataque forte faz um salto seguido por um ataque giratório.</text>
+<text id="5081">%null%</text>
+<text id="5082">%null%</text>
+<text id="5083">%null%</text>
+<text id="5084">%null%</text>
+<text id="5085">%null%</text>
+<text id="5086">%null%</text>
+<text id="5087">%null%</text>
+<text id="5088">%null%</text>
+<text id="5089">%null%</text>
+<text id="5090">Habilidade Única: Dança Inacabável
+
+Uma dança furiosa coreografada por uma sucessão de ataques cortantes. Ao manter o comando, a dança continuará enquanto você tiver vigor.</text>
+<text id="5091">%null%</text>
+<text id="5092">%null%</text>
+<text id="5093">%null%</text>
+<text id="5094">%null%</text>
+<text id="5095">%null%</text>
+<text id="5096">%null%</text>
+<text id="5097">%null%</text>
+<text id="5098">%null%</text>
+<text id="5099">%null%</text>
+<text id="5100">Habilidade Única: Lâmina do Vingador
+
+Avança até um inimigo e o abre com uma lâmina em cada mão. Ao manter o comando, a corrida inicial será estendida. Continue com um ataque forte para cortar o inimigo em pedaços.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">Habilidade Única: Névoas do Sono Eterno
+
+Libera uma névoa roxa aveludada que se espalha por uma ampla área frontal. Aflige os inimigos com sono eterno.</text>
+<text id="5111">%null%</text>
+<text id="5112">%null%</text>
+<text id="5113">%null%</text>
+<text id="5114">%null%</text>
+<text id="5115">%null%</text>
+<text id="5116">%null%</text>
+<text id="5117">%null%</text>
+<text id="5118">%null%</text>
+<text id="5119">%null%</text>
+<text id="5120">Habilidade Única: Conhecimento Dinástico da Foice
+
+Uma habilidade de evasão refinada para criar espaços para manobras. O comando aponta a direção do salto para trás. Continue com um ataque forte para avançar com um corte por cima. E faça outro ataque forte para  trazer a arma de volta.</text>
+<text id="5121">%null%</text>
+<text id="5122">%null%</text>
+<text id="5123">%null%</text>
+<text id="5124">%null%</text>
+<text id="5125">%null%</text>
+<text id="5126">%null%</text>
+<text id="5127">%null%</text>
+<text id="5128">%null%</text>
+<text id="5129">%null%</text>
+<text id="5130">Habilidade Única: Raio de Lampejo (Machado Duplo)
+
+A partir de uma postura baixa, o corpo é transformado em um raio e avança para frente em uma velocidade fulgurante. Um ataque forte realiza um corte giratório carregado de relâmpago.</text>
+<text id="5131">%null%</text>
+<text id="5132">%null%</text>
+<text id="5133">%null%</text>
+<text id="5134">%null%</text>
+<text id="5135">%null%</text>
+<text id="5136">%null%</text>
+<text id="5137">%null%</text>
+<text id="5138">%null%</text>
+<text id="5139">%null%</text>
+<text id="5140">Habilidade Única: Raio de Lampejo (Machado de Haste Longa)
+
+A partir de uma postura baixa, o corpo é transformado em um raio e avança para frente em uma velocidade fulgurante. Um ataque forte realiza um salto com um corte carregado de relâmpago.</text>
+<text id="5141">%null%</text>
+<text id="5142">%null%</text>
+<text id="5143">%null%</text>
+<text id="5144">%null%</text>
+<text id="5145">%null%</text>
+<text id="5146">%null%</text>
+<text id="5147">%null%</text>
+<text id="5148">%null%</text>
+<text id="5149">%null%</text>
+<text id="5150">Habilidade Única: Consorte Prometido
+
+Imbui as duas espadas grandes com a luz de Miquella e, em seguida, desfere um ataque cortante acompanhado por colunas de luz. Comandos adicionais permitem até dois ataques extras.</text>
+<text id="5151">%null%</text>
+<text id="5152">%null%</text>
+<text id="5153">%null%</text>
+<text id="5154">%null%</text>
+<text id="5155">%null%</text>
+<text id="5156">%null%</text>
+<text id="5157">%null%</text>
+<text id="5158">%null%</text>
+<text id="5159">%null%</text>
+<text id="5160">Habilidade Única: Marretada do Girassol Sombrio
+
+Bate no chão com a flor de um grande girassol sombrio, causando uma onda de choque que abala os inimigos. Comandos repetidos permitem até dois ataques extras.</text>
+<text id="5161">%null%</text>
+<text id="5162">%null%</text>
+<text id="5163">%null%</text>
+<text id="5164">%null%</text>
+<text id="5165">%null%</text>
+<text id="5166">%null%</text>
+<text id="5167">%null%</text>
+<text id="5168">%null%</text>
+<text id="5169">%null%</text>
+<text id="5170">Habilidade Única: Postura da Lua e do Fogo
+
+Entra em posição de prontidão e imbui as espadas com magia. Continue com um ataque normal para lançar ondas de luz de pedrilhante, ou ataque forte para executar um ataque giratório enquanto chamas irrompem na área ao redor.  As ondas de luz podem ser conjuradas mais duas vezes em série com a primeira.</text>
+<text id="5171">%null%</text>
+<text id="5172">%null%</text>
+<text id="5173">%null%</text>
+<text id="5174">%null%</text>
+<text id="5175">%null%</text>
+<text id="5176">%null%</text>
+<text id="5177">%null%</text>
+<text id="5178">%null%</text>
+<text id="5179">%null%</text>
+<text id="5180">Habilidade Única: Vórtice de Devonia
+
+Usando o poder do vórtice do Crisol, gira violentamente o martelo e bate no chão, causando uma onda de choque. A habilidade pode ser carregada para aumentar seu poder.</text>
+<text id="5181">%null%</text>
+<text id="5182">%null%</text>
+<text id="5183">%null%</text>
+<text id="5184">%null%</text>
+<text id="5185">%null%</text>
+<text id="5186">%null%</text>
+<text id="5187">%null%</text>
+<text id="5188">%null%</text>
+<text id="5189">%null%</text>
+<text id="5190">Habilidade Única: Ataque de Messmer
+
+Uma sucessão feroz de ataques usando a ponta de uma lança revestida de chamas. Repetir o comando permite dois ataques seguidos. O movimento final enfia a lança no chão, fazendo com que inúmeras lanças se formem na área ao redor.</text>
+<text id="5210">Habilidade Única: Dormir para Sempre
+
+Perfura profundamente o inimigo com uma agulha revestida de veneno que causa sono eterno. Se o ataque seguinte atingir um inimigo que já está em estado de sono ou sono eterno, causará danos significativos.</text>
+<text id="5211">%null%</text>
+<text id="5212">%null%</text>
+<text id="5213">%null%</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">Habilidade Única: Cruz Dourada
+
+Salta e empala o alvo por cima. Se acertar, as farpas da arma disparam e causam graves danos internos. Repetir o comando dispara farpas ao redor. A visão dessa cruz tem algo da Ordem Áurea.</text>
+<text id="5221">%null%</text>
+<text id="5222">%null%</text>
+<text id="5223">%null%</text>
+<text id="5224">%null%</text>
+<text id="5225">%null%</text>
+<text id="5226">%null%</text>
+<text id="5227">%null%</text>
+<text id="5228">%null%</text>
+<text id="5229">%null%</text>
+<text id="5230">Habilidade Única: Investida de Moore
+
+Prepara o escudo com as duas mãos e, em seguida, faz uma investida frontal enquanto mantém a guarda, terminando com um empurrão imbuído de magia de azinhavre. Empurra os inimigos próximos, mas não causa danos significativos. Segure para estender a duração da carga.</text>
+<text id="5231">%null%</text>
+<text id="5232">%null%</text>
+<text id="5233">%null%</text>
+<text id="5234">%null%</text>
+<text id="5235">%null%</text>
+<text id="5236">%null%</text>
+<text id="5237">%null%</text>
+<text id="5238">%null%</text>
+<text id="5239">%null%</text>
+<text id="5240">Habilidade Única: Carga de Luz Branca
+
+Invoca uma luz branca do âmago do antigo minério,  usando seu poder para um ataque carregado que perfura os inimigos. Um comando adicional faz com que a luz exploda.</text>
+<text id="5241">%null%</text>
+<text id="5242">%null%</text>
+<text id="5243">%null%</text>
+<text id="5244">%null%</text>
+<text id="5245">%null%</text>
+<text id="5246">%null%</text>
+<text id="5247">%null%</text>
+<text id="5248">%null%</text>
+<text id="5249">%null%</text>
+<text id="5250">Habilidade Única: Corte Rancoroso
+
+Gira, cortando inimigos enquanto invoca espíritos vingativos que perseguem os inimigos. Um comando adicional permite um ataque extra.</text>
+<text id="5251">%null%</text>
+<text id="5252">%null%</text>
+<text id="5253">%null%</text>
+<text id="5254">%null%</text>
+<text id="5255">%null%</text>
+<text id="5256">%null%</text>
+<text id="5257">%null%</text>
+<text id="5258">%null%</text>
+<text id="5259">%null%</text>
+<text id="5260">Habilidade Única: Corte da Hora da Bruxa
+
+Mantém a espada nivelada e a infunde com a escuridão da noite antes de desencadear uma série de ataques incorpóreos. Este ataque não pode ser bloqueado e pode ser carregado para aumentar seu poder.</text>
+<text id="5261">%null%</text>
+<text id="5262">%null%</text>
+<text id="5263">%null%</text>
+<text id="5264">%null%</text>
+<text id="5265">%null%</text>
+<text id="5266">%null%</text>
+<text id="5267">%null%</text>
+<text id="5268">%null%</text>
+<text id="5269">%null%</text>
+<text id="5270">Habilidade Única: Vórtice de Euporia
+
+Usando o poder do vórtice, gira a arma violentamente, desferindo vários golpes diretamente à frente. Quanto maior for o brilho das lâminas, maior será o poder desta habilidade. No entanto, o uso dessa habilidade consome todo o brilho das lâminas.</text>
+<text id="5271">%null%</text>
+<text id="5272">%null%</text>
+<text id="5273">%null%</text>
+<text id="5274">%null%</text>
+<text id="5275">%null%</text>
+<text id="5276">%null%</text>
+<text id="5277">%null%</text>
+<text id="5278">%null%</text>
+<text id="5279">%null%</text>
+<text id="5280">Habilidade Única: Lanças da Arte da Forja
+
+Bate a bigorna em brasa no chão, levantando inúmeras lanças enquanto ela é puxada. As lanças desaparecem instantaneamente.</text>
+<text id="5281">%null%</text>
+<text id="5282">%null%</text>
+<text id="5283">%null%</text>
+<text id="5284">%null%</text>
+<text id="5285">%null%</text>
+<text id="5286">%null%</text>
+<text id="5287">%null%</text>
+<text id="5288">%null%</text>
+<text id="5289">%null%</text>
+<text id="5290">Habilidade Única: Corte Rancoroso
+
+Gira, cortando inimigos enquanto invoca espíritos vingativos que perseguem os inimigos. Um comando adicional permite um ataque extra.</text>
+<text id="5291">%null%</text>
+<text id="5292">%null%</text>
+<text id="5293">%null%</text>
+<text id="5294">%null%</text>
+<text id="5295">%null%</text>
+<text id="5296">%null%</text>
+<text id="5297">%null%</text>
+<text id="5298">%null%</text>
+<text id="5299">%null%</text>
+<text id="5300">Habilidade Única: Purificação de Romina
+
+Imbui a lâmina do broto com borboletas de podridão escarlate antes de liberar dois grandes cortes em arco. Este já foi considerado um ato sagrado de purificação.</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">Habilidade Única: Mão de Lança Venenosa
+
+A mão faz o formato de uma lança antes de desferir um golpe profundo que penetra no corpo do inimigo. Aflige o inimigo com uma grande dose de veneno mortal.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Habilidade Única: Mão de Lança Enlouquecedora
+
+A mão faz o formato de uma lança antes de desferir um golpe profundo que penetra no corpo do inimigo. Aflige o inimigo com uma grande dose de loucura.</text>
+<text id="5321">%null%</text>
+<text id="5322">%null%</text>
+<text id="5323">%null%</text>
+<text id="5324">%null%</text>
+<text id="5325">%null%</text>
+<text id="5326">%null%</text>
+<text id="5327">%null%</text>
+<text id="5328">%null%</text>
+<text id="5329">%null%</text>
+<text id="5330">Habilidade Única: Chama Frenética do Lorde Frágil
+
+Segura a tocha à frente e cospe chamas frenéticas. Aflige aqueles que estão em sua área de efeito com loucura, junto com o próprio usuário. A habilidade continuará enquanto manter o comando. Pode ser usada enquanto se move.</text>
+<text id="5331">%null%</text>
+<text id="5332">%null%</text>
+<text id="5333">%null%</text>
+<text id="5334">%null%</text>
+<text id="5335">%null%</text>
+<text id="5336">%null%</text>
+<text id="5337">%null%</text>
+<text id="5338">%null%</text>
+<text id="5339">%null%</text>
+<text id="5340">Habilidade Única: Fogo de Repetição
+
+Esta habilidade prepara o mecanismo de disparo rápido da arma. Uma vez em posição de prontidão, a manivela gira, disparando em rápida sucessão.</text>
+<text id="5341">%null%</text>
+<text id="5342">%null%</text>
+<text id="5343">%null%</text>
+<text id="5344">%null%</text>
+<text id="5345">%null%</text>
+<text id="5346">%null%</text>
+<text id="5347">%null%</text>
+<text id="5348">%null%</text>
+<text id="5349">%null%</text>
+<text id="5350">Habilidade Única: Dança Mortal
+
+Uma habilidade giratória agressiva que avança no inimigo usando a lâmina circular de cada mão. Um comando adicional inclui um chute descendente como ataque extra.</text>
+<text id="5351">%null%</text>
+<text id="5352">%null%</text>
+<text id="5353">%null%</text>
+<text id="5354">%null%</text>
+<text id="5355">%null%</text>
+<text id="5356">%null%</text>
+<text id="5357">%null%</text>
+<text id="5358">%null%</text>
+<text id="5359">%null%</text>
+<text id="5360">Habilidade Única: Tiro Espalhado
+
+Esta habilidade usa o arco horizontalmente. Prepara oito flechas de uma só vez, disparando-as em forma de um arco.</text>
+<text id="5361">%null%</text>
+<text id="5362">%null%</text>
+<text id="5363">%null%</text>
+<text id="5364">%null%</text>
+<text id="5365">%null%</text>
+<text id="5366">%null%</text>
+<text id="5367">%null%</text>
+<text id="5368">%null%</text>
+<text id="5369">%null%</text>
+<text id="5370">Habilidade Única: Arremesso de Disco
+
+Lança o escudo redondo como um disco. Depois de lançado, o escudo volta instantaneamente para a mão do usuário através das artes da forja.</text>
+<text id="5371">%null%</text>
+<text id="5372">%null%</text>
+<text id="5373">%null%</text>
+<text id="5374">%null%</text>
+<text id="5375">%null%</text>
+<text id="5376">%null%</text>
+<text id="5377">%null%</text>
+<text id="5378">%null%</text>
+<text id="5379">%null%</text>
+<text id="5380">Habilidade Única: Raio Draconis Floral
+
+Esta habilidade invoca o raio vermelho dos dragões antigos para atingir seu alvo. Além do dano elétrico causado, reduz temporariamente a negação do dano elétrico do alvo. Pode ser carregado para aumentar sua potência.</text>
+<text id="5381">%null%</text>
+<text id="5382">%null%</text>
+<text id="5383">%null%</text>
+<text id="5384">%null%</text>
+<text id="5385">%null%</text>
+<text id="5386">%null%</text>
+<text id="5387">%null%</text>
+<text id="5388">%null%</text>
+<text id="5389">%null%</text>
+<text id="5390">Habilidade Única: Ressentimento do Prostrado
+
+Habilidade executada como uma reverência violenta usando a saliência principal de um dedo. O ressentimento aumenta à medida que ele é forçado a se curvar, fazendo-o explodir de raiva. Mantenha o comando para aumentar ainda mais o ressentimento.</text>
+<text id="5420">Habilidade Única: Ataque Doloroso
+
+Uma chicotada de punição para infligir extrema dor. Reduz temporariamente a taxa de recuperação de vigor. A dor também torna a vítima mais obediente.</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">Habilidade Única: Corte da Lua Solitária
+
+Corta bruscamente para baixo usando a espada grande, disparando um arco de luz à frente. O ataque forte permite um avanço extra.</text>
+<text id="5431">%null%</text>
+<text id="5432">%null%</text>
+<text id="5433">%null%</text>
+<text id="5434">%null%</text>
+<text id="5435">%null%</text>
+<text id="5436">%null%</text>
+<text id="5437">%null%</text>
+<text id="5438">%null%</text>
+<text id="5439">%null%</text>
+<text id="5440">Habilidade Única: Vingança da Noite
+
+Liberta a escuridão da noite imbuída de poder mágico. Se usada imediatamente após bloquear um ataque, seu poder é absorvido, aumentando a força desta habilidade.</text>
+<text id="5441">%null%</text>
+<text id="5442">%null%</text>
+<text id="5443">%null%</text>
+<text id="5444">%null%</text>
+<text id="5445">%null%</text>
+<text id="5446">%null%</text>
+<text id="5447">%null%</text>
+<text id="5448">%null%</text>
+<text id="5449">%null%</text>
+<text id="5450">Habilidade Única: Colheita Maligna
+
+Executa golpes horizontais semelhantes a uma foice com a espada, cortando os homens como se fossem ervas daninhas. Comandos adicionais permitem a continuação do ataque enquanto houver vigor.</text>
+<text id="5451">%null%</text>
+<text id="5452">%null%</text>
+<text id="5453">%null%</text>
+<text id="5454">%null%</text>
+<text id="5455">%null%</text>
+<text id="5456">%null%</text>
+<text id="5457">%null%</text>
+<text id="5458">%null%</text>
+<text id="5459">%null%</text>
+<text id="5460">Habilidade Única: Venda da Felicidade
+
+Balança a cabeça enquanto cobre os olhos, soltando um gemido de lamentação enquanto torna o usuário desta habilidade temporariamente mais difícil de ser visto. Para aqueles que buscam a felicidade, ignorância é uma benção.</text>
+<text id="5461">%null%</text>
+<text id="5462">%null%</text>
+<text id="5463">%null%</text>
+<text id="5464">%null%</text>
+<text id="5465">%null%</text>
+<text id="5466">%null%</text>
+<text id="5467">%null%</text>
+<text id="5468">%null%</text>
+<text id="5469">%null%</text>
+<text id="5470">Habilidade Única: Inquisição de Jori
+
+Ergue o grande cajado no ar, disparando uma sucessão de arcos dourados semelhantes a farpas. Manter o comando estende a barragem por um curto período.</text>
+<text id="5471">%null%</text>
+<text id="5472">%null%</text>
+<text id="5473">%null%</text>
+<text id="5474">%null%</text>
+<text id="5475">%null%</text>
+<text id="5476">%null%</text>
+<text id="5477">%null%</text>
+<text id="5478">%null%</text>
+<text id="5479">%null%</text>
+<text id="5480">Habilidade Única: Batida Estrondosa
+
+De uma posição de guarda, realiza uma batida com escudo enquanto ruge como um leão dourado. Derruba os inimigos, causando desequilíbrio em um raio amplo.</text>
+<text id="5481">%null%</text>
+<text id="5482">%null%</text>
+<text id="5483">%null%</text>
+<text id="5484">%null%</text>
+<text id="5485">%null%</text>
+<text id="5486">%null%</text>
+<text id="5487">%null%</text>
+<text id="5488">%null%</text>
+<text id="5489">%null%</text>
+<text id="5490">Habilidade Única: Aspersão de Veneno Mortal
+
+Balança o frasco de perfume acima da cabeça, espalhando pó perfumado de veneno mortal por uma área ampla. O veneno dançará no ar e cairá silenciosamente.</text>
+<text id="5491">%null%</text>
+<text id="5492">%null%</text>
+<text id="5493">%null%</text>
+<text id="5494">%null%</text>
+<text id="5495">%null%</text>
+<text id="5496">%null%</text>
+<text id="5497">%null%</text>
+<text id="5498">%null%</text>
+<text id="5499">%null%</text>
+<text id="5500">Habilidade Única: Queima, Cobra!
+
+Acende uma chama dentro das cobras, fortalecendo temporariamente os ataques de chamas. Uma vez aceso, o impacto de um ataque forte ou de outros movimentos que atinjam o solo causará uma explosão.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">Habilidade Única: Tiro Disperso (Garras)
+
+Aplica artes da forja para conjurar múltiplas cópias das garras em ambas as mãos e lança-las todas de uma vez. Continue o ataque para disparar novamente.</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">Habilidade Única: Afiar Lâmina
+
+Executa uma ação de afiar a lâmina, afiando seu gume e aumentando a quantidade de PV recuperada. Os maiores jarristas valorizam as ferramentas do ofício.</text>
+<text id="5521">%null%</text>
+<text id="5522">%null%</text>
+<text id="5523">%null%</text>
+<text id="5524">%null%</text>
+<text id="5525">%null%</text>
+<text id="5526">%null%</text>
+<text id="5527">%null%</text>
+<text id="5528">%null%</text>
+<text id="5529">%null%</text>
+<text id="5530">Habilidade Única: Chamado do Chifre
+
+Invoca chifres emaranhados que cobrem a lâmina da arma. Espetar a arma no chão invoca um conjunto de chifres perfurantes.</text>
+<text id="5531">%null%</text>
+<text id="5532">%null%</text>
+<text id="5533">%null%</text>
+<text id="5534">%null%</text>
+<text id="5535">%null%</text>
+<text id="5536">%null%</text>
+<text id="5537">%null%</text>
+<text id="5538">%null%</text>
+<text id="5539">%null%</text>
+<text id="5540">Habilidade Única: Chamado do Chifre (Tempestade)
+
+Invoca chifres emaranhados que cobrem a lâmina da arma. Os chifres invocam uma tempestade que varre os inimigos. Comandos adicionais permitem até dois ataques em seguida.</text>
+<text id="5541">%null%</text>
+<text id="5542">%null%</text>
+<text id="5543">%null%</text>
+<text id="5544">%null%</text>
+<text id="5545">%null%</text>
+<text id="5546">%null%</text>
+<text id="5547">%null%</text>
+<text id="5548">%null%</text>
+<text id="5549">%null%</text>
+<text id="5550">Habilidade Única: Falange Tremenda
+
+Habilidade dos cavaleiros trolls encantados. Cria um arco defensivo de enormes laminantes mágicas acima da cabeça, que atacam os inimigos próximos automaticamente. Continue com um ataque forte para encadear essa habilidade com uma investida.</text>
+<text id="5551">%null%</text>
+<text id="5552">%null%</text>
+<text id="5553">%null%</text>
+<text id="5554">%null%</text>
+<text id="5555">%null%</text>
+<text id="5556">%null%</text>
+<text id="5557">%null%</text>
+<text id="5558">%null%</text>
+<text id="5559">%null%</text>
+<text id="5560">Habilidade Única: Dádiva de Sangue dos Demônios do Sangue
+
+Levanta a lança sagrada e perfura o corpo da mãe da verdade, criando uma explosão de chamas do sangue na área ao redor do alvo. Um comando adicional permite até três ataques extras.</text>
+<text id="5561">%null%</text>
+<text id="5562">%null%</text>
+<text id="5563">%null%</text>
+<text id="5564">%null%</text>
+<text id="5565">%null%</text>
+<text id="5566">%null%</text>
+<text id="5567">%null%</text>
+<text id="5568">%null%</text>
+<text id="5569">%null%</text>
+<text id="5570">Habilidade Única: Chama da Forma do Dragão
+
+Cospe fogo de uma boca em forma de dragão, formando um arco à frente. As chamas no solo continuarão a arder por um curto período de tempo.</text>
+<text id="5571">%null%</text>
+<text id="5572">%null%</text>
+<text id="5573">%null%</text>
+<text id="5574">%null%</text>
+<text id="5575">%null%</text>
+<text id="5576">%null%</text>
+<text id="5577">%null%</text>
+<text id="5578">%null%</text>
+<text id="5579">%null%</text>
+<text id="5580">Habilidade Única: Corte na Velocidade da Luz
+
+Assume uma forma luminosa e salta para a frente para desferir um golpe de cima para baixo à velocidade da luz. Este ataque será seguido por um ataque leve adicional. Carregue para aumentar o poder da habilidade e o número de ataques extras.</text>
+<text id="5600">Habilidade Única: Disparo de Rancor
+
+Imbui as flechas com espíritos vingativos, antes de disparar. Flechas imbuídas perseguem os alvos enquanto cruzam o ar.</text>
+</entries>
+</fmg>

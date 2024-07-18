@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="302600">Partes da Shadow Tree podem ser encontradas em todas as sombras.
+
+Comer karuna aumenta a fertilidade da árvore de sombra.
+
+Shadow Tree Blessing reforça a capacidade do destinatário de causar dano e destruir. No entanto, não tem outro efeito além da sombra.</text>
+<text id="302601">%null%</text>
+<text id="302602">%null%</text>
+<text id="302603">%null%</text>
+<text id="302604">%null%</text>
+<text id="302605">%null%</text>
+<text id="302606">%null%</text>
+<text id="302607">%null%</text>
+<text id="302608">%null%</text>
+<text id="302609">%null%</text>
+<text id="302610">Disponível em todos os tons desta linda cor cinza.
+
+Comer bhasmavaseh em um local auspicioso pode aumentar o poder das bênçãos do delicioso bhasmavaseh.
+
+A bênção de Noble Ash apoia o comportamento e eleva a imunidade da alma a um nível crítico. No entanto, não tem influência fora do Império das Sombras.</text>
+<text id="302611">%null%</text>
+<text id="302612">%null%</text>
+<text id="302613">%null%</text>
+<text id="302614">%null%</text>
+<text id="302615">%null%</text>
+<text id="302616">%null%</text>
+<text id="302617">%null%</text>
+<text id="302618">%null%</text>
+<text id="302619">%null%</text>
+<text id="302620">O novo recurso pode ser habilitado na aba Visualizar do menu Sistema.
+
+- O primeiro item encontrado pode usar &lt;?newItemIcon?&gt;
+- Crie uma guia separada para visualizar suas compras recentes.</text>
+<text id="402600">Encontre a Aparência da Árvore das Sombras para aumentar a Bênção da Árvore das Sombras.
+
+Blessing of the Shadow Tree suporta a habilidade de lançamento para reduzir danos. No entanto, não tem influência fora do Império das Sombras.</text>
+<text id="402601">%null%</text>
+<text id="402602">%null%</text>
+<text id="402603">%null%</text>
+<text id="402604">%null%</text>
+<text id="402605">%null%</text>
+<text id="402606">%null%</text>
+<text id="402607">%null%</text>
+<text id="402608">%null%</text>
+<text id="402609">%null%</text>
+<text id="402610">Você pode adicionar bênçãos de cremação que podem ser obtidas usando a cremação.
+
+A bênção de Noble Ash apoia o comportamento e eleva a imunidade da alma a um nível crítico. No entanto, não tem influência fora do Império das Sombras.</text>
+</entries>
+</fmg>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Cinza da Guerra: Redemoinho de Folhaseca</text>
+<text id="200100">Cinza da Guerra: Aspectos do Crisol (Asas)</text>
+<text id="400000">Cinza da Guerra: Impulso Gravitacional Giratório</text>
+<text id="401000">Cinza da Guerra: Explosão de Palma</text>
+<text id="402000">Cinza da Guerra: Arremesso Perfurante</text>
+<text id="403000">Cinza da Guerra: Arremesso Disperso</text>
+<text id="404000">Cinza da Guerra: Parede de Faíscas</text>
+<text id="405000">Cinza da Guerra: Onda de Faíscas</text>
+<text id="406000">Cinza da Guerra: Fera Furiosa</text>
+<text id="407000">Cinza da Guerra: Garras Selvagens</text>
+<text id="409000">Cinza da Guerra: Ponto Cego</text>
+<text id="410000">Cinza da Guerra: Corte Rápido</text>
+<text id="411000">Cinza da Guerra: Postura Aérea</text>
+<text id="412000">Cinza da Guerra: Postura de Asa</text>
+<text id="413000">Cinza da Guerra: Raio de Lampejo</text>
+<text id="414000">Cinza da Guerra: Espeto Flamejante</text>
+<text id="415000">Cinza da Guerra: Garra do Leão Selvagem</text>
+<text id="416000">Cinza da Guerra: Pisão Congelante da Fera Divina</text>
+<text id="417000">Cinza da Guerra: Lança Flamejante</text>
+<text id="418000">Cinza da Guerra: Soberania Cariana</text>
+<text id="419000">Cinza da Guerra: Grito de Tristeza</text>
+<text id="422000">Cinza da Guerra: Chamado da Chama Espectral</text>
+<text id="505000">Cinza da Guerra: A Flor Venenosa Brota Duas Vezes</text>
+<text id="548000">Cinza da Guerra: Caçada de Draco de Igon</text>
+<text id="800000">Cinza da Guerra: Ataque com Escudo</text>
+</entries>
+</fmg>

@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3000000">Dan Folhaseka caminha ao sol com seu chapéu sujo na altura dos olhos, turvando a visão de seu dono.
+
+Grande sabedoria pode ser encontrada olhando nos olhos dos outros. Porém, isso muitas vezes leva ao fracasso daqueles que trilham o caminho da fama e seguem esse caminho sozinhos.</text>
+<text id="3000100">Kit de treinamento danificado, pequenos danos.
+
+O colar de ouro encontrado no fundo da caixa pertencia a um grupo de caçadores de almas conhecido como Ordem das Folhas Secas.
+
+Este grupo recusa-se a confiar nos outros para todas as questões de fé. Mas acima de tudo eles buscam autocontrole e satisfação.</text>
+<text id="3000200">Anéis de sol e poeira
+
+Isso cobre suas mãos e evita quebras.</text>
+<text id="3000300">Kit de treinamento danificado, pequenos danos.
+Os sapatos são resistentes a medicamentos.</text>
+<text id="3001100">Kit de treinamento danificado, pequenos danos.
+
+Ela carregava uma bolsa de couro no ombro com um logotipo semelhante ao de Michaela.</text>
+<text id="3010000">chapéu preto de ganso
+Alguns fazem armaduras quando a cabeça falha.
+
+Gaius foi aluno do mesmo deus que ensinou a Radan e Gaia os métodos da gravidade.</text>
+<text id="3010100">O líder da armadura de black metal é Gaius
+Alguns fazem armaduras quando a cabeça falha.
+
+Gaius foi aluno do mesmo deus que ensinou a Radan e Gaia os métodos da gravidade.</text>
+<text id="3010200">Classificação Negra do Comandante Guise
+Alguns fazem armaduras quando a cabeça falha.
+
+Gaius foi aluno do mesmo deus que ensinou a Radan e Gaia os métodos da gravidade.</text>
+<text id="3010300">Estátua de metal preto do General Guise
+Piadas bobas não funcionam.
+
+No caminho, ele apresenta sua outra metade, Caio, um verdadeiro guerreiro albino.</text>
+<text id="5000000">Jure com um chapéu de cavaleiro
+Preto e dourado
+
+Esses heróis começaram sua expedição com a esperança de prometer lealdade absoluta e eterna ao seu dever.</text>
+<text id="5000100">Armadura Potente de Agulha de Leda Knight
+Ataques de Especialistas Ataques de explosão programados ao virar ou recuar
+
+É decorado com um desenho de cruz dourada. Roupas e mantos brancos representam a honra de um guerreiro.
+
+“O estilo de Michael dá a ele a arma para conquistar tudo e qualquer coisa.”</text>
+<text id="5000200">Juramento do Cavaleiro
+Preto e dourado
+
+Esses heróis começaram sua expedição com a esperança de prometer lealdade absoluta e eterna ao seu dever.</text>
+<text id="5000300">Meias Noite de Terror
+Preto e dourado
+
+Esses heróis começaram sua expedição com a esperança de prometer lealdade absoluta e eterna ao seu dever.</text>
+<text id="5002100">Juramento do Cavaleiro
+Preto e dourado
+
+Esses heróis começaram sua expedição com a esperança de prometer lealdade absoluta e eterna ao seu dever.</text>
+<text id="5010000">O capacete é feito de um metal raro chamado pátina.
+
+Diz-se que a cor é um presente dos deuses exteriores.
+As propriedades do aço o tornam forte e flexível.</text>
+<text id="5010100">O corpo é protegido por um metal raro chamado pátina.
+
+Diz-se que a cor é um presente dos deuses exteriores.
+As propriedades do aço o tornam forte e flexível.</text>
+<text id="5010200">A luva é feita de metal raro com pátina.
+
+Diz-se que a cor é um presente dos deuses exteriores.
+As propriedades do aço o tornam forte e flexível.</text>
+<text id="5010300">As caneleiras são feitas de um metal raro chamado pátina.
+
+Diz-se que a cor é um presente dos deuses exteriores.
+As propriedades do aço o tornam forte e flexível.</text>
+<text id="5020000">As enormes penas de urso vermelho em sua cabeça permaneceram intactas.
+
+Isso cria uma ilusão conhecida como "explosão dividida".
+-
+Esta planta foi descoberta no final da guerra sangrenta. Também é bom para transformar soldados em ursos.</text>
+<text id="5020100">A armadura do Urso Vermelho é famosa por sua loucura.
+O cinto é feito de couro vermelho. Fixado com rebites metálicos
+
+Depois de matar um urso vermelho gigante em batalha, sua grande força lhe deu força.
+"Eu quero ser um urso assim."</text>
+<text id="5020200">Ondas de loucura do urso vermelho
+Fixado com rebites metálicos
+
+Depois de matar um urso vermelho gigante em batalha, sua grande força lhe deu força.
+"Eu quero ser um urso assim."</text>
+<text id="5020300">Greaves, o Urso Vermelho, seu nome está desaparecendo loucamente.
+Fixado com rebites metálicos
+
+Depois de matar um urso vermelho gigante em batalha, sua grande força lhe deu força.
+"Eu quero ser um urso assim."</text>
+<text id="5021000">Perdido nesta loucura está Red Bear Hat.
+secagem de marfim
+
+Talvez seu fascínio pela força bruta ilimitada venha de sua formação em Redman.</text>
+<text id="5030000">Esta máscara deixa o rosto frio e morto.
+
+O cabelo prateado da Trina de São João acrescenta ainda mais mistério.
+
+Toriel encontrou um doce descanso e sonhos gentis. Ele passou o resto do tempo tentando conquistá-la.</text>
+<text id="5030100">Uma capa preta para um agente secreto.
+
+O cabelo prateado da Trina de São João acrescenta ainda mais mistério.
+
+E aparecem muitas agulhas que têm um efeito negativo no corpo.</text>
+<text id="5030200">Aqueles que usam uniformes pretos são frequentemente desprezados e tratados com ódio e sigilo.</text>
+<text id="5030300">As roupas escuras de um viciado em drogas enrustido não são atraentes e são repulsivas para os outros.</text>
+<text id="5031100">Uma capa preta para um agente secreto.
+
+Um tecido especial com efeito mágico é costurado na parte externa.</text>
+<text id="5060000">Chapéu do Velho Conde Ymir
+O círculo superior representa a mente e a grande escuridão.
+
+Embora o Conde Ymir tenha treinado Lellana em magia, ela abandonou sua crença na lua.
+
+"É a coisa mais próxima do céu."</text>
+<text id="5060100">Vestes do Sumo Sacerdote Conde Ymir.
+Muitas reviravoltas estão escondidas abaixo.
+
+Cortinas douradas decoradas com tecido roxo. E um colar que brilha como orvalho</text>
+<text id="5060200">Sumo sacerdote do Conde Ymir
+Macio e bem feito</text>
+<text id="5060300">Vestes do Sumo Sacerdote Conde Ymir.
+Macio e bem feito</text>
+<text id="5062100">Vestes do Sumo Sacerdote Conde Ymir.
+A parte frontal se abre para revelar pernas arredondadas.
+
+Este vestido expressa o amor romântico. Mostre toda a sua força. Seus dedos ficam tão lindos quando você os usa.
+
+“Claro que serei mãe.
+Meus dedos nos trazem a salvação! -</text>
+<text id="5070000">A máscara peculiar da lagarta é poderosa. Esta é uma tradição Mahatzalista na aldeia Boni.
+
+É utilizado para eliminar impurezas, dúvidas, tentações e outros pensamentos negativos. O que pode acontecer ao participar de cerimônias sagradas</text>
+<text id="5070100">Ela estava usando um vestido preto rasgado amarrado com uma fita trançada. O sinal cego do cervo vingativo.
+
+Um fio tecido conecta os juramentos dos vingadores com a ira dos oprimidos. Isso não acontecerá novamente.
+
+Outros chifres apoiam o espírito protetor e vingativo do feto.</text>
+<text id="5070200">Ela estava usando um vestido preto rasgado amarrado com uma fita trançada. O sinal cego do cervo vingativo.</text>
+<text id="5070300">Esta roupa íntima exclusiva é feita de tecido tártaro. Não é útil apenas para esconder espaço.</text>
+<text id="5080000">Roupas vermelhas brilhantes das dançarinas de Rana
+Melhor desempenho em combate
+
+Rana Dance é uma das dançarinas gostosas e apaixonadas que nunca para de dançar e nem perde o nome enquanto continua a dançar.
+
+Assistir ao fim do amor é como apagar uma luz dançante.</text>
+<text id="5080100">Vestido vermelho brilhante usado pela dançarina da época.
+Melhor desempenho em combate
+
+Rana Dance é uma das dançarinas gostosas e apaixonadas que nunca para de dançar e nem perde o nome enquanto continua a dançar.
+
+Assistir ao fim do amor é como apagar uma luz dançante.</text>
+<text id="5080200">Um instrumento usado para fazer Rana dançar
+
+Melhor desempenho em combate
+
+Ele foi projetado para proteger a mão ao usar a espada.</text>
+<text id="5080300">A cantora Rana usava calça preta por baixo da saia justa.
+
+Melhor desempenho em combate</text>
+<text id="5081100">Abaixo está a apresentação do vestido preto usado por Rana Dancer Persa.
+
+Melhor desempenho em combate</text>
+<text id="5090000">Um capacete frio tocando a escuridão sem fim
+Esta área possui marca d'água na forma de uma impressão digital. Bloqueia os usuários na escuridão total
+
+Aqueles nascidos neste mundo estarão ligados a este mundo, aqueles que conhecem a espada da noite.</text>
+<text id="5090100">Escudo da Escuridão Eterna, Toque Frio.
+Esta área possui marca d'água na forma de uma impressão digital. Bloqueia os usuários na escuridão total
+
+Aqueles nascidos neste mundo estarão ligados a este mundo, aqueles que conhecem a espada da noite.</text>
+<text id="5090200">Criminosos das Trevas Eternas são um pouco frios
+Esta área possui marca d'água na forma de uma impressão digital. Bloqueia os usuários na escuridão total
+
+Aqueles nascidos neste mundo estarão ligados a este mundo, aqueles que conhecem a espada da noite.</text>
+<text id="5090300">As pernas de Eternal Darkness são um toque legal
+Esta área possui marca d'água na forma de uma impressão digital. Bloqueia os usuários na escuridão total
+
+Aqueles nascidos neste mundo estarão ligados a este mundo, aqueles que conhecem a espada da noite.</text>
+<text id="5100000">O capacete do guerreiro dragão Aegon contém muitas armas. Sua armadura estava quebrada, assim como a sua.
+
+Um homem formidável no campo de batalha, respeitado pelo Clã Dragão.</text>
+<text id="5100100">Existem vários aspectos na armadura que o Dragão Guerreiro usou para derrotar Aegon. Roupas sujas presas em trajes anti-risco rasgados.
+
+Um homem formidável no campo de batalha, respeitado pelo Clã Dragão.</text>
+<text id="5100200">Aegon o derrotou com a Manopla do Guerreiro Dragão. Esses corpos foram recuperados daqueles encontrados após a batalha. O sangue das gerações anteriores está manchado</text>
+<text id="5100300">O Dragão Guerreiro Dourado derrotou Aegon. Os corpos encontrados depois da guerra foram usados ​​e as roupas cheiravam mal.</text>
+<text id="5101000">O capacete do guerreiro dragão Aegon contém muitas armas. Estava coberto com pano.
+
+Um homem formidável no campo de batalha, respeitado pelo Clã Dragão.</text>
+<text id="5101100">Existem vários aspectos na armadura que o Dragão Guerreiro usou para derrotar Aegon. Estava coberto com pano.
+
+Um homem formidável no campo de batalha, respeitado pelo Clã Dragão.</text>
+<text id="5110000">A máscara de Sir Unsbeck dá a impressão de um velho barbudo calmo e sábio.
+
+Mas por trás da máscara ainda há música antiga e fria. E quando ele pegou a espada, o aviso foi claro. Agora ele planeja melhorar sua linhagem e seu poder real.</text>
+<text id="5110100">O vestido do Rei Ansbach tem um equilíbrio quase puro.
+
+O sistema de sangue e royalties aumentou ligeiramente.
+
+Ansbach percebeu que o juramento de seu mestre estava errado e não o ofendeu. Mas por estas razões não pode falhar.</text>
+<text id="5110200">Alças Sir Ansbeck, couro preto com detalhes dourados.
+
+O sistema de sangue e royalties aumentou ligeiramente.</text>
+<text id="5110300">Os sapatos pretos de Sir Ansbeck adornados com joias de ouro.
+
+O sistema de sangue e royalties aumentou ligeiramente.</text>
+<text id="5111100">Vestido preto do Rei Unsbeck com detalhes dourados.
+
+O sistema de sangue e royalties aumentou ligeiramente.</text>
+<text id="5120000">O capacete dourado da cavaleira Freya Redmane, um dos comandantes mais famosos do general Bin Laden.
+
+A certa altura, uma barriga vermelha se abriu no meio de seu rosto.
+
+Depois de um momento, Mikaela pressionou suavemente os lábios nos dele, e aquele olhar destemido se tornou a bússola que Freya vinha seguindo desde então.</text>
+<text id="5120100">A armadura dourada de Freya, linda guerreira vermelha. Ele é um dos famosos comandantes do General Radan e usa uma camisa preta.
+
+Testemunhando o poder de Freya em sua juventude, Ra'dan a convidou para se juntar a seus leais guerreiros.</text>
+<text id="5120200">O manto dourado do Cavaleiro Vermelho Freya, um dos comandantes mais famosos do General Redarn.
+
+Testemunhando o poder de Freya em sua juventude, Ra'dan a convidou para se juntar a seus leais guerreiros.</text>
+<text id="5120300">A pedra dourada de Freya, o Cavaleiro Vermelho, um dos generais mais famosos do General Rhydharn.
+
+Testemunhando o poder de Freya em sua juventude, Ra'dan a convidou para se juntar a seus leais guerreiros.</text>
+<text id="5121100">A armadura dourada de Freya, linda guerreira vermelha. Um dos administradores mais famosos do General Radan.
+
+Testemunhando o poder de Freya em sua juventude, Ra'dan a convidou para se juntar a seus leais guerreiros.</text>
+<text id="5130000">Capacete do Cavaleiro do Inferno
+Uma armadura pesada que usa placas de metal para cobrir o corpo.
+
+Diz-se que em ruínas desconhecidas nas Terras Sombrias habita o fantasma de um herói que perdeu o nome e o coração.</text>
+<text id="5130100">Armadura helenita
+A armadura pesada cobre metade do corpo de uma pessoa, é coberta com placas de metal e fixada com tecido preto.
+
+Diz-se que em ruínas desconhecidas nas Terras Sombrias habita o fantasma de um herói que perdeu o nome e o coração.</text>
+<text id="5130200">Armadura de Metal do Cavaleiro do Inferno
+Uma armadura pesada que usa placas de metal para cobrir o corpo.
+
+Diz-se que em ruínas desconhecidas nas Terras Sombrias habita o fantasma de um herói que perdeu o nome e o coração.</text>
+<text id="5130300">Cavaleiro em confinamento solitário
+Uma armadura pesada que usa placas de metal para cobrir o corpo.
+
+Diz-se que em ruínas desconhecidas nas Terras Sombrias habita o fantasma de um herói que perdeu o nome e o coração.</text>
+<text id="5131100">Armadura de Ferro do Cavaleiro Solitário da Prisão
+Uma armadura pesada que usa placas de metal para cobrir o corpo.
+
+Os espíritos desses santuários sem nome protegem as almas dos heróis que perderam seus nomes ou corações.</text>
+<text id="5140000">O capacete militar de Mesmer, o Empalador, tem um espelho.
+
+Embora a tatuagem na testa seja feita de papel, ela é dourada. Isto é pouco consolo para aqueles que são forçados a lutar sem dignidade ou graça.</text>
+<text id="5140100">Mesmert, a armadura dos soldados a serviço de Calcidotis, usa uma armadura presa a uma corrente de aço.
+
+A caixa tinha a foto de Umratri e letras douradas gravadas nela. Isto é pouco consolo para aqueles que são forçados a lutar sem dignidade ou graça.</text>
+<text id="5140200">Os uniformes dos soldados que serviam Mesmer, um lenhador, estavam cobertos de ferrugem e cobertos por infinitos uniformes militares.</text>
+<text id="5140300">Durante a guerra constante, os soldados que trabalhavam para o Empalador cobriram o aço de Mesmer com aço e sujeira.</text>
+<text id="5141100">Mesmer, a armadura dos soldados que trabalham para o Empalador, é uma rede de batalha sem fim.
+
+A caixa tinha a foto de Umratri e letras douradas gravadas nela. Isto é pouco consolo para aqueles que são forçados a lutar sem dignidade ou graça.</text>
+<text id="5150000">Um capacete dourado usado pelo Cavaleiro Negro Mesmer, Cloud Impaler. Um crânio podre estava preso ao seu corpo.
+
+Talvez ele estivesse sangrando muito. Ou talvez os espíritos sombrios dos trabalhadores fiquem mais fortes depois de serem mortos repetidas vezes.</text>
+<text id="5150100">Armadura Mesmer usada pelo Cavaleiro Negro de Calcidotis.
+
+Embora o painel do peito seja umbratri, ele é fundido em ouro. Isto é pouco consolo para aqueles que são forçados a lutar sem dignidade ou graça.</text>
+<text id="5150200">As roupas do Cavaleiro Negro são deslumbrantes e as nuvens do Empalador são feitas de ouro. O principal ponto de venda ainda está lá.
+
+Provavelmente devido ao sangue fluindo por seu corpo devido ao ferimento. Ou as almas sombrias dos trabalhadores serão destruídas num massacre sem fim.</text>
+<text id="5150300">Os desgastados pés negros dos servos de Mesmer na nebulosa Betel são adornados com ouro, a cabeça podre ainda repousa sobre eles.
+
+Provavelmente devido ao sangue fluindo por seu corpo devido ao ferimento. Ou as almas sombrias dos trabalhadores serão destruídas num massacre sem fim.</text>
+<text id="5160000">O sangue fluiu de sua mão ferida e cobriu o capacete do demônio. Ele jogou fora suas roupas velhas como se estivesse fugindo dos destroços do assassinato.
+
+Aumenta o dano dos inimigos. No entanto, aumenta os danos ao usuário.
+
+Pegue e sirva. Somente aqueles que repetem esse processo continuamente podem alcançar a destruição da solidão e se tornarem demônios.</text>
+<text id="5160100">A arma do demônio estava encharcada com o sangue de suas vítimas. Ele jogou fora suas roupas velhas como se estivesse fugindo dos destroços do assassinato.
+
+Aumenta o dano dos inimigos. No entanto, aumenta os danos ao usuário.
+
+Pegue e sirva. Somente aqueles que repetem esse processo continuamente podem alcançar a destruição da solidão e se tornarem demônios.</text>
+<text id="5160200">O sangue nas mãos dos mortos reveste os demônios. Ele jogou fora suas roupas velhas como se estivesse fugindo dos destroços do assassinato.
+
+Aumenta o dano dos inimigos. No entanto, aumenta os danos ao usuário.
+
+Pegue e sirva. Somente aqueles que repetem esse processo continuamente podem alcançar a destruição da solidão e se tornarem demônios.</text>
+<text id="5160300">O sangue do demônio é o sangue que vaza dos cadáveres. Ele jogou fora suas roupas velhas como se estivesse fugindo dos destroços do assassinato.
+
+Aumenta o dano dos inimigos. No entanto, aumenta os danos ao usuário.
+
+Pegue e sirva. Somente aqueles que repetem esse processo continuamente podem alcançar a destruição da solidão e se tornarem demônios.</text>
+<text id="5180000">O Mesmer é um elmo de cavaleiro sob o Relaxer, brilhando com aceiros.
+
+Limite de HP, potência e limite de recursos aumentados ligeiramente.
+
+Cada herói vem de uma famosa família de árvores, mas somente depois de jurar que Mesmer é seu rei. Eles foram rejeitados e expulsos de suas casas.</text>
+<text id="5180100">Foi o próprio Mesmer quem criou o giz que controla a arma do Cavaleiro do Fogo.
+
+Uma boina vermelha e duas pulseiras de ouro adornavam seu pescoço. Mesmer enfatizou seu interesse.
+
+Eles foram as únicas pessoas que realmente compreenderam Mesmer. Seu fogo é como uma cobra. O doloroso colar fazia parte de seu corpo amaldiçoado.</text>
+<text id="5180200">As Luvas do Cavaleiro do Fogo serviram como Empalador Mesmer.
+
+Cada herói vem de uma famosa família de árvores, mas somente depois de jurar que Mesmer é seu rei. Eles foram rejeitados e expulsos de suas casas.</text>
+<text id="5180300">Mesmer, texto da ordem de fogo sob o comando do Empalador.
+
+Cada herói vem de uma famosa família de árvores, mas somente depois de jurar que Mesmer é seu rei. Eles foram rejeitados e expulsos de suas casas.</text>
+<text id="5181100">Foi o próprio Mesmer quem criou o giz que controla a arma do Cavaleiro do Fogo.
+
+Cada herói vem de uma famosa família de árvores, mas somente depois de jurar que Mesmer é seu rei. Eles foram rejeitados e expulsos de suas casas.</text>
+<text id="5182000">O capacete de Vigo é o mais antigo entre os bombeiros. Destrua duas Máscaras da Morte seguidas.
+
+Reduz a quantidade de FP usada ao invocar fantasmas.
+
+Mesmer, um velho solitário, focado no espírito do fogo. Use-o para celebrar a ressurreição dos mortos.
+
+Porém, o corpo sem vida que ele vê ao acordar não consola o pobre Viggo.</text>
+<text id="5183000">No topo está Tiger Kut, a Serpente Alada, o chefe dos bombeiros do capacete.
+
+Aumente o poder do Cavaleiro do Fogo
+
+A serpente alada é um exemplo vivo do poder de Mesmer. É a sabedoria que pode conter a grande serpente e refrear o seu poder.</text>
+<text id="5184000">O líder da Salsa é o Sábio do Culto do Fogo
+
+Ele estava coberto com um pano e sua cabeça estava inchada.
+
+Seguidor de Vago de longa data, ele se recusou a arriscar sua vida incendiando ruínas antigas.</text>
+<text id="5190000">Os capacetes usados ​​pelos guerreiros das Terras Altas eram feitos de couro trançado. O branco representa sua casa.
+
+Os guerreiros das planícies são chamados de caçadores de ursos. Mas não há nada melhor do que conquistar animais selvagens.</text>
+<text id="5190100">É utilizado o traje nacional do guerreiro das planícies, enfeitado com pele. O conjunto é composto por tecido azul com estampas vermelhas.
+
+Apenas os caçadores de ursos usam cintos vermelhos. Os do norte são os melhores e mais brilhantes.</text>
+<text id="5190200">Armas usadas pelos guerreiros da montanha. Feito de couro, enrolado em corda.
+
+Os guerreiros das planícies são chamados de caçadores de ursos. Mas não há nada melhor do que conquistar animais selvagens.</text>
+<text id="5190300">As botas dos guerreiros da montanha eram feitas de couro grosso e tinham tiras fortes. Cria uma sensação de calor, assim como a lã.
+
+Os guerreiros das planícies são chamados de caçadores de ursos. Mas não há nada melhor do que conquistar animais selvagens.</text>
+<text id="5191000">Capacete de couro usado pelos guerreiros nas planícies. O branco representa sua casa.
+
+Os guerreiros das Terras Altas eram conhecidos como caçadores de ursos. Essa luta contra os animais selvagens lhe rendeu honra e respeito.</text>
+<text id="5191100">A roupa tradicional do samurai é simples. Foi utilizado tecido revestido na cor azul.
+
+Os guerreiros das Terras Altas eram conhecidos como caçadores de ursos. Essa luta contra os animais selvagens lhe rendeu honra e respeito.</text>
+<text id="5200000">A máscara mortuária dourada que controla as armas de um Comensal da Morte.
+
+Cultive a magia e o poder da cultura do dragão na capital.
+
+As podres pernas douradas que adornam seu corpo indicam sua devoção inabalável a Godwin, o Príncipe da Morte.</text>
+<text id="5200100">A armadura dourada do Comensal da Morte é decorada com esculturas em videiras.
+
+Cultive a magia e o poder da cultura do dragão na capital.
+
+Esses heróis são os guardas de Godwin e querem encontrar uma equipe para representar seu rei no Nightborn do próximo ano.</text>
+<text id="5200200">As vestes douradas do Cavaleiro da Morte são decoradas com antigos símbolos de madeira.
+
+Cultive a magia e o poder da cultura do dragão na capital.
+
+Esses heróis são os guardas de Godwin e querem encontrar uma equipe para representar seu rei no Nightborn do próximo ano.</text>
+<text id="5200300">As meias douradas do Cavaleiro da Morte são decoradas com madeira.
+
+Cultive a magia e o poder da cultura do dragão na capital.
+
+Esses heróis são os guardas de Godwin e querem encontrar uma equipe para representar seu rei no Nightborn do próximo ano.</text>
+<text id="5210000">A máscara da coroa torcida representa o invocador dos deuses.
+
+Divine Call aumenta o poder do usuário. Ele então transforma a poção de fertilidade em náusea. Reduza os efeitos da abstinência consumindo uma garrafa de lágrimas sagradas.
+
+Isso é feito usando uma máscara.</text>
+<text id="5210100">As roupas luxuosas do artista mostram sua dedicação à dura vida dos trabalhadores.
+
+Criando um deus humano a partir de carne humana. Eles trabalham duro para melhorar seu estado mental.</text>
+<text id="5210200">O braço do sistema longitudinal é guiado.
+
+Criando um deus humano a partir de carne humana. Eles trabalham duro para melhorar seu estado mental.</text>
+<text id="5210300">Um passo importante no ascetismo envolve um compromisso com um sacrifício intenso.
+
+Criando um deus humano a partir de carne humana. Eles trabalham duro para melhorar seu estado mental.</text>
+<text id="5220000">Mesmer, há duas serpentes aladas no capacete preto do empalador.
+Aumenta o poder de Mesmer e Cavaleiros.
+
+A serpente alada era a companheira constante de Mesmer.
+
+Ele estava lá enquanto a cobra estava coberta. Ele estava lá durante a aliança eterna. Depois que sua mãe destrói a bondade que ele recebeu dela, eles continuam a segui-lo em um novo caminho nascido do mal. Eles aceitaram seu destino.</text>
+<text id="5220100">Mesmer, a arma negra do Empalador.
+Está associado a um chapéu vermelho e logotipo.
+
+Apesar dos desejos de sua mãe, Mesmer tornou-se um ícone musical. Isso lhe deu a sensação de limpeza que ele procurava.
+
+"Sua maldição, sua raiva e sua dor são todas minhas."</text>
+<text id="5220200">Fato Mesmer Remo Preto
+
+Apesar dos desejos de sua mãe, Mesmer tornou-se um ícone musical. Isso lhe deu a sensação de limpeza que ele procurava.
+
+"Sua maldição, sua raiva e sua dor são todas minhas."</text>
+<text id="5220300">Mesmer toca sua hera negra
+
+Apesar dos desejos de sua mãe, Mesmer tornou-se um ícone musical. Isso lhe deu a sensação de limpeza que ele procurava.
+
+"Sua maldição, sua raiva e sua dor são todas minhas."</text>
+<text id="5221000">Mesmer, há duas serpentes aladas no capacete preto do empalador.
+
+A serpente alada era a companheira constante de Mesmer.
+
+Ele estava lá enquanto a cobra estava coberta. Ele estava lá durante a aliança eterna. Depois que sua mãe destrói a bondade que ele recebeu dela, eles continuam a segui-lo em um novo caminho nascido do mal. Eles aceitaram seu destino.</text>
+<text id="5230000">O Capacete de Cabeça de Pássaro Mágico evoca uma aura mágica.
+O pássaro túmulo é um golem antigo criado para guardar o grande túmulo que se forma ao final de cada morte.
+
+O pássaro túmulo é um golem antigo criado para guardar o grande túmulo que se forma ao final de cada morte.</text>
+<text id="5230100">Uma arma de pedra com sombra verde. Parte da armadura de Gravebird.
+Use o Capacete Black Bird of Death para saltar.
+
+O pássaro túmulo é um golem antigo criado para guardar o grande túmulo que se forma ao final de cada morte.</text>
+<text id="5230200">A pulseira Green Grip Stone faz parte da armadura definida por Gravebird.
+
+O pássaro túmulo é um golem antigo criado para guardar o grande túmulo que se forma ao final de cada morte.</text>
+<text id="5230300">Armadura de tornozeleira verde do conjunto Gravebird.
+
+O pássaro túmulo é um golem antigo criado para guardar o grande túmulo que se forma ao final de cada morte.</text>
+<text id="5231100">Uma arma de pedra com sombra verde. Parte da armadura de Gravebird.
+
+O pássaro túmulo é um golem antigo criado para guardar o grande túmulo que se forma ao final de cada morte.</text>
+<text id="5240000">Capacete de Infantaria do Exército Mesmer
+
+O modo escuro depende da face real do proprietário.</text>
+<text id="5240100">Infantaria Blindada do Exército Mesmer
+
+O modo escuro depende da face real do proprietário.</text>
+<text id="5240200">anti-infantaria
+
+O sabonete preto grudou no rosto verdadeiro de seu dono.</text>
+<text id="5240300">Divisão de Infantaria Mesmer.
+
+O sabonete preto grudou no rosto verdadeiro de seu dono.</text>
+<text id="5250000">O capacete tem uma coroa curva e chifres poderosos que permitem ao usuário invocar os deuses. O soldado tinha chifres na camisa. guardião da torre
+
+A Invocação Divina aumenta o poder do usuário. Transforma as bênçãos da poção em náusea e reduz o efeito curativo de beber um frasco de lágrimas sagradas.
+
+Não há desconforto ao usar este chapéu.</text>
+<text id="5250100">A armadura da torre de vigia protege a torre.
+
+A caixa estava coberta com um pano amarelo brilhante que lembrava o corpo nu de um antigo guerreiro.</text>
+<text id="5250200">Há uma grande joia entre os guerreiros com chifres que guardam a torre.</text>
+<text id="5250300">Infantaria com chifres. O guarda da torre é como uma versão nua de um antigo guerreiro.</text>
+<text id="5252000">Esta criatura lendária tem um cocar com chifres curvos na cabeça. Permite ao usuário invocar deuses. Entre os guerreiros com chifres escolhidos havia também os guerreiros escolhidos por Deus.
+
+O chamado de Deus aumenta o poder. A força e a velocidade da tempestade também reduzem o efeito curativo de beber Lágrimas Sagradas.
+
+Usar este chapéu reduz seu foco.</text>
+<text id="5252100">A armadura dos guerreiros com chifres escolhidos como criaturas lendárias era decorada com peles de leão.
+
+Entre os famosos heróis animais, apenas aqueles que conseguem invocar os deuses podem se tornar águias guardiãs e alcançar a glória da dança do leão.</text>
+<text id="5253000">Um chifre torcido usado em um cocar de pássaro sagrado permite ao usuário invocar os deuses. Samurais que adoravam pássaros foram os primeiros samurais com chifres.
+
+Divine Gathering aumenta o poder do Divine Bird e reduz o efeito de cura das Divine Tears.
+
+Não há desconforto ao usar este chapéu.</text>
+<text id="5253100">Um pássaro maravilhoso, o primeiro chifre com braços dourados.
+
+O pássaro dourado é considerado um animal selvagem e não tolera interação humana. Muito poucas pessoas oram a Deus.</text>
+<text id="5253200">Os Guerreiros do Deus Pássaro foram os primeiros guerreiros com chifres. E suas luvas são douradas.
+
+O pássaro dourado é considerado um animal selvagem e não tolera interação humana. Muito poucas pessoas oram a Deus.</text>
+<text id="5253300">As garras do pássaro guerreiro, o primeiro guerreiro com chifres, eram feitas de ouro.
+
+Um dedo grande e pontiagudo aumenta a força do chute.</text>
+<text id="5260000">O lindo capacete lunar de Lelana era feito de bronze.
+
+Diz-se que Renella, esposa do rei de Caria, traiu seu irmão de sangue para perseguir o sombrio Mesmer.</text>
+<text id="5260100">Lelana, Moon Knight é uma bela peça de armadura de metal.
+
+É decorado com lápis-lazúli no mesmo tom de Caria. Sua brancura não desapareceu completamente.</text>
+<text id="5260200">A Máscara da Lua de Lela é feita de couro de alta qualidade</text>
+<text id="5260300">Uma bela roupa para Moon Knight Rellana. Feito de cobre</text>
+<text id="5270000">O chapéu dourado que Raad usou na juventude. Ela orgulhosamente exibiu seu lindo cabelo. Este vestido combina com um leão.
+
+Ra'dan perguntou, franzindo a testa como Melania; A espada de Michaela estava espalhando o mal por Ionia.
+
+"Miguela está esperando por você. Respeite a princesa."</text>
+<text id="5270100">A armadura dourada que Raad usava quando criança. É decorado com detalhes dramáticos em vermelho. Lâmina do Leão
+
+Ra'dan perguntou, franzindo a testa como Melania; A espada de Michaela estava espalhando o mal por Ionia.
+
+"Miguela está esperando por você. Respeite a princesa."</text>
+<text id="5270200">Bin Laden usava pulseiras de ouro quando criança.
+
+Ra'dan perguntou, franzindo a testa como Melania; A espada de Michaela estava espalhando o mal por Ionia.
+
+"Miguela está esperando por você. Respeite a princesa."</text>
+<text id="5270300">O vestido dourado que Raad usou em sua juventude. Manto do Leão Brilhante
+
+Ra'dan perguntou, franzindo a testa como Melania; A espada de Michaela estava espalhando o mal por Ionia.
+
+"Miguela está esperando por você. Respeite a princesa."</text>
+<text id="5271100">A armadura dourada que Raad usava quando criança. Manto do Leão Brilhante
+
+Ra'dan perguntou, franzindo a testa como Melania; A espada de Michaela estava espalhando o mal por Ionia.
+
+"Miguela está esperando por você. Respeite a princesa."</text>
+<text id="5272000">Quando Michaela retornou ao seu corpo divino, ele colocou uma coroa de luz em sua cabeça. Ele começou a cair na cova.
+
+Aumenta a Inteligência, Lealdade e Mistério, e aumenta o brilho de Michela.
+
+Esta seria a base do período em que a amizade de Michael se estabeleceu.</text>
+<text id="5280000">Um chapéu preto brilhante usado por um guerreiro rebelde.
+
+A guerra tornou-se cada vez mais feroz. Os mortos caíram no chão. O lugar proibido se mistura com memórias do passado. O que poderia ser melhor do que um guerreiro do reino das sombras como ele?</text>
+<text id="5280100">Os escudos escuros são como sombras usadas por pessoas violentas.
+
+A guerra tornou-se cada vez mais feroz. Os mortos caíram no chão. O lugar proibido se mistura com memórias do passado. O que poderia ser melhor do que um guerreiro do reino das sombras como ele?</text>
+<text id="5280200">As luvas militares sujas eram pretas como uma sombra.
+
+A guerra tornou-se cada vez mais feroz. Os mortos caíram no chão. O lugar proibido se mistura com memórias do passado. O que poderia ser melhor do que um guerreiro do reino das sombras como ele?</text>
+<text id="5280300">As vestes negras usadas pelos soldados corruptos são como sombras.
+
+A guerra tornou-se cada vez mais feroz. Os mortos caíram no chão. O lugar proibido se mistura com memórias do passado. O que poderia ser melhor do que um guerreiro do reino das sombras como ele?</text>
+<text id="5290000">O crânio lembra a cabeça de um animal sagrado. Use-o para executar a dança do leão. Os artistas os possuem. Mas ele não respondeu às orações das mulheres antigas.
+
+O chamado de Deus aumenta a força, o poder e o poder. e reduz o efeito curativo do consumo do Frasco de Lágrimas Divinas.
+
+Não chame atenção para si mesmo ao usar esta faixa.</text>
+<text id="5300000">A vida em Agia Trina diminui e flui como o tempo. Liliom saiu na última apresentação.
+
+Adicione PF peça por peça
+
+Embora a flor seja roxa, ela não é venenosa e se move silenciosamente.</text>
+<text id="5310000">Devon Capacete Velho Cavaleiro do Crisol.
+
+Os pedaços do pote criam uma energia mágica a partir do poder da árvore da vida e do fogo da vida.
+
+Diz-se que Devonia está procurando a origem do golpe. deixe o país em paz</text>
+<text id="5320000">Quando você se inclina para frente, uma grande pia passa sobre sua cabeça. Xamãs são adorados nas prisões
+
+Preencha essas caixas de tamanhos diferentes.
+
+Rezam no fogo para que um dia nasçam os santos. Este é o ciclo de morte e renascimento.</text>
+<text id="5330000">As ferramentas usadas geralmente são cabeças inalteradas de demônios.
+
+Como um leão, a força vital está incorporada em seu corpo.</text>
+</entries>
+</fmg>

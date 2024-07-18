@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1030000">Mapa de locais de cruz recebido.
+Verifique no inventário.</text>
+<text id="1030001">Mapa de locais de cruz recebido.
+Verifique no inventário.</text>
+<text id="1030002">%null%</text>
+<text id="1030003">%null%</text>
+<text id="1030004">%null%</text>
+<text id="1030005">%null%</text>
+<text id="1030006">%null%</text>
+<text id="1030007">%null%</text>
+<text id="1030008">%null%</text>
+<text id="1030009">%null%</text>
+<text id="1030010">Mapa para ruínas antigas recebido.
+Verifique no inventário.</text>
+<text id="1030011">Mapa para ruínas antigas recebido.
+Verifique no inventário.</text>
+<text id="1030012">Mapa para ruínas antigas recebido.
+Verifique no inventário.</text>
+<text id="1030013">%null%</text>
+<text id="1030014">%null%</text>
+<text id="1030015">%null%</text>
+<text id="1030016">%null%</text>
+<text id="1030017">%null%</text>
+<text id="1030018">%null%</text>
+<text id="1030019">%null%</text>
+<text id="1030020">Palavras esculpidas se fundem.
+"Aqui eu abandono meu braço sestro."</text>
+<text id="1030021">Palavras esculpidas se fundem.
+"Aqui eu abandono o meu olho."</text>
+<text id="1030022">Palavras esculpidas se fundem.
+"Aqui eu abandono a primeira carne do meu corpo."</text>
+<text id="1030023">Palavras esculpidas se fundem.
+"Aqui eu abandono parte da carne do meu corpo."</text>
+<text id="1030024">Palavras esculpidas se fundem.
+"Aqui eu abandono meu coração."</text>
+<text id="1030025">Palavras esculpidas se fundem.
+"Aqui eu abandono minhas dúvidas e fracassos."</text>
+<text id="1030026">Palavras esculpidas se fundem.
+"Aqui eu abandono a última carne do meu corpo."</text>
+<text id="1030027">Palavras esculpidas se fundem.
+"Aqui eu abandono parte da carne do meu corpo."</text>
+<text id="1030028">Palavras esculpidas se fundem.
+"Aqui eu abandono todos meus medos."</text>
+<text id="1030029">Palavras esculpidas se fundem.
+"Aqui eu abandono meu amor."</text>
+<text id="1030030">Yuri, criança amada. Levado antes da hora.</text>
+<text id="1030031">%null%</text>
+<text id="1030032">%null%</text>
+<text id="1030033">%null%</text>
+<text id="1030034">%null%</text>
+<text id="1030035">%null%</text>
+<text id="1030036">%null%</text>
+<text id="1030037">%null%</text>
+<text id="1030038">%null%</text>
+<text id="1030039">%null%</text>
+<text id="1030040">Em algum lugar, uma Grande Runa foi quebrada...</text>
+<text id="1030041">E um poderoso feitiço também.</text>
+<text id="1030042">%null%</text>
+<text id="1030043">%null%</text>
+<text id="1030044">%null%</text>
+<text id="1030045">%null%</text>
+<text id="1030046">%null%</text>
+<text id="1030047">%null%</text>
+<text id="1030048">%null%</text>
+<text id="1030049">%null%</text>
+<text id="1030050">Palavras esculpidas se fundem.
+"Aqui eu abandono a carne do meu corpo."</text>
+<text id="1030051">Palavras esculpidas se fundem.
+"Aqui eu abandono meu braço destro."</text>
+<text id="1030052">Palavras esculpidas se fundem.
+"Aqui eu abandono a carne do meu corpo."</text>
+<text id="2020000">Ir para o reino das sombras?</text>
+<text id="2020001">%null%</text>
+<text id="2020002">Selado e escondido por sombra</text>
+<text id="2020003">%null%</text>
+<text id="2020004">Selado e obscurecido por Miquella</text>
+<text id="2020025">Erguer a Espada Embainhada em Pedra para a luz?</text>
+<text id="2020026">Erguer a Espada Embainhada em Pedra para a escuridão?</text>
+<text id="2020027">Erguer a Espada de Trevas para a luz?</text>
+<text id="2020028">Erguer a Espada de Luz para a escuridão?</text>
+<text id="2020029">%null%</text>
+<text id="2020030">Em algum lugar, uma fonte espiritual foi desbloqueada</text>
+<text id="2030000">Queimar a árvore do selo?</text>
+<text id="2030001">A árvore do selo obscurece a torre em sombras.
+Ela não pode ser queimada sem a acendalha de Messmer.</text>
+<text id="2062000">O centro verdadeiro das Terras Intermédias.
+Todo tipo de morte aparece aqui, somente para ser suprimido.</text>
+<text id="2080601">Atender à invocação para auxiliar a Cavaleira da Agulha Leda?</text>
+<text id="2080602">Atender à invocação para auxiliar Sir Ansbach?</text>
+<text id="2080603">Atender à invocação para auxiliar a Cavaleira da Agulha Leda?</text>
+<text id="2080604">Atender à invocação para auxiliar o Enviado do Chifre?</text>
+<text id="2080605">Atender à invocação para desafiar a Cavaleira da Agulha Leda e seus aliados?</text>
+<text id="2080800">Invocar o Guerreiro Draco Igon?</text>
+<text id="2080801">%null%</text>
+<text id="2080802">%null%</text>
+<text id="2080803">%null%</text>
+<text id="2080804">%null%</text>
+<text id="2080805">%null%</text>
+<text id="2080806">%null%</text>
+<text id="2080807">%null%</text>
+<text id="2080808">%null%</text>
+<text id="2080809">%null%</text>
+<text id="2080810">Invocar Thiollier?</text>
+<text id="2080840">Invocar o Cavaleiro Sangue Puro Ansbach?
+Esse cooperador não chegará até que seja a hora certa.</text>
+<text id="2080841">%null%</text>
+<text id="2080842">%null%</text>
+<text id="2080843">%null%</text>
+<text id="2080844">%null%</text>
+<text id="2080845">%null%</text>
+<text id="2080846">%null%</text>
+<text id="2080847">%null%</text>
+<text id="2080848">%null%</text>
+<text id="2080849">%null%</text>
+<text id="2080850">Invocar Thiollier?
+Esse cooperador não chegará até que seja a hora certa.</text>
+<text id="2080851">%null%</text>
+<text id="2080852">%null%</text>
+<text id="2080853">%null%</text>
+<text id="2080854">%null%</text>
+<text id="2080855">%null%</text>
+<text id="2080856">%null%</text>
+<text id="2080857">%null%</text>
+<text id="2080858">%null%</text>
+<text id="2080859">%null%</text>
+<text id="2080860">Invocar o Nobre Sanguíneo Nataan?
+Esse cooperador não chegará até que seja a hora certa.</text>
+<text id="2080861">%null%</text>
+<text id="2080862">%null%</text>
+<text id="2080863">%null%</text>
+<text id="2080864">%null%</text>
+<text id="2080865">%null%</text>
+<text id="2080866">%null%</text>
+<text id="2080867">%null%</text>
+<text id="2080868">%null%</text>
+<text id="2080869">%null%</text>
+<text id="2080870">Invocar o Enviado do Chifre?</text>
+<text id="2080871">%null%</text>
+<text id="2080872">%null%</text>
+<text id="2080873">%null%</text>
+<text id="2080874">%null%</text>
+<text id="2080875">%null%</text>
+<text id="2080876">%null%</text>
+<text id="2080877">%null%</text>
+<text id="2080878">%null%</text>
+<text id="2080879">%null%</text>
+<text id="2080880">Invocar Espadachim da Noite Jolán?</text>
+<text id="20208004">Usou &lt;?gdsparam@2008004?&gt;</text>
+<text id="20208005">Usou &lt;?gdsparam@2008005?&gt;</text>
+<text id="20208006">Usou &lt;?gdsparam@2008006?&gt;</text>
+<text id="20208007">%null%</text>
+<text id="20208008">%null%</text>
+<text id="20208009">%null%</text>
+<text id="20208010">%null%</text>
+<text id="20208011">%null%</text>
+<text id="20208012">%null%</text>
+<text id="20208013">Usou &lt;?gdsparam@2008013?&gt;</text>
+<text id="20208014">%null%</text>
+<text id="20208015">%null%</text>
+<text id="20208016">%null%</text>
+<text id="20208017">%null%</text>
+<text id="20208018">%null%</text>
+<text id="20208019">%null%</text>
+<text id="20208020">%null%</text>
+<text id="20208021">%null%</text>
+<text id="20208022">%null%</text>
+<text id="20208023">Usou &lt;?gdsparam@2008023?&gt;</text>
+<text id="20208036">Usou &lt;?gdsparam@2008036?&gt;</text>
+</entries>
+</fmg>

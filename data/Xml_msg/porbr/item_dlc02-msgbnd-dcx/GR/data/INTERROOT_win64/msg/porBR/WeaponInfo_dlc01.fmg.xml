@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4530000">%null%</text>
+<text id="4540000">%null%</text>
+<text id="4550000">%null%</text>
+<text id="50540000">Flecha de osso com penas e ponta coberta de putrefação.</text>
+<text id="50550000">Flecha de osso de animal com ponta coberta de putrefação.</text>
+<text id="52520000">Seta de osso de animal com ponta coberta de putrefação.</text>
+</entries>
+</fmg>

@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3000000">O chapéu desbotado pelo sol e levemente sujo de Dane Folhaseca. Usado na altura dos olhos, obscurece a visão do usuário.
+
+Encontrar o olhar de outra pessoa pode sobrecarregar os sentidos, muitas vezes levando à ruína daqueles que trilhariam o caminho dos nobres e solitários buscadores.</text>
+<text id="3000100">Traje de viagem desbotado pelo sol e levemente sujo, usado por clérigos.
+
+O colar de ouro encontrado sob o peito pertence a um grupo de buscadores espirituais conhecido como Seita Folhaseca.
+
+Essa seita rejeita a dependência de outros em todas as questões de fé, buscando a autodisciplina e a autossuficiência acima de tudo.</text>
+<text id="3000200">Faixas de braço desbotadas pelo sol e levemente sujas.
+
+Enroladas firmemente em volta dos braços, como se isso pudesse impedir que eles se quebrassem.</text>
+<text id="3000300">Traje de viagem desbotado pelo sol e levemente sujo, usado por clérigos.
+Botas feitas de couro resistente.</text>
+<text id="3001100">Traje de viagem desbotado pelo sol e levemente sujo, usado por clérigos.
+
+A bolsa de couro pendurada no ombro é decorada com um dos emblemas de Miquella, um padrão de grama dourada.</text>
+<text id="3010000">O elmo de ferro preto do Comandante Gaius.
+Parte de um conjunto de armadura modelado a partir de sementes caídas.
+
+Gaius foi o discípulo mais antigo do mesmo Lorde que ensinou a técnica gravitacional a Radahn e Gaea.</text>
+<text id="3010100">A armadura de ferro preto do Comandante Gaius.
+Parte de um conjunto de armadura modelado a partir de sementes caídas.
+
+Gaius foi o discípulo mais antigo do mesmo Lorde que ensinou a técnica gravitacional a Radahn e Gaea.</text>
+<text id="3010200">As manoplas de ferro preto do Comandante Gaius.
+Parte de um conjunto de armadura modelado a partir de sementes caídas.
+
+Gaius foi o discípulo mais antigo do mesmo Lorde que ensinou a técnica gravitacional a Radahn e Gaea.</text>
+<text id="3010300">As grevas de ferro preto feitas para o Comandante Gaius.
+Uma piada cruel, pois ele não era capaz de usá-las.
+
+Montado no javali que ele chamava de sua outra metade, Gaius era na verdade um guerreiro de extração Albináurica.</text>
+<text id="5000000">Elmo de Cavaleiro Juramentador.
+Preto com ornamentos dourados.
+
+Esses cavaleiros partiram em uma missão de descoberta, esperando encontrar um juramento para si mesmos, para servir em absoluta e eterna devoção.</text>
+<text id="5000100">Armadura de torso da Cavaleira da Agulha Leda.
+Melhora discretamente ataques executados após rolar ou dar um passo para trás, assim como ataques de arremetida.
+
+Bordado com um motivo de árvore cruzada dourada, o manto e a túnica branco-giz simbolizam a honra dos Cavaleiros da Agulha.
+
+"O Bondoso Miquella nos transformou em suas agulhas para subjugar tudo, para afastar tudo."</text>
+<text id="5000200">Manopla de Cavaleiro Juramentador.
+Preto com ornamentos dourados.
+
+Esses cavaleiros partiram em uma missão de descoberta, esperando encontrar um juramento para si mesmos, para servir em absoluta e eterna devoção.</text>
+<text id="5000300">Grevas de Cavaleiro Juramentador.
+Preto com ornamentos dourados.
+
+Esses cavaleiros partiram em uma missão de descoberta, esperando encontrar um juramento para si mesmos, para servir em absoluta e eterna devoção.</text>
+<text id="5002100">Armadura de Cavaleiro Juramentador.
+Preto com ornamentos dourados.
+
+Esses cavaleiros partiram em uma missão de descoberta, esperando encontrar um juramento para si mesmos, para servir em absoluta e eterna devoção.</text>
+<text id="5010000">Elmo feito de um metal incomum conhecido como azinhavre.
+
+Dizem que azinhavre foi o presente de um deus forasteiro.
+Possuidor de uma força extremamente robusta, mas flexível, graças à sua natureza enferrujada.</text>
+<text id="5010100">Armadura de torso feito de um metal incomum conhecido como azinhavre.
+
+Dizem que azinhavre foi o presente de um deus forasteiro.
+Possuidor de uma força extremamente robusta, mas flexível, graças à sua natureza enferrujada.</text>
+<text id="5010200">Manoplas feitas de um metal incomum conhecido como azinhavre.
+
+Dizem que azinhavre foi o presente de um deus forasteiro.
+Possuidor de uma força extremamente robusta, mas flexível, graças à sua natureza enferrujada.</text>
+<text id="5010300">Grevas feitas de um metal incomum conhecido como azinhavre.
+
+Dizem que azinhavre foi o presente de um deus forasteiro.
+Possuidor de uma força extremamente robusta, mas flexível, graças à sua natureza enferrujada.</text>
+<text id="5020000">A pele de Ralva, o Grande Urso Vermelho, usada sobre a cabeça sem modificações.
+
+Melhora encantamentos do que pode ser irônicamente chamado de "Comunhão de Urso".
+​
+Este couro não-tratado, ganho ao fim de uma batalha sangrenta, é o ideal para transformar um guerreiro num urso selvagem.</text>
+<text id="5020100">Armadura de torso do Urso Vermelho, cujo nome se perdeu para a loucura.
+Feita com a pele de um urso vermelho enrolada em tiras reforçadas com rebites de ferro.
+
+Depois de matar o grande urso vermelho em uma luta sanguinária, ele ficou fascinado pela glória de sua força pura.
+"Eu quero ser um urso, sem mais nem menos."</text>
+<text id="5020200">Manoplas do Urso Vermelho, cujo nome se perdeu para a loucura.
+Reforçadas com rebites de ferro.
+
+Depois de matar o grande urso vermelho em uma luta sanguinária, ele ficou fascinado pela glória de sua força pura.
+"Eu quero ser um urso, sem mais nem menos."</text>
+<text id="5020300">Grevas do Urso Vermelho, cujo nome se perdeu para a loucura.
+Reforçadas com rebites de ferro.
+
+Depois de matar o grande urso vermelho em uma luta sanguinária, ele ficou fascinado pela glória de sua força pura.
+"Eu quero ser um urso, sem mais nem menos."</text>
+<text id="5021000">Elmo do Urso Vermelho, cujo nome se perdeu para a loucura.
+As guardas das bochechas são feitas no formato de presas de leão.
+
+Talvez seu fascínio pela força selvagem descontrolada tenha se originado em seu passado como um Juba Vermelha.</text>
+<text id="5030000">Uma máscara sobre a qual está esculpido um rosto tranquilo e adormecido.
+
+O cabelo prateado é estilizado como o de Sta. Trina, aumentando o arcano.
+
+Uma única vez, foi concedido a Thiollier o doce repouso do sono aveludado. Ele passaria o resto de seus dias tentando recapturá-lo.</text>
+<text id="5030100">O traje escuro daqueles que usam veneno em segredo.
+
+O cabelo prateado é estilizado como o de Sta. Trina, aumentando o arcano.
+
+Alem disso, inúmeras agulhas são costuradas no exterior, aparentemente para um efeito talismânico.</text>
+<text id="5030200">As luvas escuras daqueles que usam veneno em segredo, sempre desprezados e odiados.</text>
+<text id="5030300">As calças escuras daqueles que usam veneno em segredo, sempre desprezados e odiados.</text>
+<text id="5031100">O traje escuro daqueles que usam veneno em segredo.
+
+Inúmeras agulhas são costuradas no exterior para um efeito talismânico.​</text>
+<text id="5060000">O chapéu do Conde Ymir, Sumo Sacerdote.
+O círculo acima no topo representa a Vontade Maior e seu abismo da escuridão.
+
+Apesar de ter instruído Rellana nas artes da feitiçaria, o Conde Ymir abandonou sua lealdade à lua.
+
+"Era apenas o mais próximo dos corpos celestes. Nada mais."</text>
+<text id="5060100">Robe do Conde Ymir, Sumo Sacerdote.
+Esconde a abundância de contorções por baixo.
+
+Bordados dourados decoram o tecido roxo, com um colar de joias que brilha como uma flor molhada de orvalho.</text>
+<text id="5060200">Luvas do Conde Ymir, Sumo Sacerdote.
+Macias e bem-feitas.</text>
+<text id="5060300">Roupas de baixo do Conde Ymir, Sumo Sacerdote.
+Macias e bem-feitas.</text>
+<text id="5062100">Robe do Conde Ymir, Sumo Sacerdote.
+É aberto na frente, revelando os dedos se contorcendo por baixo.
+
+Este robe é a demonstração da libertação de seu desejo efervescente, expondo toda sua obstinação, e vesti-lo melhora seu feitiço de Dedos.
+
+"Eu serei a verdadeira mãe.
+Meus dedos hão de nos conceder a redenção!"</text>
+<text id="5070000">Máscara grotesca construída a partir de inúmeras lagartas solidificadas. Um objeto tradicional dos grandes Jarristas do Vilarejo Bonny.
+
+Usado para afastar pensamentos de impureza, dúvida, tentação e outras maldades às quais alguém é vulnerável enquanto está absorto em um ritual divino.</text>
+<text id="5070100">Pano preto esfarrapado coberto com cordão trançado. O traje de enviados do chifre que buscam vingança.
+
+O cordão trançado une o voto do vingador aos rancores das vítimas. Nunca deve ser desfeito.
+
+Melhora ambos espíritos protetores e espíritos vingativos invocados por fetos com chifres.</text>
+<text id="5070200">Pano preto esfarrapado coberto amarrado com cordão trançado. O traje de enviados do chifre que buscam vingança.</text>
+<text id="5070300">Esta tanga levemente suja de tecido esfarrapado faz pouco mais do que esconder as partes baixas.</text>
+<text id="5080000">Capuz vermelho brilhante das dançarinas de Ranah.
+Melhora o poder de ataques dançantes.
+
+A dança de Ranah é de uma paixão ardente, e as dançarinas mais empenhadas nunca permitem que sua dança flamejante acabe, perdendo até mesmo seus nomes à medida que continuam a dançar.
+
+Ver a paixão acabar é ver a chama da dançarina se extinguir.</text>
+<text id="5080100">Vestido vermelho vibrante das dançarinas de Ranah.
+Melhora o poder de ataques dançantes.
+
+A dança de Ranah é de uma paixão ardente, e as dançarinas mais empenhadas nunca permitem que sua dança flamejante acabe, perdendo até mesmo seus nomes à medida que continuam a dançar.
+
+Ver a paixão acabar é ver a chama da dançarina se extinguir.</text>
+<text id="5080200">Braçadeira de metal das dançarinas de Ranah.
+
+Melhora o poder de ataques dançantes.
+
+Projetada para proteger a mão que empunha a espada.</text>
+<text id="5080300">Calças compridas pretas usadas por baixo do vestido carmesim profundo das dançarinas de Ranah.
+
+Melhora o poder de ataques dançantes.</text>
+<text id="5081100">Alteração do vestido carmesim profundo das dançarinas de Ranah. Estas são as roupas pretas usadas por baixo.
+
+Melhora o poder de ataques dançantes.</text>
+<text id="5090000">Elmo de uma escuridão sem fim, frio ao toque.
+Linhas fluidas no formato de uma impressão digital adornam a superfície. Aprisiona o usuário em uma escuridão totalmente sem luz.
+
+Concedido àqueles nascidos nas profundezas do subsolo, ordenando-os como Espadachins da Noite.</text>
+<text id="5090100">Armadura de uma escuridão sem fim, fria ao toque.
+Linhas fluidas no formato de uma impressão digital adornam a superfície. Aprisiona o usuário em uma escuridão totalmente sem luz.
+
+Concedida àqueles nascidos nas profundezas do subsolo, ordenando-os como Espadachins da Noite.</text>
+<text id="5090200">Manoplas de uma escuridão sem fim, frias ao toque.
+Linhas fluidas no formato de uma impressão digital adornam a superfície. Aprisiona o usuário em uma escuridão totalmente sem luz.
+
+Concedidas àqueles nascidos nas profundezas do subsolo, ordenando-os como Espadachins da Noite.</text>
+<text id="5090300">Grevas de uma escuridão sem fim, frias ao toque.
+Linhas fluidas no formato de uma impressão digital adornam a superfície. Aprisiona o usuário em uma escuridão totalmente sem luz.
+
+Concedidas àqueles nascidos nas profundezas do subsolo, ordenando-os como Espadachins da Noite.</text>
+<text id="5100000">Elmo do guerreiro draco derrotado Igon, de um conjunto de armadura composto por uma miscelânea de peças. Este traje de proteção esfarrapado tem o formato de uma corneta.
+
+O miserável dos campos de batalha encontrou honra através da Comunhão do Dragão.</text>
+<text id="5100100">Armadura do guerreiro draco derrotado Igon, de um conjunto composto por uma miscelânea de peças. Pertences imundos estão presos a este traje de proteção esfarrapado.
+
+O miserável dos campos de batalha encontrou honra através da Comunhão do Dragão.</text>
+<text id="5100200">Manoplas do guerreiro draco derrotado Igon. Retiradas de um cadáver encontrado após uma batalha, a cota de malha ainda está manchada com o sangue de seu antigo usuário.</text>
+<text id="5100300">Tanga do guerreiro draco derrotado Igon. Retirada de um cadáver encontrado após uma batalha, este pedaço de pano tem um cheiro horrível.</text>
+<text id="5101000">Elmo do guerreiro draco derrotado Igon, de um conjunto de armadura composto por uma miscelânea de peças. Remendado com pedaços de pano.
+
+O miserável dos campos de batalha encontrou honra através da Comunhão do Dragão.</text>
+<text id="5101100">Armadura do guerreiro draco derrotado Igon, de um conjunto composto por uma miscelânea de peças. Remendada com pedaços de pano.
+
+O miserável dos campos de batalha encontrou honra através da Comunhão do Dragão.</text>
+<text id="5110000">A máscara do Sir Ansbach, dando a aparência de um homem velho barbudo, quieto e sábio.
+
+Mas por trás da máscara ainda se esconde um medo antigo e a disciplina fria e inabalável com que ele empunhava sua lâmina. Agora destinada a melhorar o Juramento de Sangue e habilidades dinásticas.</text>
+<text id="5110100">Traje do Sir Ansbach. O brasão bordado dos Cavaleiros Sangue Puro está quase todo apagado.
+
+Pequeno aumento a habilidades de juramento de sangue e dinásticas.
+
+Ansbach entendeu que manter o juramento ao seu antigo mestre não era um ato de lógica, nem teria qualquer justiça, mas foi por essas mesmas razões que ele foi incapaz de desistir.</text>
+<text id="5110200">Mangas do Sir Ansbach. Couro preto adornado com bordados dourados.
+
+Pequeno aumento a habilidades de juramento de sangue e dinásticas.</text>
+<text id="5110300">Botas do Sir Ansbach. Couro preto adornado com bordados dourados.
+
+Pequeno aumento a habilidades de juramento de sangue e dinásticas.</text>
+<text id="5111100">Traje do Sir Ansbach. Tecido preto adornado com bordados dourados.
+
+Pequeno aumento a habilidades de juramento de sangue e dinásticas.</text>
+<text id="5120000">Elmo dourado da Cavaleira da Juba Vermelha Freyja, uma das mais distintas entre os cavaleiros do General Radahn.
+
+Certa vez, uma horrível ferida escarlate foi aberta no meio de seu rosto.
+
+Mais tarde, Miquella gentilmente pressionou os lábios contra ela, e a cicatriz imutável se tornou a bússola que Freyja seguiria daquele momento em diante.</text>
+<text id="5120100">Armadura dourada da Cavaleira da Juba Vermelha Freyja, uma das mais distintas entre os cavaleiros do General Radahn. Afixada com um manto de lã preto.
+
+Após testemunhar a coragem de Freyja como gladiadora em sua juventude, Radahn a convidou para se juntar aos seus guerreiros mais confiáveis.</text>
+<text id="5120200">Manoplas douradas da Cavaleira da Juba Vermelha Freyja, uma das mais distintas entre os cavaleiros do General Radahn.
+
+Após testemunhar a coragem de Freyja como gladiadora em sua juventude, Radahn a convidou para se juntar aos seus guerreiros mais confiáveis.</text>
+<text id="5120300">Grevas douradas da Cavaleira da Juba Vermelha Freyja, uma das mais distintas entre os cavaleiros do General Radahn.
+
+Após testemunhar a coragem de Freyja como gladiadora em sua juventude, Radahn a convidou para se juntar aos seus guerreiros mais confiáveis.</text>
+<text id="5121100">Armadura dourada da Cavaleira da Juba Vermelha Freyja, uma das mais distintas entre os cavaleiros do General Radahn.
+
+Após testemunhar a coragem de Freyja como gladiadora em sua juventude, Radahn a convidou para se juntar aos seus guerreiros mais confiáveis.</text>
+<text id="5130000">Elmo de aço dos Cavaleiros do Cárcere Solitário.
+Parte de um conjunto de armadura pesada que cobre o corpo inteiro do usuário em placas de aço sobrepostas.
+
+Dizem que os mausoléus anônimos do reino das sombras abrigam espíritos de guerreiros que perderam seus nomes, ou seus corações.</text>
+<text id="5130100">Armadura de aço dos Cavaleiros do Cárcere Solitário.
+Parte de um conjunto de armadura pesada que cobre o corpo inteiro do usuário em placas de aço sobrepostas e enfeitada com um manto preto.
+
+Dizem que os mausoléus anônimos do reino das sombras abrigam espíritos de guerreiros que perderam seus nomes, ou seus corações.</text>
+<text id="5130200">Manoplas de aço dos Cavaleiros do Cárcere Solitário.
+Parte de um conjunto de armadura pesada que cobre o corpo inteiro do usuário em placas de aço sobrepostas.
+
+Dizem que os mausoléus anônimos do reino das sombras abrigam espíritos de guerreiros que perderam seus nomes, ou seus corações.</text>
+<text id="5130300">Grevas de aço dos Cavaleiros do Cárcere Solitário.
+Parte de um conjunto de armadura pesada que cobre o corpo inteiro do usuário em placas de aço sobrepostas.
+
+Dizem que os mausoléus anônimos do reino das sombras abrigam espíritos de guerreiros que perderam seus nomes, ou seus corações.</text>
+<text id="5131100">Peitoral de armadura de aço dos Cavaleiros do Cárcere da Solidão.
+Parte de um conjunto de armadura pesada que cobre o corpo inteiro do usuário em placas de aço sobrepostas.
+
+Dizem que os mausóleus anônimos do reino das sombras guardam os espíritos de guerreiros que perderam seus nomes, ou seus corações.</text>
+<text id="5140000">Elmo usado por soldados que servem a Messmer, o Empalador. O elmo de ferro tem um visor.
+
+Embora a gravura na testa seja um desenho da Umbrárvore, ela está gravada em ouro. Um pequeno consolo para aqueles forçados a travar uma guerra sem honra ou graça.</text>
+<text id="5140100">Armadura usada por soldados que servem a Messmer, o Empalador. Uma capa esfarrapada está pendurada sobre uma cota de malha enferrujada.
+
+Apesar de haver um desenho da Umbrárvore no peito, ela está gravada em ouro. Um pequeno consolo para aqueles forçados a travar uma guerra sem honra ou graça.</text>
+<text id="5140200">Manoplas usadas por soldados que servem a Messmer, o Empalador, cobertas de ferrugem e imundície acumuladas ao longo da guerra sem fim.</text>
+<text id="5140300">Grevas usadas por soldados que servem a Messmer, o Empalador, cobertas de ferrugem e imundície acumuladas ao longo da guerra sem fim.</text>
+<text id="5141100">Armadura usada por soldados que servem a Messmer, o Empalador. A malha enferrujou ao longo da guerra sem fim.
+
+Apesar de haver um desenho da Umbrárvore no peito, ela está gravada em ouro. Um pequeno consolo para aqueles forçados a travar uma guerra sem honra ou graça.</text>
+<text id="5150000">Elmo usado pelos Cavaleiros Negro de Messmer, o Empalador. Ferro preto ornamentado com ouro. Um odor podre ainda se agarra a ele com teimosia.
+
+Talvez vindo da natureza contaminada do sangue que respingou sobre ele. Ou talvez, seja a própria alma sombria do usuário, purulenta após um massacre sem fim.</text>
+<text id="5150100">Armadura usada pelos Cavaleiros Negro de Messmer, o Empalador.
+
+Embora a gravura sobre o coração seja um desenho da Umbrárvore, ela está gravada em ouro. Um pequeno consolo para aqueles forçados a travar uma guerra sem honra ou graça.</text>
+<text id="5150200">Manoplas usadas pelos Cavaleiros Negro de Messmer, o Empalador. Ferro preto ornamentado com ouro. Um odor podre ainda se agarra a elas com teimosia.
+
+Talvez vindo da natureza contaminada do sangue que respingou sobre elas. Ou talvez seja a própria alma sombria do usuário, purulenta após um massacre sem fim.</text>
+<text id="5150300">Grevas usadas pelos Cavaleiros Negros, serviçais de Messmer, o Empalador. Ferro preto ornamentado com ouro. Um odor podre ainda se agarra a elas com teimosia.
+
+Talvez vindo da natureza contaminada do sangue que respingou sobre elas. Ou talvez seja a própria alma sombria do usuário, purulenta após um massacre sem fim.</text>
+<text id="5160000">Elmo de um Rakshasa, encharcado no sangue que jorra de suas vítimas. Pontas de pano velho jogadas para fora, como se seu desejo por carnificina ameaçasse se libertar.
+
+Aumenta dano causado a inimigos mas, aumenta muito o dano sofrido pelo usuário.
+
+Eliminar e devorar. Apenas aqueles que repetirem o ciclo sem descanso alcançarão a solitude destrutiva e se tornarão Rakshasa.</text>
+<text id="5160100">Armadura de Rakshasa, encharcada no sangue que jorra de suas vítimas. Pontas de pano velho jogadas para fora, como se seu desejo por carnificina ameaçasse se libertar.
+
+Aumenta dano causado a inimigos mas, aumenta muito o dano sofrido pelo usuário.
+
+Eliminar e devorar. Apenas aqueles que repetirem o ciclo sem descanso alcançarão a solitude destrutiva e se tornarão Rakshasa.</text>
+<text id="5160200">Manoplas de um Rakshasa, encharcadas no sangue que jorra de suas vítimas. Pontas de pano velho jogadas para fora, como se seu desejo por carnificina ameaçasse se libertar.
+
+Aumenta dano causado a inimigos mas, aumenta muito o dano sofrido pelo usuário.
+
+Eliminar e devorar. Apenas aqueles que repetirem o ciclo sem descanso alcançarão a solitude destrutiva e se tornarão Rakshasa.</text>
+<text id="5160300">Grevas de Rakshasa, encharcadas no sangue que jorra de suas vítimas. Pontas de pano velho jogadas para fora, como se seu desejo por carnificina ameaçasse se libertar.
+
+Aumenta dano causado a inimigos mas, aumenta muito o dano sofrido pelo usuário.
+
+Eliminar e devorar. Apenas aqueles que repetirem o ciclo sem descanso alcançarão a solitude destrutiva e se tornarão Rakshasa.</text>
+<text id="5180000">Elmo pontiagudo dos Cavaleiros de Fogo sob o comando pessoal de Messmer, o Empalador.
+
+Pequeno aumento a PV máximos, vigor e carga máxima de equipamento
+
+Cada um dos cavaleiros veio de uma família renomada dos altos escalões da Térvore, mas foram rejeitados e expulsos de suas casas após jurarem lealdade a Messmer como mestre.</text>
+<text id="5180100">Armadura dos Cavaleiros de Fogo sob o comando pessoal de Messmer, o Empalador.
+
+Distingue-se pela capa vermelha e pelas cobras gêmeas douradas que adornam o pescoço, melhorando os encantamentos de chama de Messmer.
+
+Estes foram os únicos que realmente conheceram Messmer. Suas chamas, como serpentes. O destino doloroso que acompanhou sua forma amaldiçoada.</text>
+<text id="5180200">Manoplas dos Cavaleiros de Fogo sob o comando pessoal de Messmer, o Empalador.
+
+Cada um dos cavaleiros veio de uma família renomada dos altos escalões da Térvore, mas foram rejeitados e expulsos de suas casas após jurarem lealdade a Messmer como mestre.</text>
+<text id="5180300">Grevas dos Cavaleiros de Fogo sob o comando pessoal de Messmer, o Empalador.
+
+Cada um dos cavaleiros veio de uma família renomada dos altos escalões da Térvore, mas foram rejeitados e expulsos de suas casas após jurarem lealdade a Messmer como mestre.</text>
+<text id="5181100">Armadura dos Cavaleiros de Fogo sob o comando pessoal de Messmer, o Empalador.
+
+Cada um dos cavaleiros veio de uma família renomada dos altos escalões da Térvore, mas foram rejeitados e expulsos de suas casas após jurarem lealdade a Messmer como mestre.</text>
+<text id="5182000">Elmo de Wego, o mais velho dos Cavaleiros de Fogo. Duas máscaras da morte deformadas, empilhadas uma sobre a outra.
+
+Reduz Diminui os PF consumidos para invocar espíritos.
+
+Corroído pela solidão, o velho voltou sua atenção para a espiritualidade da chama de Messmer, utilizando-a num rito de ressurreição.
+
+Porém, os corpos sem alma que ele trouxe à vida não proporcionaram conforto ao pobre Wego.</text>
+<text id="5183000">Elmo de Kood, capitão dos Cavaleiros de Fogo. Há uma serpente alada no topo.
+
+Melhora as habilidades de Cavaleiros de Fogo.
+
+A serpente alada é a criatura simbólica da força militar de Messmer. É uma amiga sábia que mantém a serpente primitiva afastada e mantém o poder dela sob controle.</text>
+<text id="5184000">Capuz de Salza, sábio dos Cavaleiros de Fogo.
+
+Uma grande quantidade de pano é enrolada em volta dele, dando a impressão de que a cabeça do usuário está muito inchada.
+
+Discípulo do velho Wego, ele se recusou a incendiar uma antiga ruína, arriscando a própria vida.</text>
+<text id="5190000">Testeira usada por guerreiros do planalto, feita de couro trançado. O branco representa seu assentamento natal.
+
+Os guerreiros do planalto são conhecidos por serem caçadores de ursos, para eles, não há ato mais glorioso do que derrotar uma fera selvagem.</text>
+<text id="5190100">Traje tradicional dos guerreiros do planalto, feito de tecido trançado e com acabamento em pelo. Este traje é feito de tecidos nos padrões azul e vermelho.
+
+Tecidos com padrões vermelhos eram exclusivos daqueles que caçavam ursos. Os melhores e mais gloriosos dos povos da montanha.</text>
+<text id="5190200">Faixas de braço usadas por guerreiros do planalto, feitas de couro resistente e presas com tiras enroladas.
+
+Os guerreiros do planalto são conhecidos por serem caçadores de ursos, para eles, não há ato mais glorioso do que derrotar uma fera selvagem.</text>
+<text id="5190300">Faixas de perna usadas por guerreiros do planalto, feitas de couro resistente e presas com tiras enroladas. A adição de pelo de animal mantém o usuário quente.
+
+Os guerreiros do planalto são conhecidos por serem caçadores de ursos, para eles, não há ato mais glorioso do que derrotar uma fera selvagem.</text>
+<text id="5191000">Elmo usado por guerreiros do planalto, remendado com pedaços de couro. O branco representa seu assentamento natal.
+
+Os guerreiros do planalto são conhecidos por serem caçadores de ursos. Lutar contra feras selvagens é como ganham honra e respeito.</text>
+<text id="5191100">Traje tradicional dos guerreiros do planalto, feito de tecido trançado e acabamento com um tecido de padrões azuis.
+
+Os guerreiros do planalto são conhecidos por serem caçadores de ursos. Lutar contra feras selvagens é como ganham honra e respeito.</text>
+<text id="5200000">Elmo dourado dos Cavaleiros da Morte, cujas próprias máscaras da morte serviam como viseiras para suas armaduras.
+
+Melhora os encantamentos e habilidades do culto do dragão ancião da capital.
+
+A roda dourada deteriorada que o adorna representa a lealdade inabalável a Godwyn, que se tornou Príncipe da Morte.</text>
+<text id="5200100">Armadura dourada dos Cavaleiros da Morte, adornada com uma representação antiquada da Térvore.
+
+Melhora os encantamentos e habilidades do culto do dragão ancião da capital.
+
+Esses cavaleiros, que já foram guardas pessoais de Godwyn, buscaram encontrar o cadáver substituto de seu mestre transfigurado, para a era vindoura dos Filhos do Anoitecer.</text>
+<text id="5200200">Manoplas douradas dos Cavaleiros da Morte, adornadas com uma representação antiquada da Térvore.
+
+Melhora os encantamentos e habilidades do culto do dragão ancião da capital.
+
+Esses cavaleiros, que já foram guardas pessoais de Godwyn, buscaram encontrar o cadáver substituto de seu mestre transfigurado, para a era vindoura dos Filhos do Anoitecer.</text>
+<text id="5200300">Grevas douradas dos Cavaleiros da Morte, adornadas com uma representação antiquada da Térvore.
+
+Melhora os encantamentos e habilidades do culto do dragão ancião da capital.
+
+Esses cavaleiros, que já foram guardas pessoais de Godwyn, buscaram encontrar o cadáver substituto de seu mestre transfigurado, para a era vindoura dos Filhos do Anoitecer.</text>
+<text id="5210000">Uma máscara com uma coroa de chifres emaranhados, usada por aqueles que invocam divindade.
+
+A invocação divina aumenta a destreza de quem a usa, mas faz com que a bênção da Térvore se torne nauseante, reduzindo o efeito restaurador de beber de um frasco de lágrimas sagradas.
+
+O foco também é prejudicado pelo uso desta máscara.</text>
+<text id="5210100">Traje dos ascetas da torre, personificando seu compromisso com uma existência austera de estrito autocontrole.
+
+Para ascender de sua carne mortal a divindades tutelares da terra, eles elevaram sua espiritualidade por meio de um severo treinamento ascético.</text>
+<text id="5210200">Punhos dos ascetas da torre que personificam seu compromisso com uma existência austera de estrito autocontrole.
+
+Para ascender de sua carne mortal a divindades tutelares da terra, eles elevaram sua espiritualidade por meio de um severo treinamento ascético.</text>
+<text id="5210300">Tornozeleiras dos ascetas da torre que personificam seu compromisso com uma existência austera de estrito autocontrole.
+
+Para ascender de sua carne mortal a divindades tutelares da terra, eles elevaram sua espiritualidade por meio de um severo treinamento ascético.</text>
+<text id="5220000">Elmo preto de Messmer, o Empalador, coroado com duas serpentes aladas entrelaçadas.
+Pequena melhoria a encantamentos de de fogo de Messmer assim como habilidades de Cavaleiros de Fogo.
+
+As serpentes aladas eram as companheiras constantes de Messmer.
+
+Elas estavam lá quando a serpente vil foi selada atrás de seu olho. Elas estiveram lá durante sua eternidade de sofrimento. Elas ainda o acompanharão, em sua horrível nova forma nascida quando ele destruiu a graça concedida por sua mãe. Elas aceitaram seu destino tanto quanto ele.</text>
+<text id="5220100">Armadura preta de Messmer, o Empalador.
+Envolta em uma capa vermelha com seu brasão bordado.
+
+Seguindo o desejo de sua mãe, Messmer se tornou um símbolo do medo, empreendendo a cruzada de purificação que ela desejava.
+
+"Direcione tuas maldições, tua ira e tua dor somente para mim."</text>
+<text id="5220200">Manoplas pretas de Messmer, o Empalador.
+
+Seguindo o desejo de sua mãe, Messmer se tornou um símbolo do medo, empreendendo a cruzada de purificação que ela desejava.
+
+"Direcione tuas maldições, tua ira e tua dor somente para mim."</text>
+<text id="5220300">Grevas pretas de Messmer, o Empalador.
+
+Seguindo o desejo de sua mãe, Messmer se tornou um símbolo do medo, empreendendo a cruzada de purificação que ela desejava.
+
+"Direcione tuas maldições, tua ira e tua dor somente para mim."</text>
+<text id="5221000">Elmo preto de Messmer, o Empalador, coroado com duas serpentes aladas entrelaçadas.
+
+As serpentes aladas eram as companheiras constantes de Messmer.
+
+Elas estavam lá quando a serpente vil foi selada atrás de seu olho. Elas estiveram lá durante sua eternidade de sofrimento. Elas ainda o acompanharão, em sua horrível nova forma nascida quando ele destruiu a graça concedida por sua mãe. Elas aceitaram seu destino tanto quanto ele.</text>
+<text id="5230000">Elmo gravado com a cabeça de um pássaro dos túmulos. Ativa feitiços que invocam anéis de luz espectral.
+Pássaros dos túmulos são uma espécie de golem antigo, criados para proteger os túmulos espectrais construídos no destino final de toda morte.
+
+Pássaros dos túmulos são uma espécie de golem antigo, criados para proteger os túmulos espectrais construídos no destino final de toda morte.</text>
+<text id="5230100">Armadura de pedra com um toque verde. Parte do conjunto de armadura de pássaro dos túmulos.
+Com uma capa de penas pretas de pássaro da morte, aumenta os ataques de salto.
+
+Pássaros dos túmulos são uma espécie de golem antigo, criados para proteger os túmulos espectrais construídos no destino final de toda morte.</text>
+<text id="5230200">Braceletes de pedra com um toque verde. Parte do conjunto de armadura de pássaro dos túmulos.
+
+Pássaros dos túmulos são uma espécie de golem antigo, criados para proteger os túmulos espectrais construídos no destino final de toda morte.</text>
+<text id="5230300">Tornozeleiras de pedra com um toque verde. Parte do conjunto de armadura de pássaro dos túmulos.
+
+Pássaros dos túmulos são uma espécie de golem antigo, criados para proteger os túmulos espectrais construídos no destino final de toda morte.</text>
+<text id="5231100">Armadura de pedra com um toque verde. Parte do conjunto de armadura de pássaro dos túmulos.
+
+Pássaros dos túmulos são uma espécie de golem antigo, criados para proteger os túmulos espectrais construídos no destino final de toda morte.</text>
+<text id="5240000">Elmo dos soldados rasos do exército de Messmer.
+
+Uma fuligem escura está grudada nele, assim como nos rostos verdadeiros dos homens que os usaram.</text>
+<text id="5240100">Armadura dos soldados rasos do exército de Messmer.
+
+Uma fuligem escura está grudada nela, assim como nos rostos verdadeiros dos homens que as usaram.</text>
+<text id="5240200">Manoplas dos soldados rasos do exército de Messmer.
+
+Uma fuligem escura está grudada nelas, assim como nos rostos verdadeiros dos homens que as usaram.</text>
+<text id="5240300">Grevas dos soldados rasos do exército de Messmer.
+
+Uma fuligem escura está grudada nelas, assim como nos rostos verdadeiros dos homens que as usaram.</text>
+<text id="5250000">Elmo com uma coroa de chifres emaranhados e resistentes, que permite ao usuário invocar a divindade. Traje dos guerreiros com chifres, guardiões da torre.
+
+A invocação divina aumenta a força de quem a usa, mas faz com que a bênção da Térvore se torne nauseante, reduzindo o efeito restaurador de beber de um frasco de lágrimas sagradas.
+
+O foco também é prejudicado pelo uso deste elmo.</text>
+<text id="5250100">Armadura dos guerreiros com chifres, guardiões da torre.
+
+O tecido ocre é colocado sobre um peitoral feito para lembrar a forma nua de um herói dos tempos antigos.</text>
+<text id="5250200">Manoplas dos guerreiros com chifres, guardiões da torre, feita de um metal espesso.</text>
+<text id="5250300">Grevas dos guerreiros com chifres, guardiões da torre. Feitas para lembrar a forma nua de um herói dos tempos antigos.</text>
+<text id="5252000">Um elmo de chifres emaranhados presos a uma máscara de fera divina, permitindo ao usuário invocar a divindade. Usado por guerreiros-fera divinos, os escolhidos dos guerreiros com chifres.
+
+A invocação divina aumenta a intensidade das tempestades, juntamente com a força e a destreza, mas reduz o efeito restaurador de beber de um frasco de lágrimas sagradas.
+
+O foco também é prejudicado pelo uso desse elmo.</text>
+<text id="5252100">Armadura de guerreiros com chifres espinhosos, escolhidos para se tornarem guerreiros-fera divinos, adornada com pele de leão.
+
+Entre os guerreiros-fera divinos, apenas aqueles que realmente se destacam na invocação divina tornam-se Guardiões Esculpidos e recebem a honra da dança do leão.</text>
+<text id="5253000">Um elmo de chifres emaranhados presos a uma máscara de pássaro divino, permitindo ao usuário invocar a divindade. Usado por guerreiros-pássaro divinos, os primeiros dos guerreiros com chifres.
+
+A invocação divina aumenta o poder das penas do pássaro divino, juntamente com a força e a destreza, mas reduz o efeito restaurador de beber de um frasco de lágrimas sagradas.
+
+O foco também é prejudicado pelo uso deste elmo.</text>
+<text id="5253100">Armadura dos guerreiros-pássaro divinos, os primeiros de todos os guerreiros com chifres, feita de metal dourado.
+
+Os pássaros divinos de tons dourados são conhecidos por serem cruéis, nunca aceitando a companhia humana. Aqueles que invocavam sua divindade eram poucos e distantes entre si.</text>
+<text id="5253200">Manoplas dos guerreiros-pássaro divinos, os primeiros de todos os guerreiros com chifres, feitas de metal dourado.
+
+Os pássaros divinos de tons dourados são conhecidos por serem cruéis, nunca aceitando a companhia humana. Aqueles que invocavam sua divindade eram poucos e distantes entre si.</text>
+<text id="5253300">Grevas dos guerreiros-pássaro divinos, os primeiros de todos os guerreiros com chifres, feitas de metal dourado.
+
+As garras grandes e afiadas aumentam a força gerada pelos chutes.</text>
+<text id="5260000">Elmo ornamentado de Rellana, a Cavaleira das Luas Gêmeas, feito de aço prateado.
+
+Rennala, chefe da família real cariana, teria dado o presente dos cabelos pretos e sedosos à sua irmã mais nova, que renunciou à sua linhagem para perseguir Messmer.</text>
+<text id="5260100">Armadura ornamentada de Rellana, a Cavaleira das Luas Gêmeas, feita de aço prateado.
+
+Adornada com o tom lápis-lazúli que simboliza Caria, seu brilho ainda não desapareceu completamente.</text>
+<text id="5260200">Luvas de Rellana, a Cavaleira das Luas Gêmeas, feitas de couro de qualidade.</text>
+<text id="5260300">Grevas ornamentadas de Rellana, a Cavaleira das Luas Gêmeas, feitas de aço prateado.</text>
+<text id="5270000">O elmo dourado usado por Radahn em sua juventude. Exibindo orgulhosamente seu heroico cabelo ruivo, é um traje digno de um leão.
+
+Quando Malenia, Espada de Miquella, deixou a flor pútrida florescer em Aeonia, Radahn ouviu um sussurro em seu ouvido:
+
+"Miquella o aguarda, ó, consorte prometido."</text>
+<text id="5270100">A armadura dourada usada por Radahn em sua juventude. Adornada orgulhosamente com heroicos detalhes vermelhos, é um traje digno de um leão.
+
+Quando Malenia, Espada de Miquella, deixou a flor pútrida florescer em Aeonia, Radahn ouviu um sussurro em seu ouvido:
+
+"Miquella o aguarda, ó, consorte prometido."</text>
+<text id="5270200">Manoplas douradas usadas por Radahn em sua juventude.
+
+Quando Malenia, Espada de Miquella, deixou a flor pútrida florescer em Aeonia, Radahn ouviu um sussurro em seu ouvido:
+
+"Miquella o aguarda, ó, consorte prometido."</text>
+<text id="5270300">Grevas douradas usadas por Radahn em sua juventude. Usadas por um bravo leão.
+
+Quando Malenia, Espada de Miquella, deixou a flor pútrida florescer em Aeonia, Radahn ouviu um sussurro em seu ouvido:
+
+"Miquella o aguarda, ó, consorte prometido."</text>
+<text id="5271100">Armadura dourada usada por Radahn em sua juventude. Usada por um bravo leão.
+
+Quando Malenia, Espada de Miquella, deixou a flor pútrida florescer em Aeonia, Radahn ouviu um sussurro em seu ouvido:
+
+"Miquella o aguarda, ó, consorte prometido."</text>
+<text id="5272000">A coroa de luz que adornava a cabeça de Miquella quando ele retornou em aspecto divino. Ela começou a se desvanecer em nada.
+
+Aumenta levemente a inteligência, fé e arcano, além de fortalecer a potência da luz de Miquella.
+
+Este círculo teria sido a própria base sobre a qual a era da compaixão de Miquella seria construída, se ela tivesse acontecido.</text>
+<text id="5280000">Um elmo tão escuro quanto as sombras, usado por homens da milícia vulgar.
+
+Campos de batalha recém-chamuscados, exalando o fedor dos mortos. Terras proibidas que serão extirpadas da memória da história. Que lugar, portanto, seria melhor para um exército como esse do que o reino das sombras?</text>
+<text id="5280100">Uma armadura tão escura quanto as sombras, usada por homens da milícia vulgar.
+
+Campos de batalha recém-chamuscados, exalando o fedor dos mortos. Terras proibidas que serão extirpadas da memória da história. Que lugar, portanto, seria melhor para um exército como esse do que o reino das sombras?</text>
+<text id="5280200">Manoplas tão escuras quanto as sombras, usadas por homens da milícia vulgar.
+
+Campos de batalha recém-chamuscados, exalando o fedor dos mortos. Terras proibidas que serão extirpadas da memória da história. Que lugar, portanto, seria melhor para um exército como esse do que o reino das sombras?</text>
+<text id="5280300">Grevas tão escuras quanto as sombras, usadas por homens da milícia vulgar.
+
+Campos de batalha recém-chamuscados, exalando o fedor dos mortos. Terras proibidas que serão extirpadas da memória da história. Que lugar, portanto, seria melhor para um exército como esse do que o reino das sombras?</text>
+<text id="5290000">Um acessório ritualistico para a cabeça na forma da cabeça de uma fera divina. Usada para realizar a dança do leão. Usada pelos melhores dos Guardiões Esculpidos, eles já não respondem mais à fervorosa oração da anciã.
+
+A invocação divina aumenta a intensidade da tempestade juntamente com a força e a destreza, mas reduz o efeito restaurador de beber de um frasco de lágrimas sagradas.
+
+O foco também é prejudicado pelo uso deste acessório para a cabeça.</text>
+<text id="5300000">A vida de Sta. Trina murchou e se foi, tão efêmera quanto as estações. Como último ato, deixou um único lírio d'água.
+
+Aumenta levemente os PF máximos.
+
+Apesar da coloração roxa nebulosa, a flor não é venenosa de nenhuma maneira. Ela simplesmente floresce na quietude.</text>
+<text id="5310000">Elmo usado por Devonia, o mais antigo dos Cavaleiros do Crisol.
+
+Contém o poder do Crisol da vida, a forma primordial da Térvore. Fortalece encantamentos dos Aspectos do Crisol.
+
+Dizem que Devonia saiu em busca da origem do Crisol, deixando as terras da Térvore sozinho.</text>
+<text id="5320000">Um grande jarro que cabe confortavelmente na cabeça quando voltado para baixo. Traje dos xamãs que realizam suas adorações em cárceres.
+
+Aumenta o poder de potes arremessados de todos os tamanhos.
+
+Eles oferecem suas orações às entranhas dos grandes jarros, de forma que possam, talvez, renascer na santidade um dia. Esse é o ciclo de morte e renascimento entregue às mãos de homens mortais.</text>
+<text id="5330000">Acessório feito da cabeça praticamente inalterada de um golem demoníaco.
+
+Semelhante a um leão, a força vital se agarra a ele com pouca força.</text>
+</entries>
+</fmg>

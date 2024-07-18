@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1200">Aumenta o feitiço dos dedos</text>
+<text id="1201">Aumenta o encantamento de Miquella</text>
+<text id="1202">Aumenta o encantamento da chama de Messmer</text>
+<text id="1203">Aumenta o encantamento espiral</text>
+<text id="6800">Causa Sono Eterno  (&lt;?sleepATKpwr?&gt;) </text>
+</entries>
+</fmg>

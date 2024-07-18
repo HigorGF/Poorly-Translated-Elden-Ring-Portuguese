@@ -1,0 +1,738 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">Não há truque
+
+Esta arma é fraca.
+Se o adversário tiver o direito de usar a arma, ela será usada.</text>
+<text id="100">Crédito: Pé de Leão
+Ike Redman luta contra o Cavaleiro General Radan.
+Ele avançou com a arma.</text>
+<text id="101">Habilidade: Natação
+
+A capacidade de penetrar nas armas inimigas para participar do combate. Reúna suas forças e destrua as defesas do inimigo com intensa pressão.</text>
+<text id="102">Habilidade: Cárie dentária
+
+O poder de Blood Hunter Yura é usado
+Comece a lâmina reta. E dá impulsos cada vez mais fortes</text>
+<text id="103">Habilidade: Ataque Giratório
+
+Esta arte é popular entre soldados habilidosos
+Destrua os inimigos enquanto seu corpo se move. Mais ordens, depois ataque</text>
+<text id="104">%null%</text>
+<text id="105">Características: Atualização
+
+Mova rapidamente os quadris para a frente para enviar o ar para os pulmões.
+Clique e segure para avançar uma distância.</text>
+<text id="106">Habilidade: Esmagar (Vertical)
+
+Prepare suas armas e mantenha sua posição baixa para evitar novos ataques inimigos.
+Um ataque altamente agressivo ocorreu.</text>
+<text id="107">Habilidade: Desintegração (Arco)
+
+Prepare suas armas e mantenha sua posição baixa para evitar novos ataques inimigos.
+Use música para atacar.</text>
+<text id="108">Localização: Linhagem
+
+arte de sangrar
+Mude para coletar energia e liberar vários golpes para roubar a vida e a saúde do alvo.</text>
+<text id="109">Desempenho: atualizações frequentes
+
+Gire para reunir energia e construir energia.</text>
+<text id="110">Arte: Desenhar em animais
+
+Ele largou a arma com segurança
+Podem ocorrer ataques persistentes ou violência.</text>
+<text id="111">Habilidade: Tiro
+
+Uma arma de bastão longo que é usada para atacar. Clique e segure para continuar o ataque. Podem ocorrer ataques repetidos ou violência. Ele destrói flechas como flechas enquanto se move.</text>
+<text id="112">Habilidade: Corte Duplo
+
+melhor espada
+efeito de baixo custo
+Este comando pode ser repetido duas vezes no próximo ataque.</text>
+<text id="113">Autoridade: Fundo do Bispo
+
+Use a ferramenta para atingir o solo para acender o fogo e seguir em frente.
+Clique e segure para continuar o ataque.</text>
+<text id="114">Direitos autorais: Nenhum
+
+Luta de espadas na grama
+Ele desembainhou a espada e cortou a arma com precisão.
+Execute um golpe rápido como um ataque normal ou forte.</text>
+<text id="115">Habilidade: Mão
+
+O plano começa com a espada sendo estendida.
+Ataca cartas inimigas com ataques normais. Ou lutando para aumentar a frequência pulmonar.</text>
+<text id="116">Crédito: Grande Caçada
+
+O poder aumenta quando você encontra um inimigo maior.
+Comece de baixo e vá subindo. Acorde cedo para recarregar</text>
+<text id="117">Habilidade: Ataque de Fogo
+
+Pegue a área e atire no inimigo.
+Esta habilidade é mais eficaz contra inimigos com baixa explosão.</text>
+<text id="118">Foto: “Slash Loretta”
+
+Enviado por Loretta Knight.
+Movimento para frente Mova a lâmina em direção à pedra. Então saia. Aumente o movimento reduzindo o campo de visão.</text>
+<text id="119">Poderes: Contaminação de pragas mortais
+
+pare o veneno
+Causa mais dano se outro ataque atingir um inimigo danificado.</text>
+<text id="120">Habilidades: Arma
+
+Um poder protetor exercido pela Rainha Kariya.
+Jogue a arma no ar e corra rápido. O contato foi atacado muitas vezes.</text>
+<text id="121">%null%</text>
+<text id="122">Poder: Furacão
+
+Uma das habilidades do Stormveil é criar inundações.
+Avance na tempestade e ataque o solo com sua arma. Devido à gravidade da explosão, fortes ventos sopraram na área afetada.</text>
+<text id="123">Fonte da imagem: Stormcaller
+
+Uma das habilidades de tornado de Stormveil gira em torno da arma para criar um tornado ao redor do usuário. Este comando pode ser repetido duas vezes no próximo ataque.</text>
+<text id="124">Habilidade: Dança da Espada
+
+O pouso está se aproximando rapidamente.
+Para parar de usar a redução de tráfego, continue com mais instruções.</text>
+<text id="125">Desempenho: Chute em Corrente
+
+Alev corre para atacá-lo.
+Continue com um ataque normal ou forte que transforma o poder em um ataque em cadeia.</text>
+<text id="200">Autor: Lâmina Lâmina
+
+O poder de uma bela guerreira que serviu na Dinastia Karion. A espada mágica está no arco e ataca automaticamente o inimigo. Ele lutou muito para fazê-los votar.</text>
+<text id="201">Poder: Espada Sagrada
+
+Prepare uma arma sagrada e crie uma espada dourada.
+As armas armazenam memórias temporárias.</text>
+<text id="202">Poder: Lança de Gelo
+
+Luar, a arte do herói e o papel da Princesa Leni
+Girar a arma esfria. Seja a lança que perfura o gelo.</text>
+<text id="203">Crédito da foto: Pedra
+
+A capacidade de tocar a Pedra Filosofal de mesmo nome.
+Após um ataque poderoso, combine-o com Impulso enquanto a arma ainda estiver empunhada.</text>
+<text id="204">Habilidade: Sangramento
+
+Temos sede do sangue de nosso Senhor.
+Adicione seu sangue à arma abaixo. Qual deles circula o sangue corretamente?</text>
+<text id="205">Poderes: a vida de um ladrão
+
+Shakti mostra que podemos aprender a arte de controlar as forças vitais.
+Um ataque rápido e controlado que atordoa os inimigos e drena sua saúde. Só pode ser usado contra inimigos artificiais.</text>
+<text id="206">%null%</text>
+<text id="207">Poder: Explosivo
+
+A habilidade de um cavaleiro servindo na região do grande vulcão.
+Ele usa sua arma para atacar o solo. Quando aceso, cria uma nuvem de luz.</text>
+<text id="208">Poder: Ataque de Lealdade
+
+Levante sua arma e reze para que ela caia.
+Este sopro restaura a saúde do usuário e dos aliados próximos quando um inimigo ataca.</text>
+<text id="209">Fonte: Gravitas
+
+O gênio de Lord Alabaster
+Adicione cimento ao solo para criar uma boa gravidade.
+Este ataque atrai inimigos e também causa danos.</text>
+<text id="210">Crédito: Stormblade
+
+O poder da cortina de tempestade foi perdido.
+A arma pode ser usada para girar no ar e disparar rapidamente para frente.</text>
+<text id="211">%null%</text>
+<text id="212">Crédito da foto: Earthshaker
+
+Atire armas e colete energia para enviar uma enorme ameaça ao mundo.
+Junte-se à guerra brutal e capture as armas e o caos.</text>
+<text id="213">Arte: Terra Dourada
+
+Abaixe sua arma e reúna energia para liberar o poder divino envolto em flechas douradas. Junte-se à guerra brutal e capture as armas e o caos.</text>
+<text id="214">Poder: Fogo
+
+A capacidade de transmitir luz em um arco amplo e contínuo.
+Lute pela bruxaria.
+Ele também esconde armas no fogo.</text>
+<text id="215">%null%</text>
+<text id="216">Capacidade: Elétrica
+
+O poder da Capital da Seita do Dragão Antigo
+Levante sua arma de adivinhação.
+Você pode tirar fotos uma por uma.</text>
+<text id="217">Desempenho: Relâmpago
+
+Convoque fogo e armas e depois pense em criar o caos.
+A arma retém sua magia elétrica por um curto período de tempo.</text>
+<text id="218">Foto: “Carian Ukwu”
+
+A vitória dos reis Cara foi alcançada através do poderio militar.
+Transforme a faca em uma palavra mágica e coloque-a no chão.
+Você pode ganhar power-ups para aumentar seu poder em dois níveis.</text>
+<text id="219">Crédito: Kellyanne Espada Grande
+
+A vitória dos reis Cara foi alcançada através do poderio militar.
+Transforme a faca em uma palavra mágica e coloque-a no chão.
+Esta habilidade pode ser ativada concedendo um poder.</text>
+<text id="220">Fonte da imagem: Corte a Vácuo
+
+As habilidades dos antigos samurais estão desaparecendo.
+Carregue sua arma e cerque-a de espaço. A partir de agora, a produção de gergelim continua.</text>
+<text id="221">Crédito da foto: Tornado Chama Negra
+
+Ele ergueu a arma acima da cabeça e atirou com força. Devido à queima de chama negra
+Segure para disparar a primeira rajada enquanto gira a arma.</text>
+<text id="222">Poder: Aura Divina
+
+O poder do General, que Fall Rot possui dia e noite, cria anéis de fogo sagrado e armas aprimoradas.
+Pode carregar anéis de fogo e ferramentas.</text>
+<text id="223">Poder: Energia
+
+Um incêndio começou e se espalhou por uma ampla área. O fogo queimou até o chão brevemente.</text>
+<text id="224">Crédito: Kan
+
+Machuque-se e pinte sua arma com sangue. Isso pode causar coágulos sanguíneos nas vias respiratórias, o que pode causar sangramento.
+A lâmina pode ser girada no dispositivo.</text>
+<text id="225">Crédito: Barra Fantasma
+
+O poder vem das boas lembranças do Guerreiro Noturno, projetado para se parecer com o primeiro Cavaleiro Mestre a controlar a parte superior do corpo. Mais ordens, depois ataque</text>
+<text id="226">Poder: Lança Fantasma
+
+A tecnologia militar de Tomb Knight é ridícula.
+Jogue o inimigo com a lança do vento.</text>
+<text id="227">Habilidade: Não tenha medo
+
+Cubra suas armas com gelo e pilares. Uma névoa fria caía em seu rosto.
+A arma congela por um tempo.</text>
+<text id="228">Poder: Veneno
+
+Adiciona armas mortais e mata inimigos. Abra as asas da morte.
+As armas retêm seu veneno por um curto período de tempo.</text>
+<text id="300">Habilidade: Golpe de Escudo
+
+O escudo à sua frente usou seu corpo para acertá-la e segui-la.
+Um inimigo fraco pode ser derrotado.</text>
+<text id="301">Habilidade: Escudo
+
+A arte de Lord Neidart é mundialmente famosa.
+Adicione poder de escudo para tornar a batalha inesquecível por um tempo.</text>
+<text id="302">Crédito: Perry
+
+Este poder sincroniza com ataques inimigos. Moendo e destruindo a posição do oponente.
+Isso cria mais oportunidades de ataque.</text>
+<text id="303">Crédito: Perry e Buckler
+
+Este poder sincroniza com ataques inimigos. Moendo e destruindo a posição do oponente.
+Corte mais rápido que o normal</text>
+<text id="304">Crédito: Perry
+
+Este poder sincroniza com ataques inimigos. Moendo e destruindo a posição do oponente.
+Isso cria mais oportunidades de ataque.</text>
+<text id="305">Crédito da foto: Vingança de Carrion
+
+Use seu escudo para bloquear inimigos e maldições. Transforme o feitiço em uma espada de vingança.
+Pode ser usado como decoração geral.</text>
+<text id="306">Crédito da foto: Stormwall
+
+Gire seu escudo para criar uma parede de ar à sua frente. Colete tesouros e muito mais. distante
+Pode ser usado como decoração geral.</text>
+<text id="307">Crédito da foto: Kim Perry
+
+Solte escudos protetores e árvores e levante-os para bloquear ataques inimigos e danificar suas posições.
+Também funciona remotamente</text>
+<text id="308">Poderes: Efeito Escudo
+
+Segure o escudo à sua frente com as duas mãos para proteção. Inimigos fracos e atordoados são derrubados.
+Pressione e segure para prolongar a massagem.</text>
+<text id="309">Eficácia: Proteger as partes superiores
+
+O campo de energia mágica aumenta quando você usa seu escudo para bloquear feitiços e maldições.
+Pode ser usado como decoração geral.</text>
+<text id="400">Habilidade: Tiro
+
+Um arco superior é usado em uma forte estratégia de tiro com arco.
+Prepare um grande arco, torça uma corda e atire uma flecha poderosa que pode atingir seus inimigos.</text>
+<text id="401">Características: Cachoeira
+
+tiro com arco on-line
+Ele quebra o arco e atira flechas mais rápido do que a vista consegue ver.</text>
+<text id="402">Poder: Um ataque poderoso
+
+Os filmes acontecem em uma única área.
+Prepare seu arco e puxe a corda para penetrar nos guardas inimigos e aumentar o poder de sua arma.</text>
+<text id="403">%null%</text>
+<text id="404">Crédito: Brincando com Cores
+
+Uma técnica de tiro com arco que dá à flecha um significado espiritual
+O míssil resultante voa mais rápido que o normal e muda de posição para rastrear o alvo.</text>
+<text id="405">Fonte: Sky Shot
+
+O chute é feito de posição baixa.
+Prepare o arco e atire a flecha para o alto. A flecha segue um caminho curvo e derruba o inimigo.</text>
+<text id="406">Agradecimentos: Vaughn
+
+O chute é feito de posição baixa.
+Mude seu arco e atire muitas flechas no céu para fazer chover sobre seus inimigos.</text>
+<text id="407">%null%</text>
+<text id="501">Fonte da imagem: Fosco
+
+Levante-se e espalhe o vapor quente no chão.
+A neblina pode deixar você com frio.</text>
+<text id="502">Crédito da foto: Tempestade Stomp
+
+Uma das habilidades do Stormveil é criar inundações.
+Pisar em solo duro pode causar uma tempestade temporária.</text>
+<text id="503">Habilidade: Chute
+
+Derruba o inimigo e salta.
+Funciona contra oponentes armados. e suprime a área oposta.
+Às vezes, as ferramentas mais simples são as mais eficazes.</text>
+<text id="504">Foto: “Relâmpago”
+
+A energia vem do vibrador.
+Ele apagou a luz e trancou a porta. Seu corpo estava tremendo.
+Processos ineficientes podem ser facilmente copiados.</text>
+<text id="505">Crédito da foto: Fiery Red Mane
+
+O gênio do guerreiro de juba vermelha, General Redon.
+Cria uma chama poderosa que se espalha por uma ampla área.</text>
+<text id="506">Crédito: Floor Slam
+
+Comece e fique à frente.
+O resultado é uma onda poderosa enviada em todas as direções.</text>
+<text id="507">Fonte: Gold Slam
+
+O poder do espírito protege as árvores abaixo.
+Comece e fique à frente.
+Porque a onda do ouro se espalha em todas as direções.</text>
+<text id="508">Descrição: onda escura
+
+Jogar a arma libera três ondas.
+Junte-se à guerra brutal e capture as armas e o caos.</text>
+<text id="509">Foto de : Hoarah Loux Earthshaker
+
+Sua mão atingiu o chão, fazendo o chão tremer violentamente e enviando uma onda de choque.
+Siga as instruções para instalar.</text>
+<text id="600">Poder: tomada de decisão
+
+arte da coragem
+Segure uma arma à sua frente para mostrar sua determinação e aumentar sua eficácia na batalha.</text>
+<text id="601">Poder: Determinação do Cavaleiro Real
+
+Em primeiro lugar, o direito dos cavaleiros de servir ao rei.
+Segure sua meia arma para frente para mostrar sua determinação e aumentar muito seu poder de ataque.</text>
+<text id="602">Pontos fortes: Técnica de aplicação
+
+Leis contra trabalhadores que se machucam
+O funcionário quase perdeu a visão e parou.</text>
+<text id="603">Conformidade: Padrão Ouro
+
+Desde os tempos antigos, esta habilidade foi herdada das classes altas.
+Atualize suas armas e comprometa-se a honrar as árvores na batalha para aumentar a eficácia do combate e a segurança de você e de seus melhores amigos.</text>
+<text id="604">Habilidade: Nível Completo
+
+Cavalaria sob a Ordem Dourada
+Agradeça e presenteie com armas e objetos sagrados.
+Tem um efeito profundo sobre os vivos e os mortos.</text>
+<text id="605">Direitos autorais: Processo Compartilhado
+
+Cavalaria sob a Ordem Dourada
+Adiciona substância sagrada às armas do usuário e de seus aliados.
+Tem um efeito profundo sobre os vivos e os mortos.</text>
+<text id="606">Princípio: Seppuku
+
+Uma técnica proibida que a espada de Reed usa é afundar a espada em seu estômago e cobri-la de sangue. Aumenta o poder de luta e aumenta a perda de sangue.</text>
+<text id="607">Habilidades: Espada de Pedra
+
+força gravitacional
+Eles desenterraram as armas e cortaram as pedras para torná-las mais fortes. Aumenta a eficácia do combate e permite a penetração em posições inimigas.</text>
+<text id="650">Fonte da imagem: Rugido Bárbaro
+
+Remova falhas para encorajar e melhorar o desempenho de um monstro na batalha.
+Quando ativados, ataques poderosos se transformam em combos poderosos.</text>
+<text id="651">Crédito: Bad Lenin
+
+Envie sons de batalha para aumentar seu poder de luta.
+Se um ataque forte for bem-sucedido, ele se transformará em uma luta.</text>
+<text id="652">Design: Besta que ruge
+
+Ele rugiu como um animal. Ele estava tremendo no ar como se tivesse levado um tiro no rosto.</text>
+<text id="653">Fonte: Rugido do Troll
+
+Quando ele olhou para o céu, ele gritou alto e um vento forte mandou os inimigos ao seu redor para trás.
+Siga-o com um ataque poderoso e derrube-o com uma arma.</text>
+<text id="654">Crédito da foto: Garjana
+
+Ele fez sua presença conhecida em voz alta.
+Aumenta o poder de ataque, poder de defesa e velocidade de cura.</text>
+<text id="700">Atributos: Resistência
+
+Construa uma postura forte e melhore seu equilíbrio com pequenas rajadas. Estamos nos preparando para um ataque inimigo.
+Não sofra danos ao usar esta habilidade.</text>
+<text id="701">Pontos fortes: Forte determinação
+
+O poder dos heróis antigos
+Levante seu escudo. Deixe a energia dourada envolver você. E por um tempo ele foi derrotado.</text>
+<text id="702">Fonte da foto: Szentföld
+
+Cultivar um escudo cria uma árvore mais forte que restaura a saúde e aumenta a proteção do usuário e de seus companheiros à distância.</text>
+<text id="800">Habilidade: Pés rápidos
+
+Esta é uma arte que privilegia a velocidade e a astúcia.
+Mova-se para o lado e atire no alvo bloqueado.</text>
+<text id="801">Crédito da foto: Passos de Hound
+
+Torna o usuário temporariamente invisível ao correr em alta velocidade. O usuário sempre pode se mover mais rápido usando métodos ágeis.
+Esta habilidade pode ser usada para ativar alvos bloqueados.</text>
+<text id="802">Crédito da foto: Raptor Mist
+
+A ansiedade desaparece temporariamente.
+Se você for atacado por um inimigo, as asas do pássaro o ajudarão a escapar rapidamente pelo ar.</text>
+<text id="850">Crédito da foto: Isca de Sombra Branca
+
+Faça uma oração curta e silenciosa para criar uma imagem branca com a arma na mão.
+Este pensamento distraiu o maior inimigo do homem. incitando protestos. Funciona contra demi-humanos no modo de batalha.</text>
+<text id="1000">Poderes Especiais: Religião da Fé
+
+Isso leva Bill a acreditar que está tendo um derrame. Ele ergueu a espada e cuspiu fogo em todas as direções.
+Repetir o comando levanta a arma e continua o ataque.</text>
+<text id="1001">Poder Especial: Respiração
+
+Coloque fogo em seu escudo.
+Está cheio de emoções.</text>
+<text id="1002">Habilidades Especiais: Fogo
+
+Substitua o escudo e atire no escudo.
+Clique e segure para continuar digitando. Habilidades podem ser usadas durante a caminhada.</text>
+<text id="1003">Exposição Especial: Balão Oráculo
+
+Toque a buzina para liberar uma bolha mágica.
+O pufe balançou lentamente no ar em direção ao seu rosto.</text>
+<text id="1004">Habilidade Especial: Chuva
+
+Toque a buzina para liberar uma bolha mágica.
+O balão flutua lentamente para cima antes de cair na rocha.</text>
+<text id="1005">Poder Especial: Balão Oráculo Gigante
+
+Toque a trombeta para liberar uma grande bolha mágica.
+O pufe balançou lentamente no ar em direção ao seu rosto.</text>
+<text id="1006">Poder Especial: Mar de Magma
+
+O ar derretido circula no oceano de magma e cobre os arredores.
+Pegue o Lava Whip no caminho de volta.</text>
+<text id="1007">Poder Especial: Ataque de Cobra
+
+Ative rapidamente o escudo para manter a cobra de ferro viva por um tempo. Incentive a cobra a atacar e morder o inimigo.</text>
+<text id="1008">Poder Especial: Grande Espada do Luar
+
+Ele ergueu a espada e banhou-a na luz da lua escura.
+Aumenta temporariamente o poder de ataque do feitiço e cobre a lâmina com gelo.
+O ataque causado causou uma explosão em Chandni.</text>
+<text id="1009">Habilidade Especial: Tristeza Siluriana
+
+Use armas para lançar ataques e criar tumultos.
+Um ataque rápido empurra o inimigo para trás e cria um tornado.</text>
+<text id="1010">Habilidades Especiais: Combate Padrão
+
+Levante a bandeira e grite o grito de guerra.
+Aumenta o ataque e a defesa dos aliados próximos.</text>
+<text id="1011">Habilidade Especial: Testemunha!
+
+Anime o dragão e levante-o no ar. Ele estava correndo para a frente.</text>
+<text id="1012">Habilidade Especial: Centro Musical de Eochaid
+
+Prepare sua arma e jogue-a para frente para atacar e circular. A espada da destruição continuou a funcionar poderosamente.
+Lute para aumentar a largura e o comprimento do círculo.</text>
+<text id="1013">Habilidade Especial: Absorção de Alma
+
+Levante as asas dos seus chifres e convoque os espíritos malignos da destruição.
+A proteção dos inimigos na área afetada é temporariamente reduzida.</text>
+<text id="1014">Habilidade Especial: Eco Fogo
+
+Ele ergueu a espada sagrada e queimou-a com o fogo da blasfêmia. Derrube-o para que ele jogue uma bomba na sua cara.
+O fogo rouba a vida daqueles que toca.</text>
+<text id="1015">Habilidade Especial: Consciência de Milo
+
+Ele grita maldições terríveis. Isso reduz o dano e a resistência dos inimigos próximos.
+Se morto, ele se tornará um poderoso ataque combinado</text>
+<text id="1016">Poder Especial: Sangue de Raduvia
+
+A lâmina demoníaca em sua mão perfurou o ar e o sangue líquido continuou a fluir, transformando-se em sangue flutuante.
+É fácil evitar.</text>
+<text id="1017">Habilidade Especial: Pebble Dart
+
+Habilidades aprimoradas pelo feitiço Perdirant Calhoun.
+Chame isso de pedra
+Ele lutou muito para fazê-los votar.</text>
+<text id="1018">Desempenho especial: tipo líquido
+
+Transforma temporariamente armas em líquido.
+Ele usa uma arma semelhante a um chicote cortando um pedaço de pau largo.</text>
+<text id="1019">Habilidades Especiais: Forma Noite e Luz
+
+Pegue sua espada e prepare-se para plantar.
+A dor sempre luta e lança feitiços na noite do cometa. Ou participe de batalhas brutais para destruir os céus.</text>
+<text id="1020">Habilidade Especial: Onda Dourada
+
+Pegue a antiga espada dourada de luz e derrote seus inimigos.
+Um grande círculo dourado na frente. Destrua todos os inimigos no seu caminho.</text>
+<text id="1021">Poder Especial: Fogo da Destruição
+
+Levante sua espada e lave-a com fogo.
+Aumenta o dano incrível e o bom tempo de recarga dos ataques de fogo.</text>
+<text id="1022">Habilidade Especial: Sistema de Desenho
+
+Levante a mão e diga olá. Produz ouro quebrado
+A lei da frequência produz ondas de luz douradas.</text>
+<text id="1023">Habilidades Especiais: Sono
+
+Uma linda flor roxa é colocada em seu rosto
+Comer isso acalma o inimigo.</text>
+<text id="1024">Habilidade Especial: Lança Ritual
+
+Levantem suas lanças e enviem suas orações ao céu. Isso é chamado de chuva de lança.</text>
+<text id="1025">Poderes Especiais: Ataque de Lobo
+
+Encha a espada com gelo, pressione a arma e puxe para soprar ar frio.</text>
+<text id="1026">Poder Especial: Forma de Nuvem de Tempestade
+
+Transforma temporariamente o usuário em uma nuvem vermelha flutuando no céu. Ele foi cortado com uma espada elétrica.
+Clique e segure para aumentar o tamanho da forma da nuvem.</text>
+<text id="1027">Poder Especial: Sangue Curse Aid
+
+Prepare as seções horizontais e diagonais e prossiga.
+Sangue é fogo e facas.
+Mais ordens, depois ataque</text>
+<text id="1028">Arte Especial: Dança da Cachoeira
+
+Use uma perna para fazer a pose do pássaro aquático espirrando. Isso garante um movimento rápido e fácil.
+Este comando pode ser repetido duas vezes no próximo ataque.</text>
+<text id="1029">Habilidade Especial: Triturador de Ouro
+
+Ele pulou, parou e acendeu a peça rúnica. Ele então a jogou no chão.
+O bravo ataque de Ladagon</text>
+<text id="1030">Poder Especial: Eu ordeno que você se ajoelhe!
+
+Ao atingir o chão repetidamente com o machado de Godric, ele lançou duas flechas de terremoto.
+Continue usando comandos adicionais para criar uma terceira onda.</text>
+<text id="1031">Habilidade Especial: Rugido Real
+
+Envie altos gritos de guerra para aumentar sua eficácia no combate. Também pode causar vibrações inseguras se você pisar no chão. Quanto mais você trabalhar, mais eles irão atacá-lo.</text>
+<text id="1032">Habilidade Especial: Grito do Invocador Estelar
+
+Combine duas espadas e grite para o céu para tentar seu inimigo com amor.
+Siga o comando anexo para atingir o solo com a espada gravitacional.</text>
+<text id="1033">Poder Especial: Superfície de Destruição
+
+Levante sua espada e ataque. Ela brilha em ondas gravitacionais.</text>
+<text id="1034">Habilidade Especial: Cerimônia de Doação de Sangue
+
+Ele ergueu sua lança sagrada, mergulhou-a no corpo da mãe inquieta e a esfaqueou três vezes, tirando sangue de cada vez.
+Esta habilidade faz com que a arma desapareça temporariamente.</text>
+<text id="1035">Desempenho especial: tipo líquido
+
+Transforma temporariamente armas em líquido. Levante sua arma como um chicote para atacar qualquer coisa ao seu redor e depois ataque com uma cara velha.</text>
+<text id="1036">Poder Especial: Golpe Crítico
+
+Liberte o poder da Runa da Morte e atire a poeira como uma espada.
+Dano instantâneo excluído. A espada também reduz a saúde máxima do inimigo e continua a fazê-lo por um determinado período de tempo.</text>
+<text id="1037">Habilidades Especiais: Espada Dourada
+
+Salte para o céu, pegue a arma e a língua dourada. Crie algo como uma espada e evite o inimigo.
+Perda total</text>
+<text id="1038">Poder Especial: Morte Futura
+
+Esconda os corpos, largue as espadas e colete milhares de espadas.
+Além de causar dano instantâneo, este ataque também reduz a saúde primária do inimigo. E a esperança de vida continua a diminuir</text>
+<text id="1039">Funções Especiais: Rodas
+
+Gire a roda para que ela gire a toda velocidade. Pressione o botão para girar a roda.
+Pode ser usado para atirar armas contra inimigos enquanto caminha.</text>
+<text id="1040">Poder Especial: Poder do Lorde Alabastro
+
+Adicione cimento ao solo para criar uma boa gravidade. Este ataque atrai inimigos e também causa danos.
+Mais eficaz que Gravitas.</text>
+<text id="1041">Habilidades Especiais: Onyx King
+
+Adicione cimento ao solo para criar uma boa gravidade. Além de causar dano, esse ataque também lança o inimigo para o alto.</text>
+<text id="1042">Habilidade Especial: Mudança
+
+Ele respondeu com sua espada. E temporariamente todos os recursos estão melhores. Mesmo que o efeito atual funcione, o equilíbrio aumentará.</text>
+<text id="1043">Habilidades Especiais: Espada de Gelo e Relâmpago
+
+Ele puxa a neve da lâmina. Está chovendo sobre o inimigo.
+O efeito de resfriamento é temporário.</text>
+<text id="1044">Poder Especial: Garra de Monstro
+
+Use um martelo para quebrar o chão e um prego de 5 polegadas para prendê-lo ao chão.</text>
+<text id="1045">Habilidades Especiais: Fogo
+
+Cubra uma grande área com uma grande luz vermelha e ataque com um estilo giratório rápido.</text>
+<text id="1046">Habilidade especial: Mova o dedo
+
+Ele flexionava e dobrava os dedos para aumentar sua força antes de realizar movimentos poderosos que afetavam seus inimigos.</text>
+<text id="1047">Habilidade Especial: Névoa
+
+Use magia para direcionar as estrelas para a batalha.
+O movimento afrouxou brevemente as nuvens antes de explodir.</text>
+<text id="1048">Poder Especial: Fogo Demoníaco
+
+Golpeie-o com uma vara afiada e queime sua boca com uma chama feroz.
+Um ataque normal provoca um incêndio no solo. Mas é uma luta poderosa que provoca uma enorme explosão.</text>
+<text id="1049">Habilidades Especiais: Lança de Fogo Antiga
+
+Ele pegou uma grande píton vermelha de seus braços e a jogou como uma lança.
+A potência pode ser ajustada para aumentar a eficiência.</text>
+<text id="1050">Habilidades Especiais: Fogo
+
+Pegue a lança do fogo ardente e salte para frente. Coloque-o no chão e faça uma grande explosão.
+Pode enlouquecer os inimigos e a equipe.</text>
+<text id="1051">Poder Especial: Anel de Fogo de Mikaela
+
+Convoque e cace a talentosa Miguela.
+mão</text>
+<text id="1052">Habilidade Especial: Rage Gold
+
+Cruze duas espadas para realizar seu desejo pela guerra de Deus.
+O ataque mais poderoso durante o trabalho é uma combinação de duas espadas.</text>
+<text id="1053">Poderes Especiais: A Última Ceia
+
+Aprenda lições para compartilhar com você e seus colegas mais próximos.
+É útil para fortalecer o moribundo.</text>
+<text id="1054">Habilidade Especial: Espada Imparável
+
+Use fogo para criar uma lâmina profunda. De repente, ele fica mais alto e sua respiração fica difícil.
+Esta luta não pode ser interrompida.</text>
+<text id="1055">Habilidade Especial: Centro Musical de Eochaid
+
+Prepare sua arma e jogue-a para frente para atacar e circular. A espada da destruição continuou a funcionar poderosamente.
+Lute para aumentar a largura e o comprimento do círculo.</text>
+<text id="1167">Habilidades Especiais: Beleza
+
+O poder perdido dos heróis antigos
+Ele levanta a espada e libera o poder do cadáver de cera. E ele corre para frente com a espada.</text>
+<text id="1168">Poder Especial: Tempestade de Gelo Zamor
+
+Vire sua espada desembainhada. Reúna energia e permita que um vórtice de luz flua pela sua área.</text>
+<text id="1169">Poder Especial: Rodan Wren
+
+O chute é feito de posição baixa.
+Troque seu arco e atire sua flecha direto para o céu. A flecha cai sobre o inimigo.</text>
+<text id="1170">Habilidade Especial: Rainha do Fogo Negro
+
+Use fogo negro para matar o Deus e a Espada. Outras ordens então atacam com fogo escuro, causando dano por um curto período de tempo.</text>
+<text id="1171">Habilidades Especiais: Liderança
+
+Ataque rapidamente e proteja-se dos inimigos. Quando um ataque poderoso é lançado rapidamente por você mesmo, pressione Power Attack novamente para interromper o arco.</text>
+<text id="1172">Poder Especial: Chuva de Lava
+
+O ataque faz com que o magma gire e se espalhe em todas as direções.
+Mais ordens, depois ataque</text>
+<text id="1173">Habilidade Especial: Névoa
+
+O mago usa as Asas do Filho da Natureza para liberar uma nuvem que persiste por um tempo. Então explodiu.</text>
+<text id="1174">Poder Especial: Golpe Crítico
+
+Ative Ugly Sunlight e Death King para destruir os inimigos.
+Siga quaisquer outras instruções relativas ao descarte de explosivos.</text>
+<text id="1175">Habilidades Especiais: Excelente cão de caça.
+
+Corte com Hound Fang, usando o poder do ataque para cortar o inimigo. Junte-se à intensa batalha em Hound Stomp Battle.</text>
+<text id="1176">Habilidade Especial: Guilhotina de Magma
+
+Os dragões têm uma espada de dois gumes. Ele avançou com a espada na boca. e coloca uma ogiva nuclear sob o míssil. Siga as instruções fornecidas para hackear.</text>
+<text id="1177">Habilidade Especial: Matador de Cadáveres
+
+Esta maldita espada de sangue foi feita para lutar. Digite este comando para outro ataque.</text>
+<text id="1178">Habilidade Especial: Luar Instantâneo
+
+Ele desembainhou a espada e cortou a arma com precisão.
+Ataques repetidos ou ataques violentos. Jogue a espada em alta velocidade para realizar um ataque rápido com a espada. Houve um raio.</text>
+<text id="1179">Poderes Especiais: Esgrima de Sangue
+
+Salte sobre o inimigo para atacar como um tornado.
+Complete outras missões e acabe com a guerra com rotas de fuga.</text>
+<text id="1180">%null%</text>
+<text id="1181">Crédito da foto: Mikaela Hidden Blade
+
+Ele libera a espada que Mikaela guardava e ataca o mundo com seu poder.</text>
+<text id="1182">Habilidades Especiais: Onisciente
+
+Levante o cajado para mostrar o governo do Todo-Poderoso. A magia do inimigo diminuiu. E a destruição sagrada é removida de todos na área. (incluindo funcionários)</text>
+<text id="1183">Habilidade Especial: Devorador da Terra
+
+Carregue sua varinha com magia e gire-a, roubando a saúde de todos os inimigos próximos.</text>
+<text id="1184">Habilidade Especial: Fúria Familiar
+
+Ele balançou a cabeça de bronze lentamente. Convocando espíritos vingativos para perseguir o inimigo
+A dor do casamento e dos filhos é chamada de raiva e ódio.</text>
+<text id="1185">Habilidade Especial: KP Rosa
+Levante o Senhor para chamar os perdidos.
+Três esqueletos aparecem ao longe, colidem e desaparecem.</text>
+<text id="1186">Poder Especial: Fogo
+
+Use as lâminas da arma para enviar raios para os arcos. Siga as instruções para realizar dois ataques.
+A corrente elétrica permanece na lâmina por um tempo.</text>
+<text id="1187">Forças Especiais: Falange Sagrada
+
+Liberte o poder mágico oculto e rompa a barreira da Lança Dourada.</text>
+<text id="1188">Habilidade Especial: Caçar cobras gigantes
+
+Dê um passo forte à frente. E force-o com muitos comandos. Quando você encontrar uma cobra grande, uma espada longa e simples aparecerá para mostrar o poder da arma.</text>
+<text id="1189">Habilidade Especial: Asas de Anjo
+
+Salte e pegue a lâmina da arma na luz. Ele então começou a atacar o inimigo.
+Whitewing usa um frasco de lágrimas para interromper o processo de regeneração.</text>
+<text id="1190">Habilidades Especiais: Tempestade
+
+Empurre a perna artificial e crie uma tempestade.
+Continue com ataques poderosos e ataques de salto.</text>
+<text id="1191">Habilidade Especial: Espada Imparável
+
+Crie uma faca e avance para um ataque surpresa.
+Esta luta não pode ser interrompida.</text>
+<text id="1192">Habilidade Especial: Feitiço do Bispo
+
+Ao transformar magia em pedra você temerá os antigos. Crie automaticamente flechas mágicas que flutuam e seguem os inimigos.</text>
+<text id="1193">Produtos especiais: Corte de árvores
+
+Comece e fique à frente. Porque a onda do ouro se espalha em todas as direções.
+Esta é uma verdadeira queda de energia.</text>
+<text id="1194">Forças Especiais: Gravidade
+
+Use a gravidade para esconder rapidamente a cor do animal. Reflete a luz de seu dono
+Você pode tirar fotos uma por uma.</text>
+<text id="1195">Poderes Especiais: Fogo Passivo
+
+Pegue uma chama do sol e ela se transformará em uma chama roxa cobrindo o chão à sua frente.
+Agni coloca os inimigos para dormir.</text>
+<text id="1196">Poder Especial: Contra-ataque de Ouro
+
+Pegue o escudo para derrubar o amuleto protetor.
+Elimina bruxaria e adivinhação. E eu vou vingar você com o poder do ouro.</text>
+<text id="1197">Poder Especial: Fúria Contagiosa
+
+Irritar a água-viva para deixá-lo com raiva.
+Aumenta temporariamente o poder de ataque.</text>
+<text id="1198">Poder Especial: Vórtice Aldovis
+
+Ele usou o poder do lançador para levantar a espada inteira no ar. E ele imediatamente caiu e largou a arma.
+Esta habilidade pode ser ativada para aumentar seu poder.</text>
+<text id="1199">Habilidades Especiais: Armas
+
+Quando o feitiço está preso à pedra, a varinha flutua no ar e se move muito rapidamente.
+Os participantes são constantemente atacados por bruxaria.</text>
+</entries>
+</fmg>

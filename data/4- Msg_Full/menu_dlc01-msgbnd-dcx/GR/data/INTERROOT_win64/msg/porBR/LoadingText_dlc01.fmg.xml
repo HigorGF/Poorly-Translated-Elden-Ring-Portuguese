@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Comer um pedaço de madeira na sombra certa pode aumentar a sombra da árvore.
+
+Shadow Tree Blessing reforça a capacidade do destinatário de causar dano e destruir. No entanto, não tem outro efeito além da sombra.</text>
+<text id="81">Leve as cinzas do Senhor ao lugar de graça e confirme a bênção das cinzas do Senhor.
+
+A bênção de Noble Ash apoia o comportamento e eleva a imunidade da alma a um nível crítico. No entanto, não tem influência fora do Império das Sombras.</text>
+<text id="205">Itens comprados pela primeira vez podem ser marcados com &lt;?newItemIcon?&gt;.
+
+A exibição de símbolos pode ser ativada ou desativada na seção Exibição do menu Sistema.</text>
+<text id="206">Suas compras recentes estão em uma guia separada.
+-
+Você pode ativar ou desativar esta guia na seção Exibir do menu Sistema.</text>
+<text id="207">Missing Summon Stones serão adicionadas ao jogo no futuro.
+
+Você pode ativar ou desativar qualquer pesquisa no menu do mapa.</text>
+</entries>
+</fmg>

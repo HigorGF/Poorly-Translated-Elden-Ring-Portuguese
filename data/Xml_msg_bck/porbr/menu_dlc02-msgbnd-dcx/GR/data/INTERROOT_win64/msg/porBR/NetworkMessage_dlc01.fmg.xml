@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2601425">Invocado para outro mundo.
+Derrote a Cavaleira da Agulha Leda e seus aliados!</text>
+<text id="2601426">Invocado para outro mundo.
+Derrote Sir Ansbach!</text>
+<text id="2601427">Invocado para outro mundo.
+Derrote a Cavaleira da Agulha Leda!</text>
+<text id="2601428">Invocado para outro mundo.
+
+Derrote o Enviado do Chifre!</text>
+<text id="2601429">Invocado para outro mundo.
+Derrote a Cavaleira da Agulha Leda!</text>
+<text id="2611425">Cavaleira da Agulha Leda e aliados derrotados.
+Retornando ao seu mundo.</text>
+<text id="2611426">Sir Ansbach derrotado.
+Retornando ao seu mundo.</text>
+<text id="2611427">Cavaleira da Agulha Leda derrotada.
+Retornando ao seu mundo.</text>
+<text id="2611428">Enviado do chifre derrotado.
+Retornando ao seu mundo.</text>
+<text id="2611429">Cavaleira da Agulha Leda derrotada.
+Retornando ao seu mundo.</text>
+<text id="2621425">Você morreu. Retornando ao seu mundo.</text>
+<text id="2621426">Você morreu. Retornando ao seu mundo.</text>
+<text id="2621427">Você morreu. Retornando ao seu mundo.</text>
+<text id="2621428">Você morreu. Retornando ao seu mundo.</text>
+<text id="2621429">Você morreu. Retornando ao seu mundo.</text>
+<text id="2622425">O Anfitrião de Dedos morreu.
+Retornando ao mundo do anfitrião.</text>
+<text id="2631425">Retornando ao seu mundo</text>
+<text id="2631426">Retornando ao seu mundo</text>
+<text id="2631427">Retornando ao seu mundo</text>
+<text id="2631428">Retornando ao seu mundo</text>
+<text id="2631429">Retornando ao seu mundo</text>
+<text id="2632425">O Anfitrião de Dedos retornou ao seu mundo. Retornando ao mundo do anfitrião.</text>
+<text id="2640425">O Dedo Enrolado &lt;?leaveName?&gt; foi enviado de volta ao seu mundo.</text>
+<text id="2641425">Mandado de volta pelo Anfitrião de Dedos.
+Retornando ao seu mundo.</text>
+<text id="2642425">O Dedo Enrolado &lt;?leaveName?&gt; foi enviado de volta ao seu mundo.</text>
+<text id="2691425">Você morreu. Retornando ao seu mundo.</text>
+<text id="2692425">O Dedo Enrolado &lt;?deadName?&gt; morreu.</text>
+<text id="2693425">Retornando ao seu mundo</text>
+<text id="2694425">O Dedo Enrolado &lt;?leaveName?&gt; voltou ao seu mundo.</text>
+<text id="4080100">Invocando cooperador...</text>
+<text id="4080101">%null%</text>
+<text id="4080102">%null%</text>
+<text id="4080103">%null%</text>
+<text id="4080104">%null%</text>
+<text id="4080105">%null%</text>
+<text id="4080106">%null%</text>
+<text id="4080107">%null%</text>
+<text id="4080108">%null%</text>
+<text id="4080109">%null%</text>
+<text id="4080110">Invocando outro cooperador...</text>
+<text id="4080800">Guerreiro Draco Igon invocado como cooperador.</text>
+<text id="4080801">Guerreiro Draco Igon invocado como cooperador.</text>
+<text id="4080802">Guerreiro Draco Igon morreu.</text>
+<text id="4080803">%null%</text>
+<text id="4080804">%null%</text>
+<text id="4080805">%null%</text>
+<text id="4080806">%null%</text>
+<text id="4080807">%null%</text>
+<text id="4080808">%null%</text>
+<text id="4080809">%null%</text>
+<text id="4080810">Thiollier invocado como cooperador.</text>
+<text id="4080811">Thiollier invocado como cooperador.</text>
+<text id="4080812">Thiollier morreu.</text>
+<text id="4080813">%null%</text>
+<text id="4080814">%null%</text>
+<text id="4080815">%null%</text>
+<text id="4080816">%null%</text>
+<text id="4080817">%null%</text>
+<text id="4080818">%null%</text>
+<text id="4080819">%null%</text>
+<text id="4080820">Invadido por Thiollier!</text>
+<text id="4080821">%null%</text>
+<text id="4080822">Thiollier morreu.</text>
+<text id="4080823">%null%</text>
+<text id="4080824">%null%</text>
+<text id="4080825">%null%</text>
+<text id="4080826">%null%</text>
+<text id="4080827">%null%</text>
+<text id="4080828">%null%</text>
+<text id="4080829">%null%</text>
+<text id="4080830">Invadido pela Espadachim da Noite Jolán!</text>
+<text id="4080831">%null%</text>
+<text id="4080832">Espadachim da Noite Jolán morreu</text>
+<text id="4080833">%null%</text>
+<text id="4080834">%null%</text>
+<text id="4080835">%null%</text>
+<text id="4080836">%null%</text>
+<text id="4080837">%null%</text>
+<text id="4080838">%null%</text>
+<text id="4080839">%null%</text>
+<text id="4080840">Cavaleiro Sangue Puro Ansbach invocado como cooperador</text>
+<text id="4080841">Cavaleiro Sangue Puro Ansbach invocado como cooperador</text>
+<text id="4080842">Cavaleiro Sangue Puro Ansbach morreu</text>
+<text id="4080843">Cavaleiro Sangue Puro Ansbach será invocado como cooperador no momento apropriado</text>
+<text id="4080844">%null%</text>
+<text id="4080845">%null%</text>
+<text id="4080846">%null%</text>
+<text id="4080847">%null%</text>
+<text id="4080848">%null%</text>
+<text id="4080849">%null%</text>
+<text id="4080850">Thiollier invocado como cooperador</text>
+<text id="4080851">Thiollier invocado como cooperador</text>
+<text id="4080852">Thiollier morreu</text>
+<text id="4080853">Thiollier será invocado como cooperador no momento apropriado</text>
+<text id="4080854">%null%</text>
+<text id="4080855">%null%</text>
+<text id="4080856">%null%</text>
+<text id="4080857">%null%</text>
+<text id="4080858">%null%</text>
+<text id="4080859">%null%</text>
+<text id="4080860">Nobre Sanguíneo Nataan invocado como cooperador</text>
+<text id="4080861">Nobre Sanguíneo Nataan invocado como cooperador</text>
+<text id="4080862">Nobre Sanguíneo Nataan morreu</text>
+<text id="4080863">Nobre Sanguíneo Nataan será invocado como cooperador no momento apropriado</text>
+<text id="4080864">%null%</text>
+<text id="4080865">%null%</text>
+<text id="4080866">%null%</text>
+<text id="4080867">%null%</text>
+<text id="4080868">%null%</text>
+<text id="4080869">%null%</text>
+<text id="4080870">Enviado do Chifre invocado como cooperador.</text>
+<text id="4080871">Enviado do Chifre invocado como cooperador.</text>
+<text id="4080872">Enviado do Chifre morreu.</text>
+<text id="4080873">%null%</text>
+<text id="4080874">%null%</text>
+<text id="4080875">%null%</text>
+<text id="4080876">%null%</text>
+<text id="4080877">%null%</text>
+<text id="4080878">%null%</text>
+<text id="4080879">%null%</text>
+<text id="4080880">Espadachim da Noite, Jolán invocada como cooperador.</text>
+<text id="4080881">Espadachim da Noite, Jolán invocada como cooperador.</text>
+<text id="4080882">Espadachim da Noite, Jolán morreu.</text>
+<text id="4080883">%null%</text>
+<text id="4080884">%null%</text>
+<text id="4080885">%null%</text>
+<text id="4080886">%null%</text>
+<text id="4080887">%null%</text>
+<text id="4080888">%null%</text>
+<text id="4080889">%null%</text>
+<text id="4080890">Enviado do Chifre invocado como adversário.</text>
+<text id="4080891">%null%</text>
+<text id="4080892">Enviado do Chifre morreu.</text>
+<text id="4080893">%null%</text>
+<text id="4080894">%null%</text>
+<text id="4080895">%null%</text>
+<text id="4080896">%null%</text>
+<text id="4080897">%null%</text>
+<text id="4080898">%null%</text>
+<text id="4080899">%null%</text>
+<text id="4080900">Moore invocado como adversário.</text>
+<text id="4080901">%null%</text>
+<text id="4080902">Moore morreu.</text>
+<text id="4080903">%null%</text>
+<text id="4080904">%null%</text>
+<text id="4080905">%null%</text>
+<text id="4080906">%null%</text>
+<text id="4080907">%null%</text>
+<text id="4080908">%null%</text>
+<text id="4080909">%null%</text>
+<text id="4080910">Juba Vermelha Freyja invocada como adversária.</text>
+<text id="4080911">%null%</text>
+<text id="4080912">Juba Vermelha Freyja morreu.</text>
+<text id="4080913">%null%</text>
+<text id="4080914">%null%</text>
+<text id="4080915">%null%</text>
+<text id="4080916">%null%</text>
+<text id="4080917">%null%</text>
+<text id="4080918">%null%</text>
+<text id="4080919">%null%</text>
+<text id="4080920">Cavaleira da Agulha Leda invocada como adversária.</text>
+<text id="4080921">%null%</text>
+<text id="4080922">Cavaleira da Agulha Leda morreu.</text>
+<text id="4080923">%null%</text>
+<text id="4080924">%null%</text>
+<text id="4080925">%null%</text>
+<text id="4080926">%null%</text>
+<text id="4080927">%null%</text>
+<text id="4080928">%null%</text>
+<text id="4080929">%null%</text>
+<text id="4080930">Dane Folhaseca invocado como adversário.</text>
+<text id="4080931">%null%</text>
+<text id="4080932">Dane Folhaseca morreu.</text>
+</entries>
+</fmg>

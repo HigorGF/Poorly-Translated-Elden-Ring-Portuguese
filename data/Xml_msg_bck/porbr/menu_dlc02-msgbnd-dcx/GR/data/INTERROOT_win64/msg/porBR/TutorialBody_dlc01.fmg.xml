@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="302600">Fragmentos da Umbrárvore podem ser encontrados pelo reino das sombras.
+
+Consuma em locais da graça para aumentar a bênção da Umbrárvore.
+
+A bênção da Umbrárvore reforça as habilidades de causar e negar dano do recipiente, mas não tem influência fora do reino das sombras.</text>
+<text id="302601">%null%</text>
+<text id="302602">%null%</text>
+<text id="302603">%null%</text>
+<text id="302604">%null%</text>
+<text id="302605">%null%</text>
+<text id="302606">%null%</text>
+<text id="302607">%null%</text>
+<text id="302608">%null%</text>
+<text id="302609">%null%</text>
+<text id="302610">Cinzas Espirituais Reverenciadas podem ser encontradas pelo reino das sombras.
+
+Consuma essa Cinza em locais da graça para aumentar a bênção da Cinza Espiritual Reverenciada.
+
+A bênção da Cinza Espiritual Reverenciada reforça as habilidades dos espíritos invocados e do corcel espectral de causar e negar dano, mas não tem influência fora do reino das sombras.</text>
+<text id="302611">%null%</text>
+<text id="302612">%null%</text>
+<text id="302613">%null%</text>
+<text id="302614">%null%</text>
+<text id="302615">%null%</text>
+<text id="302616">%null%</text>
+<text id="302617">%null%</text>
+<text id="302618">%null%</text>
+<text id="302619">%null%</text>
+<text id="302620">Novos recursos podem ser ativados na aba Exibir no menu de sistema.
+
+- Itens obtidos pela primeira vez podem ser marcados com &lt;?newItemIcon?&gt;.
+- Uma guia dedicada foi criada para exibir itens obtidos mais recentemente.</text>
+<text id="402600">Consuma Fragmentos da Umbrárvore para aumentar a bênção da Umbrárvore.
+
+A bênção da Umbrárvore reforça a habilidade do portador de causar e negar dano, mas não tem influência fora do reino das sombras.</text>
+<text id="402601">%null%</text>
+<text id="402602">%null%</text>
+<text id="402603">%null%</text>
+<text id="402604">%null%</text>
+<text id="402605">%null%</text>
+<text id="402606">%null%</text>
+<text id="402607">%null%</text>
+<text id="402608">%null%</text>
+<text id="402609">%null%</text>
+<text id="402610">Consuma Cinzas Espirituais Reverenciadas para aumentar as bênçãos da Cinza Espiritual Reverenciada.
+
+A bênção da Cinza Espiritual Reverenciada reforça as habilidades dos espíritos invocados e do corcel espectral de causar e negar dano, mas não tem influência fora do reino das sombras.</text>
+</entries>
+</fmg>

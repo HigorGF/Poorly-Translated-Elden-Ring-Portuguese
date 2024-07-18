@@ -1,0 +1,904 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">Foto: Papel de secagem ao vento
+
+Esta habilidade representa o mais alto nível das artes marciais de Dan.
+Use a técnica do chute giratório para voar antes de atingir o solo. Aumente seu progresso e poder.</text>
+<text id="2001">Definição: Seção (asa).
+
+Essa habilidade vem da vida do cadinho.
+Faça duas asas douradas e voe para longe. Não voe em direção ao inimigo e use sua arma, se você usar um gêmeo o ataque será revertido.</text>
+<text id="4000">Shakti: um indicador de gravidade
+
+Os seguidores do Rei Alabastro são conhecidos por suas habilidades que desafiam a gravidade. Use a gravidade para permanecer no ar. Em seguida, vire o corpo e dê um passo à frente. Suporta vários ataques de comando</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">Crédito: Palmas Quebradas
+
+Uma força de busca da alma conhecida como galho seco usa as palmas das mãos para costurar rachaduras. Um ataque carregado pode ter um efeito poderoso.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">Arte: Criação
+
+Lança a arma em alta velocidade para causar dano ao inimigo. Quando esta habilidade é usada, seu tempo de lançamento aumenta quando um inimigo passa.</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">Habilidade: Perder
+
+Use mais de uma arma em cada mão. E use a arte da fundição. Repita o comando para reconstruir.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">Crédito da foto: Spark Wall
+
+O local onde polvilhamos a farinha vai crescer por mais algum tempo. Podem ser aplicadas taxas para maior desempenho e quilometragem.
+O formato da vela depende do frasco de perfume utilizado.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">Crédito da foto: Spark Wave
+
+Polvilhe o pó perfumado no rosto para criar uma chama mortal.
+O formato da vela depende do frasco de perfume utilizado.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">Poder: Animal
+
+Mova-se na velocidade de uma fera. Salte o inimigo de cima. O primeiro passo pode ser para frente, para trás, para a esquerda ou para a direita. Dá uma forte chance de luta.</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">Crédito: Garra Selvagem
+
+Ele ataca como um animal selvagem. Use suas mãos para acertar inimigos de todos os lados.</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">Habilidade Especial: Caçador Vermelho
+
+Use suas mãos afiadas para matar o cervo voador gigante. Os ataques criam oportunidades e causam danos ao longo do tempo. Reverter o comando pode levar a mais dois ataques.</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">Crédito: Ponto Cego
+
+Venha, venda os olhos do seu inimigo e leve-o de lado. Essas regras definem o tipo de ataque. O ataque reduz a defesa do inimigo.</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">Habilidade: Corta rapidamente
+
+A arte se move entre os espadachins. Mate o inimigo rapidamente. Isso reduz a distância da caverna alvo. Os custos podem aumentar a resistência e o comprimento da corda.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Crédito: Companhia Aérea
+
+A habilidade começa levantando a espada na posição correta.
+Lute normalmente deste local para continuar e ficar. Ou use um ataque pesado para obter um ataque prejudicial.</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">Crédito: Postura da Asa
+
+Procure o pequeno buraco à direita. Um ataque normal desencadeia três rajadas rápidas. Aumentar o poder de ataque</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">Foto: Flash Ray
+
+O poder do Cavaleiro de Ouro funciona a favor de Godwin. Quando parte do solo, o corpo se torna fonte de calor e funciona em alta velocidade.</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">Crédito da foto: Espetos de Fogo
+
+A habilidade Fogo de Quillin mergulha sua arma no fogo e a congela antes que você possa acertar um inimigo. Um ataque poderoso desencadeia outro ataque de fogo.</text>
+<text id="4141">%null%</text>
+<text id="4142">%null%</text>
+<text id="4143">%null%</text>
+<text id="4144">%null%</text>
+<text id="4145">%null%</text>
+<text id="4146">%null%</text>
+<text id="4147">%null%</text>
+<text id="4148">%null%</text>
+<text id="4149">%null%</text>
+<text id="4150">Crédito da foto: Junglee Singh
+
+Este é um talento incrível. Mesmo entre os tintos. Sempre ataque os inimigos e use armas contra eles. Ataques adicionais podem ser realizados usando comandos adicionais.</text>
+<text id="4151">%null%</text>
+<text id="4152">%null%</text>
+<text id="4153">%null%</text>
+<text id="4154">%null%</text>
+<text id="4155">%null%</text>
+<text id="4156">%null%</text>
+<text id="4157">%null%</text>
+<text id="4158">%null%</text>
+<text id="4159">%null%</text>
+<text id="4160">Habilidades: Besta Divina de Gelo
+
+A arte de imitar a raiva das criaturas míticas envolve levantar uma perna e abaixá-la até o chão. Provoca fortes chuvas. Pode ser ajustado de acordo com potência e peso.</text>
+<text id="4161">%null%</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">Poder: Lança de Fogo
+
+O Poder de Kut, líder dos Cavaleiros do Fogo.
+O ataque armado continua. Lutamos para infligir danos e progredir ainda mais.</text>
+<text id="4171">%null%</text>
+<text id="4172">%null%</text>
+<text id="4173">%null%</text>
+<text id="4174">%null%</text>
+<text id="4175">%null%</text>
+<text id="4176">%null%</text>
+<text id="4177">%null%</text>
+<text id="4178">%null%</text>
+<text id="4179">%null%</text>
+<text id="4180">Fonte da imagem: Império Carian
+
+Os Rajas Negros transmitiram esta arte de geração em geração. Transforme a espada em uma espada mágica e corte-a. Outros comandos incluem ataques verticais. Ambos os ataques podem ser carregados para aumentar seu poder.</text>
+<text id="4181">%null%</text>
+<text id="4182">%null%</text>
+<text id="4183">%null%</text>
+<text id="4184">%null%</text>
+<text id="4185">%null%</text>
+<text id="4186">%null%</text>
+<text id="4187">%null%</text>
+<text id="4188">%null%</text>
+<text id="4189">%null%</text>
+<text id="4190">Habilidade: Chorar
+
+Estas são as habilidades que os agressores usam. O alerta fará com que os inimigos próximos hesitem e lembrem-se de atacar. Aumenta o poder de ataque com base no nível restante. O efeito é maior com PV mais baixo.</text>
+<text id="4191">%null%</text>
+<text id="4192">%null%</text>
+<text id="4193">%null%</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">Habilidade: Escudo de Batalha
+
+Arte de ataque com escudo
+Repita este comando mais três vezes.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">Crédito: Aegon Draco Hunter
+
+O guerreiro dragão de Aegon engasgou antes de correr e gritar.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">Vantagem: Convocar Fogo Fantasma
+
+Troque de armas para liberar fogo mortal.
+Um ataque normal provoca um incêndio no solo. Mas é uma luta poderosa que provoca uma enorme explosão.</text>
+<text id="5000">Habilidade Especial: Lágrimas de Dragão
+
+Este poder foi projetado para caçar dragões grandes. E enrole a arma na pedra antes de pular. Ataques carregados também são bloqueados.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">Área de Atuação: Acupuntura
+
+Deixe o cavaleiro vermelho inserir rapidamente a agulha dourada. Essas pessoas perdem todas as suas doenças e emoções.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">Habilidades Especiais: Luz
+
+Ele atira contra uma parede, cortando a lâmina da arma de fogo. Ativar a espada superior libera uma luz poderosa e muitos raios dispersos. Substitui temporariamente o ataque sagrado.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">Poder Especial: Sombrio
+
+Levante sua espada, destrua a escuridão. Funciona no dano sagrado e reduz temporariamente o dano de repulsão.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">Habilidade Especial: 11 Fragmentos de Estrela
+
+Chamada de “Espadachim Humano”, essa habilidade pode canalizar energia incrível em formações rochosas para desencadear ataques poderosos. O comando de repetição permite mais dois ataques. Cada ataque causa mais dano que o anterior.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">Habilidade: Flor da Morte floresce duas vezes.
+
+Invoca cápsulas vermelhas podres do chão para empalar os inimigos. Este ataque causa dano massivo instantaneamente se atingir um inimigo suficientemente envenenado ou deteriorado.</text>
+<text id="5080">Habilidade Especial: Guilhotina
+
+Segure as duas extremidades da lâmina danificada e puxe-a para trás para poder cortar com força de cima para baixo. Comandos repetidos permitem ataques simultâneos mais longos. Um ataque poderoso começa com um salto e é seguido por um giro.</text>
+<text id="5081">%null%</text>
+<text id="5082">%null%</text>
+<text id="5083">%null%</text>
+<text id="5084">%null%</text>
+<text id="5085">%null%</text>
+<text id="5086">%null%</text>
+<text id="5087">%null%</text>
+<text id="5088">%null%</text>
+<text id="5089">%null%</text>
+<text id="5090">Habilidade Especial: Dança Sem Fim
+
+Canções raivosas seguem bem umas às outras, sigam as regras. A dança continua enquanto você tiver energia.</text>
+<text id="5091">%null%</text>
+<text id="5092">%null%</text>
+<text id="5093">%null%</text>
+<text id="5094">%null%</text>
+<text id="5095">%null%</text>
+<text id="5096">%null%</text>
+<text id="5097">%null%</text>
+<text id="5098">%null%</text>
+<text id="5099">%null%</text>
+<text id="5100">Habilidade Especial: Espada da Vingança
+
+Atacar o inimigo e acertá-lo com as duas mãos dá a primeira corrida. Participe de uma batalha feroz, mate seus inimigos.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">Habilidade Especial: Sono Eterno
+
+Emite uma névoa roxa suave que se espalha pelo rosto. Você atormenta seus inimigos para sempre.</text>
+<text id="5111">%null%</text>
+<text id="5112">%null%</text>
+<text id="5113">%null%</text>
+<text id="5114">%null%</text>
+<text id="5115">%null%</text>
+<text id="5116">%null%</text>
+<text id="5117">%null%</text>
+<text id="5118">%null%</text>
+<text id="5119">%null%</text>
+<text id="5120">Poder Especial: Senhor dos Royal Sith
+
+Boas habilidades de fuga permitem flexibilidade. A lei então diz que temos que recuar. Acompanhe com ataques poderosos e cortes altos. E outra velocidade de ataque surpreendente.</text>
+<text id="5121">%null%</text>
+<text id="5122">%null%</text>
+<text id="5123">%null%</text>
+<text id="5124">%null%</text>
+<text id="5125">%null%</text>
+<text id="5126">%null%</text>
+<text id="5127">%null%</text>
+<text id="5128">%null%</text>
+<text id="5129">%null%</text>
+<text id="5130">Habilidade Especial: Flash Beam (Eixo Duplo)
+
+Quando parte do solo, o corpo se torna fonte de calor e funciona em alta velocidade. Ataque com fogo poderoso.</text>
+<text id="5131">%null%</text>
+<text id="5132">%null%</text>
+<text id="5133">%null%</text>
+<text id="5134">%null%</text>
+<text id="5135">%null%</text>
+<text id="5136">%null%</text>
+<text id="5137">%null%</text>
+<text id="5138">%null%</text>
+<text id="5139">%null%</text>
+<text id="5140">Habilidade Especial: Flash Beam (Polex)
+
+Quando parte do solo, o corpo se torna fonte de calor e funciona em alta velocidade. Execute um ataque poderoso com uma bola de fogo.</text>
+<text id="5141">%null%</text>
+<text id="5142">%null%</text>
+<text id="5143">%null%</text>
+<text id="5144">%null%</text>
+<text id="5145">%null%</text>
+<text id="5146">%null%</text>
+<text id="5147">%null%</text>
+<text id="5148">%null%</text>
+<text id="5149">%null%</text>
+<text id="5150">Habilidade Especial: Contrato de Cama
+
+Use o sabre de luz de Michaela com duas espadas grandes. Ataque letal à coluna de fogo. Regras adicionais permitem dois ataques.</text>
+<text id="5151">%null%</text>
+<text id="5152">%null%</text>
+<text id="5153">%null%</text>
+<text id="5154">%null%</text>
+<text id="5155">%null%</text>
+<text id="5156">%null%</text>
+<text id="5157">%null%</text>
+<text id="5158">%null%</text>
+<text id="5159">%null%</text>
+<text id="5160">Habilidade Especial: Martelo Sombra de Girassol
+
+Cubra o chão com grandes girassóis e faça ondas para assustar o inimigo. Reverter o comando pode levar a mais dois ataques.</text>
+<text id="5161">%null%</text>
+<text id="5162">%null%</text>
+<text id="5163">%null%</text>
+<text id="5164">%null%</text>
+<text id="5165">%null%</text>
+<text id="5166">%null%</text>
+<text id="5167">%null%</text>
+<text id="5168">%null%</text>
+<text id="5169">%null%</text>
+<text id="5170">Habilidades Especiais: Lua e Fogo
+
+Entre no modo de espera e use a espada como um feitiço. Participe de batalhas casuais usando uma variedade de poder de fogo. Ou um ataque poderoso para realizar um ataque giratório que ilumina o ambiente.  Pode ser quebrado duas vezes como antes</text>
+<text id="5171">%null%</text>
+<text id="5172">%null%</text>
+<text id="5173">%null%</text>
+<text id="5174">%null%</text>
+<text id="5175">%null%</text>
+<text id="5176">%null%</text>
+<text id="5177">%null%</text>
+<text id="5178">%null%</text>
+<text id="5179">%null%</text>
+<text id="5180">Poder Especial: Devon Vortex
+
+Ele bateu nele bem. Acerte-o e use o poder do vórtice na diagonal para fazer isso. Essa habilidade pode ser combinada para aumentar seu poder.</text>
+<text id="5181">%null%</text>
+<text id="5182">%null%</text>
+<text id="5183">%null%</text>
+<text id="5184">%null%</text>
+<text id="5185">%null%</text>
+<text id="5186">%null%</text>
+<text id="5187">%null%</text>
+<text id="5188">%null%</text>
+<text id="5189">%null%</text>
+<text id="5190">Poder Especial: Ataque de confusão
+
+Um ataque crítico usa a ponta da lança para bloquear o fogo. Repetir o comando causa dois ataques consecutivos. A etapa final é cavar as lanças no chão e criar muitas lanças no ambiente.</text>
+<text id="5210">Habilidade Especial: Dormir para sempre
+
+Dê uma injeção letal ao seu inimigo e durma para sempre. Atingir inimigos que estão dormindo ou permanentemente adormecidos também causa mais dano.</text>
+<text id="5211">%null%</text>
+<text id="5212">%null%</text>
+<text id="5213">%null%</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">Mérito Especial: Cruz de Ouro
+
+Comece a atirar no alvo, se a arma acertar ela queimará e sofrerá muitos danos internos. Repita o comando para executá-lo. Essa ideia da cruz carrega elementos da Ordem Áurea.</text>
+<text id="5221">%null%</text>
+<text id="5222">%null%</text>
+<text id="5223">%null%</text>
+<text id="5224">%null%</text>
+<text id="5225">%null%</text>
+<text id="5226">%null%</text>
+<text id="5227">%null%</text>
+<text id="5228">%null%</text>
+<text id="5229">%null%</text>
+<text id="5230">Direitos Especiais: Moore Bill
+
+Use as duas mãos para ajustar o escudo. Então proceda corretamente. Depois de terminar um ataque crítico, Verdigris repele os inimigos próximos. Mas não doeu muito. Pressione e segure para expandir a forma de pagamento.</text>
+<text id="5231">%null%</text>
+<text id="5232">%null%</text>
+<text id="5233">%null%</text>
+<text id="5234">%null%</text>
+<text id="5235">%null%</text>
+<text id="5236">%null%</text>
+<text id="5237">%null%</text>
+<text id="5238">%null%</text>
+<text id="5239">%null%</text>
+<text id="5240">Habilidade Especial: Carregador de Luz Branca
+
+Emite luz branca a partir de uma antiga base de metal. Ele usa seu poder para atacar os inimigos. Outras instruções podem causar incêndio e explosão.</text>
+<text id="5241">%null%</text>
+<text id="5242">%null%</text>
+<text id="5243">%null%</text>
+<text id="5244">%null%</text>
+<text id="5245">%null%</text>
+<text id="5246">%null%</text>
+<text id="5247">%null%</text>
+<text id="5248">%null%</text>
+<text id="5249">%null%</text>
+<text id="5250">Habilidade Especial: Corte
+
+Ele vagueia, matando seus inimigos e convocando espíritos vingativos para caçá-lo. Suporta vários ataques de comando</text>
+<text id="5251">%null%</text>
+<text id="5252">%null%</text>
+<text id="5253">%null%</text>
+<text id="5254">%null%</text>
+<text id="5255">%null%</text>
+<text id="5256">%null%</text>
+<text id="5257">%null%</text>
+<text id="5258">%null%</text>
+<text id="5259">%null%</text>
+<text id="5260">Habilidade Especial: Velocidade Mágica
+
+Antes de atacar por sua vez. Segure a espada na vertical e coloque-a na escuridão da noite. Este ataque não pode ser bloqueado e pode ser carregado para aumentar seu poder.</text>
+<text id="5261">%null%</text>
+<text id="5262">%null%</text>
+<text id="5263">%null%</text>
+<text id="5264">%null%</text>
+<text id="5265">%null%</text>
+<text id="5266">%null%</text>
+<text id="5267">%null%</text>
+<text id="5268">%null%</text>
+<text id="5269">%null%</text>
+<text id="5270">Poder Especial: Redemoinho de Felicidade
+
+Ele balançou sua arma violentamente enquanto usava seu poder para atacar várias vezes ao mesmo tempo. O sinal é muito brilhante, quanto mais forte a habilidade, mais forte ela é, mas para usar essa habilidade você precisa usar a espada.</text>
+<text id="5271">%null%</text>
+<text id="5272">%null%</text>
+<text id="5273">%null%</text>
+<text id="5274">%null%</text>
+<text id="5275">%null%</text>
+<text id="5276">%null%</text>
+<text id="5277">%null%</text>
+<text id="5278">%null%</text>
+<text id="5279">%null%</text>
+<text id="5280">Habilidade Especial: Lança Torcida
+
+Ele soltou o elfo vermelho e pegou uma lança enorme. A lança parou imediatamente.</text>
+<text id="5281">%null%</text>
+<text id="5282">%null%</text>
+<text id="5283">%null%</text>
+<text id="5284">%null%</text>
+<text id="5285">%null%</text>
+<text id="5286">%null%</text>
+<text id="5287">%null%</text>
+<text id="5288">%null%</text>
+<text id="5289">%null%</text>
+<text id="5290">Habilidade Especial: Corte
+
+Ele vagueia, matando seus inimigos e convocando espíritos vingativos para caçá-lo. Suporta vários ataques de comando</text>
+<text id="5291">%null%</text>
+<text id="5292">%null%</text>
+<text id="5293">%null%</text>
+<text id="5294">%null%</text>
+<text id="5295">%null%</text>
+<text id="5296">%null%</text>
+<text id="5297">%null%</text>
+<text id="5298">%null%</text>
+<text id="5299">%null%</text>
+<text id="5300">Habilidades Especiais: Romina é ingênua
+
+Ele encheu os olhos com borboletas vermelhas e acertou-as duas vezes. Isso já foi considerado sagrado.</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">Poder Especial: Atirador Tóxico
+
+As armas são como lanças e penetram no corpo do inimigo. Derrube seus inimigos com veneno mortal.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Habilidade Especial: Atirador Louco
+
+As armas são como lanças e penetram no corpo do inimigo. Ataque seus inimigos como um louco.</text>
+<text id="5321">%null%</text>
+<text id="5322">%null%</text>
+<text id="5323">%null%</text>
+<text id="5324">%null%</text>
+<text id="5325">%null%</text>
+<text id="5326">%null%</text>
+<text id="5327">%null%</text>
+<text id="5328">%null%</text>
+<text id="5329">%null%</text>
+<text id="5330">Poderes Especiais: O fogo destrói Deus
+
+Mantenha o fogo à sua frente e apague o fogo ardente. Funcionários e subordinados têm medo da insanidade. Seus direitos são válidos desde que você cumpra as regras. Pode ser usado durante viagens</text>
+<text id="5331">%null%</text>
+<text id="5332">%null%</text>
+<text id="5333">%null%</text>
+<text id="5334">%null%</text>
+<text id="5335">%null%</text>
+<text id="5336">%null%</text>
+<text id="5337">%null%</text>
+<text id="5338">%null%</text>
+<text id="5339">%null%</text>
+<text id="5340">Habilidades Especiais: Fogo
+
+Esta tecnologia suporta processamento rápido e fácil. Quando as condições estiverem prontas, o guindaste gira em alta velocidade.</text>
+<text id="5341">%null%</text>
+<text id="5342">%null%</text>
+<text id="5343">%null%</text>
+<text id="5344">%null%</text>
+<text id="5345">%null%</text>
+<text id="5346">%null%</text>
+<text id="5347">%null%</text>
+<text id="5348">%null%</text>
+<text id="5349">%null%</text>
+<text id="5350">Poder Especial: Medo da Morte
+
+A habilidade Rage faz com que os inimigos usem feitiços circulares com as duas mãos. Outras regras incluem falhas como ataques.</text>
+<text id="5351">%null%</text>
+<text id="5352">%null%</text>
+<text id="5353">%null%</text>
+<text id="5354">%null%</text>
+<text id="5355">%null%</text>
+<text id="5356">%null%</text>
+<text id="5357">%null%</text>
+<text id="5358">%null%</text>
+<text id="5359">%null%</text>
+<text id="5360">Habilidade Especial: Expansão
+
+Um arco plano é usado nesta técnica. Prepare oito flechas de cada vez e atire-as como um arco.</text>
+<text id="5361">%null%</text>
+<text id="5362">%null%</text>
+<text id="5363">%null%</text>
+<text id="5364">%null%</text>
+<text id="5365">%null%</text>
+<text id="5366">%null%</text>
+<text id="5367">%null%</text>
+<text id="5368">%null%</text>
+<text id="5369">%null%</text>
+<text id="5370">Habilidades Especiais: Comunicação
+
+Jogando um escudo como um elfo Quando liberado, o escudo retorna imediatamente para o usuário que usa a habilidade.</text>
+<text id="5371">%null%</text>
+<text id="5372">%null%</text>
+<text id="5373">%null%</text>
+<text id="5374">%null%</text>
+<text id="5375">%null%</text>
+<text id="5376">%null%</text>
+<text id="5377">%null%</text>
+<text id="5378">%null%</text>
+<text id="5379">%null%</text>
+<text id="5380">Habilidade Especial: Raio do Dragão Flor
+
+Esta habilidade invoca a invocação vermelha de um dragão antigo para atacar a pedra. Além dos danos elétricos, os danos elétricos direcionados também podem ser minimizados e evitados. Recarregável para aumentar a eficiência</text>
+<text id="5381">%null%</text>
+<text id="5382">%null%</text>
+<text id="5383">%null%</text>
+<text id="5384">%null%</text>
+<text id="5385">%null%</text>
+<text id="5386">%null%</text>
+<text id="5387">%null%</text>
+<text id="5388">%null%</text>
+<text id="5389">%null%</text>
+<text id="5390">Poder Especial: Raiva
+
+A habilidade é demonstrada por golpes fortes usando os dedos como água. Quanto mais ele era forçado a se ajoelhar, mais irritado ficava. Crie regras para controlar sua raiva.</text>
+<text id="5420">Poder Especial: Dor Extrema
+
+A erva é muito dolorosa. É hora de parar de tratar a dor, as pessoas começaram a ouvir.</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">Habilidade Especial: Lone Moon Slash
+
+Ele desembainha bem a espada e atira fogo em seu rosto. Ataques mais poderosos permitem avanços adicionais.</text>
+<text id="5431">%null%</text>
+<text id="5432">%null%</text>
+<text id="5433">%null%</text>
+<text id="5434">%null%</text>
+<text id="5435">%null%</text>
+<text id="5436">%null%</text>
+<text id="5437">%null%</text>
+<text id="5438">%null%</text>
+<text id="5439">%null%</text>
+<text id="5440">Poder Especial: Vingança
+
+Se o Feitiço para Remover a Escuridão da Noite for usado imediatamente após o término do ataque, seu poder termina. Aperfeiçoe suas habilidades</text>
+<text id="5441">%null%</text>
+<text id="5442">%null%</text>
+<text id="5443">%null%</text>
+<text id="5444">%null%</text>
+<text id="5445">%null%</text>
+<text id="5446">%null%</text>
+<text id="5447">%null%</text>
+<text id="5448">%null%</text>
+<text id="5449">%null%</text>
+<text id="5450">Habilidade Especial: Colheita Prejudicial
+
+Ele agia como um ceifador, matando pessoas como ervas daninhas com sua espada. Outras leis permitem que a guerra continue enquanto existir o poder.</text>
+<text id="5451">%null%</text>
+<text id="5452">%null%</text>
+<text id="5453">%null%</text>
+<text id="5454">%null%</text>
+<text id="5455">%null%</text>
+<text id="5456">%null%</text>
+<text id="5457">%null%</text>
+<text id="5458">%null%</text>
+<text id="5459">%null%</text>
+<text id="5460">Habilidade Especial: Vender Felicidade
+
+Ele balançou a cabeça, fechou os olhos, chorou, às vezes ficava difícil para o pessoal vê-lo. A ignorância faz feliz quem a procura.</text>
+<text id="5461">%null%</text>
+<text id="5462">%null%</text>
+<text id="5463">%null%</text>
+<text id="5464">%null%</text>
+<text id="5465">%null%</text>
+<text id="5466">%null%</text>
+<text id="5467">%null%</text>
+<text id="5468">%null%</text>
+<text id="5469">%null%</text>
+<text id="5470">Habilidade Especial: Problema de Força
+
+Ele ergueu seu grande cajado no ar e disparou muitas flechas douradas. A manutenção adequada pode prolongar rapidamente a vida útil da sua piscina.</text>
+<text id="5471">%null%</text>
+<text id="5472">%null%</text>
+<text id="5473">%null%</text>
+<text id="5474">%null%</text>
+<text id="5475">%null%</text>
+<text id="5476">%null%</text>
+<text id="5477">%null%</text>
+<text id="5478">%null%</text>
+<text id="5479">%null%</text>
+<text id="5480">Poder Especial: Fogo
+
+Se for bom, convoque o escudo dourado que ruge como um leão. Atacar inimigos causa anonimato em uma ampla área.</text>
+<text id="5481">%null%</text>
+<text id="5482">%null%</text>
+<text id="5483">%null%</text>
+<text id="5484">%null%</text>
+<text id="5485">%null%</text>
+<text id="5486">%null%</text>
+<text id="5487">%null%</text>
+<text id="5488">%null%</text>
+<text id="5489">%null%</text>
+<text id="5490">Poder Especial: Propagação de Veneno
+
+Levante o frasco de perfume acima da cabeça para espalhar o pó venenoso em uma área ampla. O veneno dançou e congelou no ar.</text>
+<text id="5491">%null%</text>
+<text id="5492">%null%</text>
+<text id="5493">%null%</text>
+<text id="5494">%null%</text>
+<text id="5495">%null%</text>
+<text id="5496">%null%</text>
+<text id="5497">%null%</text>
+<text id="5498">%null%</text>
+<text id="5499">%null%</text>
+<text id="5500">Habilidades Especiais: Fogo, Cobra!
+
+Queime o corpo da cobra com fogo. Lança temporariamente um ataque de fogo. Se ocorrerem os efeitos de um ataque violento ou outra ação. Isto pode causar rachaduras no chão.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">Habilidade Especial: Divisão de Dedos
+
+Use esta habilidade para preencher várias caixas com os dedos de ambas as mãos. Então libere-os imediatamente. Continue lutando e atire novamente.</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">Habilidades Especiais: Capacidade de Marcação
+
+Afie, afie e prolongue a vida útil de suas facas. Grandes acrobatas levam a sério as ferramentas de seu ofício.</text>
+<text id="5521">%null%</text>
+<text id="5522">%null%</text>
+<text id="5523">%null%</text>
+<text id="5524">%null%</text>
+<text id="5525">%null%</text>
+<text id="5526">%null%</text>
+<text id="5527">%null%</text>
+<text id="5528">%null%</text>
+<text id="5529">%null%</text>
+<text id="5530">Habilidade Especial: Tocar trombeta
+
+Toque o telefone. A arma emite um som agudo quando atinge o solo.</text>
+<text id="5531">%null%</text>
+<text id="5532">%null%</text>
+<text id="5533">%null%</text>
+<text id="5534">%null%</text>
+<text id="5535">%null%</text>
+<text id="5536">%null%</text>
+<text id="5537">%null%</text>
+<text id="5538">%null%</text>
+<text id="5539">%null%</text>
+<text id="5540">Poder Especial: Chamado de Trombeta (Tempestade)
+
+Toque o telefone. Soe a trombeta e cause danos ao inimigo. Outras regras permitem dois ataques consecutivos.</text>
+<text id="5541">%null%</text>
+<text id="5542">%null%</text>
+<text id="5543">%null%</text>
+<text id="5544">%null%</text>
+<text id="5545">%null%</text>
+<text id="5546">%null%</text>
+<text id="5547">%null%</text>
+<text id="5548">%null%</text>
+<text id="5549">%null%</text>
+<text id="5550">Habilidade Especial: Grande Falange
+
+Magic Troll Knight Art Crie um grande círculo mágico acima de sua cabeça que ataca automaticamente os inimigos próximos. Traga essa energia para o ringue com um jogo de trocação forte.</text>
+<text id="5551">%null%</text>
+<text id="5552">%null%</text>
+<text id="5553">%null%</text>
+<text id="5554">%null%</text>
+<text id="5555">%null%</text>
+<text id="5556">%null%</text>
+<text id="5557">%null%</text>
+<text id="5558">%null%</text>
+<text id="5559">%null%</text>
+<text id="5560">Poder Especial: Presente de sangue demoníaco
+
+Ele ergueu sua lança sagrada e perfurou o corpo da Mãe da Verdade. Causa fogo ao redor da pedra. Comandos adicionais permitem três ataques adicionais.</text>
+<text id="5561">%null%</text>
+<text id="5562">%null%</text>
+<text id="5563">%null%</text>
+<text id="5564">%null%</text>
+<text id="5565">%null%</text>
+<text id="5566">%null%</text>
+<text id="5567">%null%</text>
+<text id="5568">%null%</text>
+<text id="5569">%null%</text>
+<text id="5570">Habilidade Especial: Dragão Tipo Fogo
+
+Era uma chama que falava com a boca como uma píton. A luminária de chão acende por um tempo antes de acender a luz.</text>
+<text id="5571">%null%</text>
+<text id="5572">%null%</text>
+<text id="5573">%null%</text>
+<text id="5574">%null%</text>
+<text id="5575">%null%</text>
+<text id="5576">%null%</text>
+<text id="5577">%null%</text>
+<text id="5578">%null%</text>
+<text id="5579">%null%</text>
+<text id="5580">Potência Especial: Velocidade de Corte
+
+Use cores brilhantes e cole-as no rosto. Eles subiam e desciam na velocidade da luz. Este ataque é feito através de combate a incêndios. Diz-se que a habilidade aumenta seu poder e número de ataques.</text>
+<text id="5600">Habilidades Especiais: Fogo
+
+Traga vingança e tesouro antes de escapar. Essas armas são adequadas para onde viajam no ar.</text>
+</entries>
+</fmg>

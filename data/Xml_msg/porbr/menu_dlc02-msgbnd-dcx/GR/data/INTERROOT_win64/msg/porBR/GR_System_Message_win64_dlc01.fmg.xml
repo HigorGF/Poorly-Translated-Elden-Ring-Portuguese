@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="280004">Verifique suas configurações. As teclas com funcionalidade dedicada de menu não podem ser vinculadas a outras funções.</text>
+<text id="401130">O seguinte DLC não pode ser encontrado:
+
+&lt;?requiredDlcList?&gt;
+
+Este perfil não pode ser carregado até que o DLC necessário seja reinstalado.</text>
+<text id="401131">Shadow of the Erdtree</text>
+<text id="401406">Falha na conexão com Steamworks: &lt;?errcodeSteam?&gt;
+Voltando ao menu principal.</text>
+</entries>
+</fmg>

@@ -1,0 +1,635 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10">%null%</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">%null%</text>
+<text id="16">%null%</text>
+<text id="17">%null%</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">%null%</text>
+<text id="21">%null%</text>
+<text id="22">%null%</text>
+<text id="23">%null%</text>
+<text id="24">%null%</text>
+<text id="25">%null%</text>
+<text id="26">%null%</text>
+<text id="27">%null%</text>
+<text id="28">%null%</text>
+<text id="29">%null%</text>
+<text id="30">%null%</text>
+<text id="80">%null%</text>
+<text id="81">%null%</text>
+<text id="82">%null%</text>
+<text id="83">%null%</text>
+<text id="84">%null%</text>
+<text id="85">%null%</text>
+<text id="86">%null%</text>
+<text id="87">%null%</text>
+<text id="88">%null%</text>
+<text id="89">%null%</text>
+<text id="90">%null%</text>
+<text id="91">%null%</text>
+<text id="92">%null%</text>
+<text id="93">%null%</text>
+<text id="94">%null%</text>
+<text id="95">%null%</text>
+<text id="96">%null%</text>
+<text id="97">%null%</text>
+<text id="98">%null%</text>
+<text id="99">%null%</text>
+<text id="100">%null%</text>
+<text id="101">%null%</text>
+<text id="102">%null%</text>
+<text id="103">%null%</text>
+<text id="104">%null%</text>
+<text id="105">%null%</text>
+<text id="106">%null%</text>
+<text id="107">%null%</text>
+<text id="108">%null%</text>
+<text id="109">%null%</text>
+<text id="110">%null%</text>
+<text id="111">%null%</text>
+<text id="112">%null%</text>
+<text id="113">%null%</text>
+<text id="114">%null%</text>
+<text id="115">%null%</text>
+<text id="116">%null%</text>
+<text id="117">%null%</text>
+<text id="118">%null%</text>
+<text id="119">%null%</text>
+<text id="120">%null%</text>
+<text id="121">%null%</text>
+<text id="122">%null%</text>
+<text id="123">%null%</text>
+<text id="124">%null%</text>
+<text id="125">%null%</text>
+<text id="126">%null%</text>
+<text id="127">%null%</text>
+<text id="128">%null%</text>
+<text id="129">%null%</text>
+<text id="130">%null%</text>
+<text id="131">%null%</text>
+<text id="132">%null%</text>
+<text id="133">%null%</text>
+<text id="134">%null%</text>
+<text id="135">%null%</text>
+<text id="136">%null%</text>
+<text id="137">%null%</text>
+<text id="138">%null%</text>
+<text id="139">%null%</text>
+<text id="140">%null%</text>
+<text id="141">%null%</text>
+<text id="142">%null%</text>
+<text id="143">%null%</text>
+<text id="144">%null%</text>
+<text id="145">%null%</text>
+<text id="146">%null%</text>
+<text id="147">%null%</text>
+<text id="148">%null%</text>
+<text id="149">%null%</text>
+<text id="150">%null%</text>
+<text id="151">%null%</text>
+<text id="152">%null%</text>
+<text id="153">%null%</text>
+<text id="154">%null%</text>
+<text id="155">%null%</text>
+<text id="156">%null%</text>
+<text id="157">%null%</text>
+<text id="158">%null%</text>
+<text id="159">%null%</text>
+<text id="160">%null%</text>
+<text id="161">%null%</text>
+<text id="162">%null%</text>
+<text id="163">%null%</text>
+<text id="164">%null%</text>
+<text id="165">%null%</text>
+<text id="166">%null%</text>
+<text id="167">%null%</text>
+<text id="168">%null%</text>
+<text id="169">%null%</text>
+<text id="170">%null%</text>
+<text id="171">%null%</text>
+<text id="172">%null%</text>
+<text id="173">%null%</text>
+<text id="174">%null%</text>
+<text id="175">%null%</text>
+<text id="176">%null%</text>
+<text id="177">%null%</text>
+<text id="178">%null%</text>
+<text id="179">%null%</text>
+<text id="180">%null%</text>
+<text id="181">%null%</text>
+<text id="182">%null%</text>
+<text id="183">%null%</text>
+<text id="184">%null%</text>
+<text id="185">%null%</text>
+<text id="186">%null%</text>
+<text id="187">%null%</text>
+<text id="188">%null%</text>
+<text id="189">%null%</text>
+<text id="190">%null%</text>
+<text id="191">%null%</text>
+<text id="192">%null%</text>
+<text id="193">%null%</text>
+<text id="194">%null%</text>
+<text id="1000">%null%</text>
+<text id="1001">%null%</text>
+<text id="1002">%null%</text>
+<text id="1003">%null%</text>
+<text id="1004">%null%</text>
+<text id="1005">%null%</text>
+<text id="1006">%null%</text>
+<text id="1007">%null%</text>
+<text id="1008">%null%</text>
+<text id="1009">%null%</text>
+<text id="1010">%null%</text>
+<text id="1011">%null%</text>
+<text id="1012">%null%</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="10000">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+"Garra de Leão: Os Cavaleiros de Red Rock lutam contra o General Radan. Pegue as armas e corra."
+
+Você pode usar espada, machado e martelo.
+(excluindo shorts e espadas)</text>
+<text id="10100">Ashes of War inclui as seguintes "descrições" de armas e habilidades:
+
+"Persing: Um poder que permite que uma arma perfure a armadura do inimigo. Reúna sua força e corra para dominar seu inimigo com pressão intensa."
+
+Ferramentas de perfuração podem ser usadas.
+(excluindo armas pesadas)</text>
+<text id="10200">Ashes of War inclui as seguintes "descrições" de armas e habilidades:
+
+"Spur Fang: habilidade de Bloodfinger Hunter Yura quando a espada está na posição vertical. Ela gerará energia violenta imparável."
+
+É rápido e útil contra armas grandes.</text>
+<text id="10300">Ashes of War inclui as seguintes "descrições" de armas e habilidades:
+
+"Spinning Slash: a habilidade favorita do herói, mata o primeiro inimigo e a si mesmo. Adicionado comando de ataque em fases."
+
+Use espadas, machados e porretes (exceto armas mortais).</text>
+<text id="10500">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+"Vá em frente: vá em frente. Mantenha sua arma levantada e seus pulmões em chamas. Mantenha pressionado o botão de carga em seu controle remoto."
+
+Use-os com adagas, espadas pesadas e gêmeos.</text>
+<text id="10600">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+Crush (Slash Up): Prepare sua arma e fique em uma posição baixa para evitar que a maioria dos ataques inimigos retornem. Junte-se a ele na batalha feroz para chegar ao topo.”
+
+Use espadas, machados e martelos (exceto espadas curtas e médias).</text>
+<text id="10700">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+'Crush (em Arc): Equipe a arma e fique em uma postura baixa. Isso evita a ocorrência da maioria dos ataques inimigos. Acompanhe o intenso combate. "
+
+Use espadas, machados e martelos (exceto espadas curtas e médias).</text>
+<text id="10800">Ashes of War possui uma contra-arma chamada "Blood" que possui as seguintes habilidades:
+
+“Sangue Sangrento: Compartilha o poder de derramar o sangue do Senhor. Então você permite que a picada roube o sangue e a vida do alvo.”
+
+Ferramentas de perfuração podem ser usadas.
+(excluindo armas pesadas)</text>
+<text id="10900">Ashes of War inclui as seguintes "descrições" de armas e habilidades:
+
+“Motivação repetitiva: tentando criar padrões de força e motivação.”
+
+Ferramentas de perfuração podem ser usadas.
+(excluindo armas pesadas)</text>
+<text id="11000">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+"Ataque violento: você balança sua arma demais. Segure para reiniciar o movimento. Ataques repetidos ou violência subsequente."
+
+Machados, martelos, espadas curvas e espadas largas podem ser usados. (excluindo armas pesadas)</text>
+<text id="11100">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+"Ataque giratório: O poder do pilar cria um giro contínuo. Segure para atacar. Siga com um ataque frio ou um ataque poderoso. Quando disparado, ele destrói os objetos alvo. Como uma flecha."
+
+Os registros estão disponíveis. (Excluindo dardo)</text>
+<text id="11200">Ashes of War inclui as seguintes "descrições" de armas e habilidades:
+
+"Double Slash: Advanced Swordsman Skill Attack Power from Below Repita o comando para acertar duas vezes com o próximo ataque."
+
+O tronco da árvore é cortado com uma espada. (Sem armas mortais)</text>
+<text id="11300">Ashes of War inclui uma arma Art of Fire com as seguintes habilidades:
+
+"Tarefa do Bispo: Dispare sua arma. Então siga em frente. Segure para continuar pagando."
+
+Eles usam grandes machados e martelos.</text>
+<text id="11400">Ashes of War inclui as seguintes "descrições" de armas e habilidades:
+
+“Está escrito: No estilo das espadas country de junco. A espada está embainhada e mantida bem na cintura. Siga-a em lutas comuns ou difíceis, a velocidade será rápida.
+
+Katana pode ser usada.</text>
+<text id="11500">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+"Calculadora: Esta habilidade é ativada colocando a espada de lado. Ela pode ser usada ofensivamente contra as defesas inimigas durante o combate normal. Ou "A guerra é difícil.
+
+Pode usar uma espada reta.</text>
+<text id="11600">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+"Giant Hunt: Uma habilidade que é útil quando você encontra um inimigo gigante. Mova-se para uma área baixa e recupere-se rapidamente."
+
+Pode ser usado com armas grandes e poderosas, uma lança e duas espadas.</text>
+<text id="11700">A batalha de Ash suporta armas
+Habilidade: Ataque de Movimento</text>
+<text id="11800">Ashes of War concede as seguintes habilidades para armas "encantadas":
+
+"Espada de Loretta: Cortesia do Cavaleiro Real Loretta. Siga a espada saltadora. Então ela sai e corre mais rápido. Minimize os obstáculos
+
+Ele usa um sino e um pouco de metal.</text>
+<text id="11900">Ashes of War contém armas antitóxicas com as seguintes habilidades:
+
+“Mariposas voadoras são mortais: cortadas com fio fatal. Se você atacar outro inimigo com veneno, causará muitos danos.”
+
+Use espadas curtas e médias. (exceto Duas Espadas)</text>
+<text id="12000">Ashes of War concede as seguintes habilidades para armas "encantadas":
+
+"Arma de corrida: uma habilidade defensiva usada pela Rainha Kariya. Segure a arma no ar e jogue-a. Qualquer um que a tocar será atacado por um rosto giratório."
+
+Use espadas, machados e martelos curtos e médios. Um vale para paus e espadas. (Excluindo dardo)</text>
+<text id="12100">%null%</text>
+<text id="12200">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+“Sopro de ar quente: uma das capacidades de controle de ar da cortina. Vá em frente na chuva e no vento e ataque o solo com suas armas. “Quando atinge, forma-se muito ar e água na área afetada.”
+
+Use-os com adagas, espadas pesadas e gêmeos.</text>
+<text id="12300">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+“Driver: Uma das habilidades de tornado de Stormveil, balançar a arma cria um tornado que envolve o usuário. Repetir o comando duas vezes antes da batalha funcionará. "
+
+Ele foi cortado com espadas, machados, martelos e porretes. (excluindo braços e antebraços)</text>
+<text id="12400">Ashes of War inclui as seguintes "descrições" de armas e habilidades:
+
+"Sword Dance: chegue rapidamente para atingir o nível correto. Siga outras regras para completar a descida."
+
+Use espadas, machados e postes de madeira afiados. (excluindo armas pesadas e lanças longas)</text>
+<text id="12500">A batalha de Ash suporta armas
+Habilidade: Pincel</text>
+<text id="20000">Ashes of War concede as seguintes habilidades para armas "encantadas":
+
+"Falange de Lâminas: Uma habilidade usada pelos Cavaleiros Mágicos para criar um campo mágico acima de suas cabeças a serviço da Carrion House. Ataque automaticamente os inimigos. Acompanhe a batalha épica e junte-se a esta habilidade com todo o entusiasmo.
+
+Use espada e cajado. (Sem armas mortais)</text>
+<text id="20100">A arma interativa "Holy Ash" possui os seguintes recursos:
+
+“Espada Sagrada: Infunda uma substância sagrada no ataque da arma e libere-a na forma de uma espada dourada. Esse recurso preserva a essência de Deus por um tempo.
+
+Pode ser usado com armas brancas (exceto chicotes, punhos e socos).</text>
+<text id="20200">Ashes of War possui uma arma chamada "Winter" com as seguintes habilidades:
+
+"Ice Lance: A habilidade dos heróis lunares, a arma de Lenny Change para liberar a magia do gelo. Mude para o jogo de tiro único."
+
+É usado em facas de dois gumes.</text>
+<text id="20300">Ashes of War concede as seguintes habilidades para armas "encantadas":
+
+'Pedra Pequena: Uma arte que afeta a magia de uma pedra nomeada Combine esta habilidade com Ataque Cardíaco, usando uma arma enquanto a arma está carregada com pedra.'
+
+Use espada e cajado. (Sem armas mortais)</text>
+<text id="20400">Ashes of War possui uma contra-arma chamada "Blood" que possui as seguintes habilidades:
+
+“Reduzindo Sangramento: O líder pode sangrar, injetando seu sangue na arma e expandindo o fluxo sanguíneo.
+
+Use espadas (exceto armas pesadas).</text>
+<text id="20500">Ashes of War oferece armas interativas. "Stealth" tem os seguintes recursos:
+
+“Life Stealing Fist: Demonstra a capacidade de controlar a energia Qi.
+Um ataque rápido e controlado que atordoa os inimigos e drena sua saúde. Aplica-se apenas a inimigos da lei -
+
+As mãos são usadas.</text>
+<text id="20700">A arma interativa "Ashes of War" possui as seguintes habilidades de "fogo":
+
+"Explosão: O poder do Cavaleiro da Casa do Vulcão atinge o solo com uma nuvem explosiva que cresce quando liberada."
+
+Machados, martelos e espadas eram usados ​​com muito medo.</text>
+<text id="20800">A arma interativa "Holy Ash" possui os seguintes recursos:
+
+“Comissão Sagrada: Levante os Braços em Oração e Afago.” Este sopro restaura a saúde do usuário e dos aliados próximos quando um inimigo ataca. "
+
+Use o machado e o martelo.</text>
+<text id="20900">Ashes of War concede as seguintes habilidades para armas "encantadas":
+
+"Gravidade: Poder de Lord Alabaster Stoneskin. Empurre a arma para criar gravidade. Este ataque atrai inimigos e também causa dano."
+
+Pode ser usado com armas brancas. (excluindo armas e chicotes)</text>
+<text id="21000">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+"Storm Sword: O poder perdido de Stormveil contorna a arma e se espalha em uma tempestade que pode disparar em rápida sucessão."
+
+Use espadas (exceto armas letais e espadas duplas)</text>
+<text id="21200">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+"Earthshaker: lance um míssil no chão. Em seguida, colete energia para desencadear o terremoto. Tiroteio intenso."
+
+Use um machado grande, um martelo grande e uma arma grande.</text>
+<text id="21300">A arma interativa "Holy Ash" possui os seguintes recursos:
+
+"POTTLE OF GOLD: Envie armas para o chão. Reúna poder. Deixe as ondas baterem no chão e encontre armas para iniciar uma batalha feroz.
+
+Use um machado grande, um martelo grande e uma arma grande.</text>
+<text id="21400">A arma interativa "Ashes of War" possui as seguintes habilidades de "fogo":
+
+"Fogo Ardente: A habilidade de criar um grande campo de fogo que atordoa você após um ataque poderoso. Também acende sua arma."
+
+Pode ser usado com armas brancas. (excluindo armas pesadas e chicotes)</text>
+<text id="21600">Ashes of War inclui armas de "fogo" com as seguintes habilidades:
+
+"Relâmpago: Uma habilidade usada pela Seita Cidade do Dragão Antigo. Crie uma arma que invoca raios. Você pode correr em alta velocidade.
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="21700">Ashes of War inclui armas de "fogo" com as seguintes habilidades:
+
+“Relâmpago: Invoca relâmpagos de uma arma. Ele atinge o solo, causando uma explosão. Esta arma, que usa magia elétrica, será usada por mais algum tempo. "
+
+Use espada, machado e martelo.</text>
+<text id="21800">Ashes of War concede as seguintes habilidades para armas "encantadas":
+
+A Glória da Liderança Organizacional: A liderança organizacional depende da forma de poder. Ele transformou a espada em uma espada mágica e profunda energia, o que aumentou sua força em dois níveis. "
+
+Use espadas (exceto armas pesadas).</text>
+<text id="21900">Ashes of War concede as seguintes habilidades para armas "encantadas":
+
+"Grande Espada de Carion: O palácio de Carion a criou voluntariamente. Transformou a espada e a devolveu a uma poderosa forma de magia. Esta habilidade pode ser combinada para aumentar seu poder."
+
+Use espadas (exceto armas pesadas).</text>
+<text id="22000">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+"Vacuum Slash: Uma habilidade antiga e perdida do samurai, ele levanta a arma em um círculo e a lança para frente como uma espada."
+
+Use espadas e machados (exceto machados).</text>
+<text id="22100">Ashes of War inclui uma arma Art of Fire com as seguintes habilidades:
+
+‘Terror da Chama Negra: Puxe a arma em direção à sua cabeça e abaixe-a. Reúna uma grande quantidade de fogo preto.’
+
+Ele usa um sino e um pouco de metal.</text>
+<text id="22200">A arma interativa "Holy Ash" possui os seguintes recursos:
+
+"Aura Sagrada: O poder que o líder da Seita Decadência Perfeita usa para criar um anel de fogo sagrado e uma arma de avanço. Ele pode disparar vários anéis rapidamente."
+
+Os registros estão disponíveis. (Excluindo dardo)</text>
+<text id="22300">A batalha de Ash suporta armas
+Poder: Fogo</text>
+<text id="22400">Ashes of War possui uma contra-arma chamada "Blood" que possui as seguintes habilidades:
+
+'Faca de sangue: fere-se. A faca estava cheia de sangue, mas ele se esquivou e jogou o sangue para o alto.'
+
+Use espadas curtas e médias.</text>
+<text id="22500">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+"Phantom Slash: Uma habilidade inspiradora que lembra os Night Riders. Recriado à imagem do Primeiro Mestre da Ordem, ele ordena que seus membros se levantem. Outras ordens o precedem."
+
+Você pode usar uma vara e duas armas. (Excluindo dardo)</text>
+<text id="22600">Ashes of War oferece armas interativas. "Stealth" tem os seguintes recursos:
+
+"Ghost Lance: Power of the Tomb Knight, um guerreiro fantasma. Jogue uma lança fantasma em seus inimigos."
+
+Podem ser usados ​​caules (exceto cortes de arroz).</text>
+<text id="22700">Ashes of War possui uma arma chamada "Winter" com as seguintes habilidades:
+
+"Cold Grass: Cobre a arma com gelo. Uma névoa fria é pulverizada sobre ela. A arma retém o gelo por um certo período de tempo."
+
+Pode ser usado com armas brancas (exceto chicotes, punhos e socos).</text>
+<text id="22800">Ashes of War contém armas antitóxicas com as seguintes habilidades:
+
+"Veneno: reduz o nível de veneno, mata e emite uma névoa venenosa. Esta ferramenta retém seu veneno por um curto período de tempo."
+
+Pode ser usado com armas brancas (exceto chicotes, punhos e socos).</text>
+<text id="30000">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+Bash Shield: Use seu escudo facial para atingir os inimigos com seu corpo enquanto protege.
+
+Pode ser usado com todos os revestimentos protetores.</text>
+<text id="30100">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+'Shield Barricade: Escolhido por Lord Neidhart, esta habilidade concentra o poder de um escudo e o capacita temporariamente para ser invulnerável por objetos sólidos.'
+
+Pode ser usado com todos os revestimentos protetores.</text>
+<text id="30200">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+"Parry: Combina esta habilidade com o ataque de um inimigo. Causa dano e perturba a posição do oponente. Cria uma chance de um ataque crítico."
+
+Eles usam espadas, espadas curvas, adagas, braços, mãos e escudos de pequeno e médio porte.</text>
+<text id="30300">A batalha de Ash suporta armas
+Arte de Buckler Perry</text>
+<text id="30400">A batalha de Ash suporta armas
+Crédito: Perry</text>
+<text id="30500">Ashes of War concede as seguintes habilidades para armas "encantadas":
+
+"Karian Revenge: Vire seu escudo com magia para repelir seus inimigos. Turn e vingança mágica podem ser usados ​​como uma defesa normal."
+
+Use escudos pequenos e médios.</text>
+<text id="30600">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+“Storm Wall: Permite que o escudo crie uma parede de chuva na sua frente. Setas de referência e outros objetos visuais podem ser usados ​​como restrições globais."
+
+Use escudos pequenos e médios.</text>
+<text id="30700">A arma interativa "Holy Ash" possui os seguintes recursos:
+
+"Gold Block: Crie uma barreira e transforme-a em um escudo para bloquear ataques inimigos e destruir suas posições. Também funciona remotamente."
+
+Use escudos pequenos e médios.</text>
+<text id="30800">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+“Ataque de Escudo: Segure o escudo com as duas mãos e avance enquanto estiver acordado. Inimigos fracos podem recuar e atacar. Pressione e segure para estender o tempo de espera."
+
+Pode ser usado com todos os revestimentos protetores.</text>
+<text id="30900">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+“Sem Habilidade: Esta arma não tem habilidade. Ela será usada se a arma do oponente for adequada.
+
+Pode ser usado com escudo e peças de fogo.</text>
+<text id="31000">Ashes of War concede as seguintes habilidades para armas "encantadas":
+
+"Barreira de Thope: ativa o poder mágico quando usado como escudo para bloquear feitiços e totens. Pode ser usado como um bloqueio normal."
+
+Use escudos pequenos e médios.</text>
+<text id="40000">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+'Persing: Uma poderosa técnica de tiro com arco que envolve segurar um arco grande na diagonal. Atirar um arco que libera uma flecha poderosa que pode atingir o inimigo.'
+
+Pode ser usado em grandes porções.</text>
+<text id="40100">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+“Ah, a arte do tiro com arco e a arte do arco puxado com cordas. Puxe o arco para trás e mova-se o mais rápido que a vista alcança.
+
+Pode ser usado com luz.</text>
+<text id="40200">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+“Fogo pesado: técnica de tiro cruzado, endireitando o arco e traçando detalhadamente a linha, aumentando o poder da arma e penetrando na linha inimiga.”
+
+Podem ser usadas setas leves e longas.</text>
+<text id="40400">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+“Magia de Combate: O mais importante ao atirar é que a flecha esteja cheia de ar. Porque a flecha voa mais rápido que uma flecha normal e muda de direção para seguir o alvo.
+
+Podem ser usadas setas leves e longas.</text>
+<text id="40500">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+'Sky Shot: Baixa habilidade de tiro com arco e flecha Prepare o arco e atire a flecha no ar.'
+
+Podem ser usadas setas leves e longas.</text>
+<text id="40600">As cinzas da guerra não têm nada a ver com armas. No entanto, tem os seguintes direitos:
+
+"Caminho da Flecha: A arte do tiro com arco é praticada em terreno baixo. Prepare o arco. Atire mais foguetes para o céu para esconder os foguetes do inimigo."
+
+Todos trabalham com submissão.</text>
+<text id="40700">%null%</text>
+<text id="50100">Ashes of War possui uma arma chamada "Winter" com as seguintes habilidades:
+
+"Frost Stomp: Impede que o ar quente se espalhe pelo mundo. Nevoeiro causa congelamento."
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="50200">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+"Véu da Tempestade: Um poder que ativa o véu da tempestade. Ele usa o poder para criar temporariamente uma tempestade."
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="50300">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+"Ataque: Faz com que o inimigo recue. É eficaz na defesa inimiga e pode destruir posições inimigas. Às vezes, a maneira mais fácil é a mais eficaz."
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="50400">Ashes of War inclui armas de "fogo" com as seguintes habilidades:
+
+“Relâmpago Rama: o poder de Rama inspirado em sangramento, ondas e um espírito constantemente marcante. Isso torna tudo cada vez mais rápido.”
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="50500">A arma interativa "Ashes of War" possui as seguintes habilidades de "fogo":
+
+"Fogo de Redman: a habilidade de Redman contra o General Radarn cria um fogo poderoso que se espalha por toda parte."
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="50600">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+Groundslam: Salte e bata no chão. O Slam envia uma mensagem forte para todos."
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="50700">A arma interativa "Holy Ash" possui os seguintes recursos:
+
+"Golden Cut: A habilidade de um clone de proteger uma pequena árvore. Salte para frente e bata no chão. Isso cria um som dourado que se espalha por toda parte."
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="50800">Ashes of War concede as seguintes habilidades para armas "encantadas":
+
+Ondas de escuridão: jogue sua arma e libere três ondas de escuridão. Use os símbolos de controle para lutar mais.”
+
+Use um machado grande, um martelo grande e uma arma grande.</text>
+<text id="50900">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+"Horah Laux Earthshaker: Golpeie o chão com as duas mãos. O chão treme violentamente e você ouve música. Continue seguindo as regras. O chão explode novamente."
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="60000">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+"Tomada de decisões: a arte da coragem Segure sua arma à sua frente. Decida-se e reconstrua seu poder de luta.
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="60100">Ashes of War oferece armas interativas "premium" com os seguintes recursos:
+
+"Resolução do Cavaleiro Real: O Poder do Primeiro Rei. Planeje sua arma com antecedência para mostrar sua determinação e se preparar para a batalha."
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="60200">Ashes of War oferece armas interativas. "Stealth" tem os seguintes recursos:
+
+“Estratégia de assassinato: ocultar a aparência do usuário para evitar danos físicos. Muitos trabalhadores desaparecerão e bloquearão seu caminho. "
+
+Use espadas retas e espadas curtas.</text>
+<text id="60300">A arma interativa "Holy Ash" possui os seguintes recursos:
+
+"Fazer um juramento em ouro: uma arte antiga. Levante suas armas na batalha para honrar a árvore sagrada, aumentando seu poderio militar e a segurança para você e seus entes queridos.
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="60400">A arma interativa "Holy Ash" possui os seguintes recursos:
+
+“Cavaleiro Sagrado: O Poder, Arma da Graça e Vontade Divina dos Grandes Comandantes da Ordem Dourada. É mais eficaz contra aqueles cuja vida e morte dependem disso. "
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="60500">A arma interativa "Holy Ash" possui os seguintes recursos:
+
+Compartilhe a trama: O poder dos cavaleiros fundamentalistas da Ordem Dourada combina as armas de um caçador e de seus amigos mais próximos com o poder divino. “Afeta pessoas que dependem dele para o resto da vida”.
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="60600">Ashes of War possui uma contra-arma chamada "Blood" que possui as seguintes habilidades:
+
+"Seppuku: Técnica Proibida da Espada de Grama. Sangramento quando a espada é esfaqueada no estômago. Pode aumentar a eficácia do ataque e aumentar o efeito de sangramento."
+
+Uma espada é usada para se mover. (Excluindo armas pesadas e armas leves)</text>
+<text id="60700">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+"Pedra: Capacidade de controlar a gravidade. Abaixe as armas. Puxa pedras do solo para fortalecê-las. Isso torna o combate mais forte e mais fácil de destruir as posições inimigas."
+
+Pode ser usado com armas brancas (exceto chicotes).</text>
+<text id="65000">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+"Rugido Bárbaro: Emite um som assustador para aumentar seu poder de ataque e inspirar. Quando ativados, ataques poderosos se transformam em combos brutais."
+
+Pode ser usado com armas brancas (exceto espadas, colares e chicotes).</text>
+<text id="65100">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+"Grito: Solte um grito de guerra para aumentar seu poder de luta. Quando você faz seu ataque, seu ataque poderoso se transforma em um ataque poderoso."
+
+Pode ser usado com armas brancas (exceto espadas, colares e chicotes).</text>
+<text id="65200">Ashes of War inclui as seguintes "descrições" de armas e habilidades:
+
+"Beast Whisper: Faz o som de um animal se movendo pelo ar como se fosse algo crescendo."
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="65300">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+"Troll Roar: Olhe para o céu e emita um som alto e estridente que fará com que os inimigos próximos fujam. Um ataque terrível então começa. Bata no chão e erre. Arma."
+
+Machados, martelos e espadas são usados ​​de forma dramática e dramática.</text>
+<text id="65400">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+"Desempenho de voz: torne sua presença conhecida com orgulho. Aumente o poder de ataque, a defesa e a velocidade de cura
+
+Pode ser usado com armas brancas (exceto espadas, colares e chicotes).</text>
+<text id="70000">Ashes of War inclui armas "pesadas" com as seguintes habilidades:
+
+“Resistência: Mantenha o inimigo em estado estável para se preparar para um ataque. Aumente o saldo por um curto período de tempo. Ao exercer o direito, o dano é minimizado.”
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="70100">A arma interativa "Holy Ash" possui os seguintes recursos:
+
+"Juramento Eterno: O poder de um antigo guerreiro de madeira. Pegue o grande escudo. Use o poder dourado para se equipar e você será derrotado por um momento."
+
+Pode ser usado com todos os revestimentos protetores.</text>
+<text id="70200">A arma interativa "Holy Ash" possui os seguintes recursos:
+
+"Terreno Sagrado: Atualize seu escudo e crie um campo de árvores sagradas que restaura constantemente a saúde e aumenta a proteção do usuário, do hub e dos aliados."
+
+Pode ser usado com todos os revestimentos protetores.</text>
+<text id="80000">Ashes of War inclui as seguintes "descrições" de armas e habilidades:
+
+“Ação rápida: o poder da rapidez.
+Mova-se rapidamente para o lado e atire no alvo bloqueado.
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="80100">Ashes of War inclui as seguintes "descrições" de armas e habilidades:
+
+"Hound's Step: A habilidade de se tornar invisível para uma corrida rápida. Normalmente, quando você usa o método de agilidade, a velocidade se tornará gradualmente mais rápida. Você pode usar essa habilidade para alcançar áreas fechadas."
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="80200">Ashes of War inclui as seguintes "descrições" de armas e habilidades:
+
+"Wild Raptor: fica no chão e desaparece por um tempo. Se um inimigo atacar você, as asas do raptor o ajudarão a escapar rapidamente para o ar."
+
+Pode ser usado com todas as armas brancas.</text>
+<text id="85000">Ashes of War oferece armas interativas. "Stealth" tem os seguintes recursos:
+
+“Sacerdote da Sombra Branca: Pegue uma arma e recite uma oração curta e silenciosa para lançar uma sombra branca. Esta visão aprisiona os inimigos do homem e encoraja a resistência contra eles. Mas o demi-humano conhece a guerra. Mas funcionou para eles."
+
+Pode ser usado com todas as armas brancas.</text>
+</entries>
+</fmg>

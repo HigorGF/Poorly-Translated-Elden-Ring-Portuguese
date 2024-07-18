@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Gritar torna mais difícil para os inimigos verem você.
+Dá melhores resultados em grama alta.
+Atacar inimigos invisíveis causa mais dano do que antes.
+
+&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;</text>
+<text id="2">Use uma ou duas armas no lado esquerdo para se proteger de ataques.
+Os escudos funcionam bem defensivamente.
+Segurança requer força.
+Se ele respirar, sua condição piora.
+
+&lt;?keyicon@24?&gt;: Segurança</text>
+<text id="3">Você pode parar e bloquear rapidamente os ataques inimigos.
+O bloqueio facilita a penetração nas posições inimigas.
+
+&lt;?keyicon@23?&gt; Bloqueie ataques rápidos: aparar e aparar.</text>
+<text id="4">Usar duas armas aumenta o poder em 50%.
+Isso facilita o rastreamento e torna as armas mais prejudiciais.
+Além disso, o poder de ataque desta arma é mais forte do que usar um escudo.
+
+&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: duas mãos</text>
+<text id="5">Ataque de carga e remoção poderosa
+Use-o para danificar posições inimigas.
+Eles podem atacar inimigos em movimento.
+
+Espere &lt;?keyicon@23?&gt;: Ataque de carga
+&lt;?keyicon@23?&gt; Ao pular: evite o ataque.</text>
+<text id="6">As armas possuem habilidades especiais.
+Essas habilidades variam de ataques poderosos a efeitos temporários.
+Custa FP para usar.
+
+&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;</text>
+<text id="7">O escudo permite evitar ataques de inimigos próximos com a habilidade de "parar".
+Uma barreira bem construída enfraquece a posição do atacante. E estamos entrando em uma guerra perigosa.
+
+&lt;?keyicon@25?&gt; e seu relacionamento com seu inimigo Perry.</text>
+<text id="8">Travar o inimigo em um alvo facilita o foco durante o combate.
+
+&lt;?keyicon@15?&gt;: &lt;?keyActName@15?&gt;
+&lt;?keyControlCamera?&gt; Se o alvo estiver bloqueado: Altere o alvo.</text>
+<text id="9">Se você estiver usando um arco com as duas mãos, mantenha pressionado &lt;?keyicon@24?&gt; para fazer um movimento bem-sucedido.
+isso permite o uso adequado de &lt;?keyControlCamera?&gt;
+Pode causar danos se atingir cabeças de pessoas ou inimigos semelhantes.
+
+&lt;?keyicon@24?&gt; Ao usar um arco de duas mãos: mira precisa</text>
+<text id="10">Cada mão pode segurar três armas.
+
+Algumas armas, como escudos, possuem animações baseadas na mão que as segura.</text>
+<text id="11">Você pode salvar até 10 itens por vez.
+Os objetos podem ser comparados sem entrar no menu Objeto.
+Você pode colocar itens diretamente em sua sacola para usar no menu.
+
+&lt;?keyicon@18?&gt;: &lt;?keyActName@18?&gt;
+&lt;?keyicon@26?&gt;: &lt;?keyActName@26?&gt;</text>
+<text id="12">Acenda as luzes para ver claramente no escuro.
+
+Há um campo à esquerda &lt;?keyicon@24?&gt;: Adicionar campo</text>
+<text id="13">Se você estiver atrás do inimigo, terá a chance de obter pontuações altas.
+Se você destruir posições inimigas, também poderá encontrar ameaças perigosas.
+Acertar enquanto ataca causa mais dano do que acertar por trás.
+
+Quando &lt;?keyicon@22?&gt; se aproxima e ataca um inimigo: Um ataque crítico.
+&lt;?keyicon@22?&gt; Ao se aproximar de um inimigo destruído: cause dano massivo.</text>
+<text id="14">Use o menu do programa para executar funções básicas.</text>
+<text id="15">Você pode usar o mapa para ver onde você está agora. Incluindo ambiente e edifícios.
+Você pode atualizar seu mapa com novas informações encontrando pedaços de mapa escritos nas rochas ao longo do caminho.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="16">Salte ao lado do espírito enquanto cavalga e use a corrente para voar no ar.
+Quando você dirige corretamente e pula no ar, você não se machucará mesmo em um lugar alto.
+
+Contos de fadas estranhos enquanto dirige &lt;?keyicon@8?&gt;: Mergulhe em contos de fadas estranhos.</text>
+<text id="17">Se você tiver mais de um item pronto, poderá selecionar rapidamente na primeira seção pressionando e segurando &lt;?keyicon@18?&gt;.
+
+Pressione e segure &lt;?keycon@18?&gt;: Selecione o primeiro item configurado.</text>
+<text id="50">Que tipo de marca você deixa quando morre?
+Você pode restaurar essas rotas movendo-as para seus locais originais.
+Mas se você morrer novamente antes de encontrar o caminho de volta, isso não durará para sempre.</text>
+<text id="51">%null%</text>
+<text id="52">Você pode invocar um espírito das cinzas quando o ícone aparecer no lado esquerdo da tela.
+Existem muitos tipos de espíritos que podem ser convocados.
+Invocar elfos geralmente usa FP.</text>
+<text id="53">A memória em repouso restaura HP, FP e doenças.
+Além disso, o sagrado ainda está cheio.
+
+Mas quanto mais inimigos você derrotar, melhor. Eles se viram mais.</text>
+<text id="54">Uma beleza única brilha ao seu redor.
+Se você olhar e ver uma luz, ligue. Você verá um lugar familiar.</text>
+<text id="55">Grace assume o controle de sua presa e a mede com precisão.
+Algumas pessoas bem-intencionadas mantêm esse poder hoje.
+A luz dourada avança.</text>
+<text id="56">Uma garrafa de Crimson Tears restaurará sua saúde.
+Garrafa de água azul celeste, encha FP.
+
+Você pode dividir o volume de cada copo separadamente, se souber.
+Também existem coisas que você pode usar para melhorar a qualidade de seus canos.</text>
+<text id="57">Se você usar o mapa, poderá ir diretamente aos lugares famosos que encontrar.
+Mas algumas prisões e outros lugares não podem fazer isso</text>
+<text id="58">Você pode atacar com a mão direita ou com os dois braços enquanto dirige.
+Se for danificado durante o carregamento, irá funcionar mal.
+Isso o colocará de volta no caminho certo rapidamente.</text>
+<text id="59">Você não pode entrar em castelos, cavernas, tumbas e locais semelhantes enquanto dirige.
+Não é permitido dirigir nessas áreas.</text>
+<text id="60">Se você tiver talento, poderá fazer qualquer coisa que encontrar.
+Para fazer isso, selecione "Fazer" no menu principal.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="61">Você pode precisar de cookies ou outros recursos para concluir determinadas funções.
+O produto consumirá o conteúdo da sacola. Mas a bolsa em si permanece.</text>
+<text id="62">A armadura lembra a aliança e o poder das armas antigas.
+A espada de batalha, assim como a lâmina estendida, permitem que você coloque seu equipamento em um local especial.</text>
+<text id="63">%null%</text>
+<text id="64">Se você morrer, você ressuscitará onde está.
+
+No entanto, se a sua aposta Marika estiver prestes a expirar, você pode optar por retornar para lá.</text>
+<text id="65">Se você completou mais de 70% do nível máximo. Ele abrirá lentamente.
+Se você exceder o limite de recursos, não poderá redefini-lo.</text>
+<text id="66">Você não pode fazer nada durante a batalha, não pode abrir o mapa.</text>
+<text id="67">Espíritos convocados das cinzas podem ser ressuscitados através de canais espirituais.
+Você precisa do lótus do vale para te fazer feliz.</text>
+<text id="68">Conforme você sobe de nível, você pode competir para melhorar seu personagem.
+À medida que seu personagem avança, seu nível aumenta e a velocidade necessária para desenvolver seu próximo personagem aumenta.</text>
+<text id="69">%null%</text>
+<text id="70">Quando o medidor de veneno estiver cheio, você morre e o dano continua.
+Quanto maior a resistência, mais tempo leva para o medidor carregar.</text>
+<text id="71">Quando o medidor Red Rot está cheio, ele fica doente e desaparece com o tempo.
+A podridão vermelha é uma doença muito séria. Quanto maior a resistência, mais tempo leva para o medidor carregar.</text>
+<text id="72">Quando o sangramento parar, você sangrará.
+Isso causa muitos danos, afetando o máximo de saúde.
+Quanto maior a potência, mais tempo leva para carregar o medidor.</text>
+<text id="73">Quando a máquina de gelo está cheia, ela fica danificada e fica temporariamente desativada.
+Mesmo tendo esse efeito, sofrerá mais danos de outras fontes.
+Quanto maior a potência, mais tempo leva para carregar o medidor.</text>
+<text id="74">Quando a máquina de dormir estiver cheia, ele dormirá bem.
+Pessoas magras dormem bem.
+Quanto mais você se concentrar, melhor. Demora muito para carregar o medidor.</text>
+<text id="75">Quando Mad Wine estiver cheio você ficará louco e perderá muito HP e FP.
+Somente os humanos sofrem de paranóia.
+Quanto mais você se concentrar, melhor. Demora muito para carregar o medidor.</text>
+<text id="76">Quando o medidor de morte estiver cheio, ele morre instantaneamente.
+Era uma doença terrível, mas ele resistiu à morte.
+O medidor demora muito para carregar.</text>
+<text id="77">A armadura pesada oferece mais estabilidade e evita que você se mova quando atacado.
+Um efeito semelhante pode ser alcançado usando a arma com as duas mãos.</text>
+<text id="100">No modo multijogador cooperativo, o objetivo de Curling Finger é ajudar o servidor a derrotar o chefe local.
+Quando o dedo morre ou derrota um chefe, ele retorna ao seu mundo, seja ele qual fosse antes.</text>
+<text id="101">Nos torneios multijogador, o objetivo do duelo é derrotar o anfitrião.
+Quando o Artista morre ou os Finger Soldiers são derrotados, o que ocorrer primeiro, ele retorna ao seu próprio mundo.</text>
+<text id="102">Na maioria dos jogos você pode ter dois aliados e um atacante ou inimigo de cada vez.
+
+Os jogadores podem usar seus insultos para criar vários atacantes ou oponentes.</text>
+<text id="103">Call Finger Therapy permite que você veja indicativos deixados por jogadores de outros mundos.
+
+Se você procurar outro jogador pelo crachá, a maioria começará como coletor de impressões digitais.</text>
+<text id="104">Você pode fazer um mostrador dourado com a mão quebrada.
+Este banner indica que os mundos de outros jogadores permitem que eles convidem você.
+Parece um monte de dedos tortos.</text>
+<text id="105">Os dedos do artista pairaram sobre o indicativo vermelho.
+Este banner indica que os mundos de outros jogadores permitem que eles convidem você.
+Jogue como um oponente competitivo em jogos multijogador.</text>
+<text id="106">Bloodfinger permite que você entre no mundo de outro jogador quando Bloodfinger ataca.
+Existem outros itens que permitem invadir outros mundos.</text>
+<text id="107">Se você estiver usando o anel de código branco, deverá fazer login imediatamente.
+Quando a sua aldeia foi atacada, caçadores estrangeiros vieram em seu auxílio.
+(Esta chamada não é comum.)</text>
+<text id="108">Se você usar um anel azul, poderá receber ligações urgentes para outros mundos.
+Como caçador, você é convidado a entrar no mundo de outros jogadores.</text>
+<text id="109">Há fotos dos mortos por toda parte.
+Esses ídolos são chamados de pedras.
+
+Adicionado um indicativo de chamada com uma pequena pedra de chamada.
+Será fácil convidar outros jogadores para esses locais.</text>
+<text id="110">Ao definir uma senha, você pode visualizar mensagens e fazer chamadas.
+Obtenha sangue e almas de outros jogadores com a mesma senha.</text>
+<text id="111">Se você definir várias senhas para diversas finalidades
+Você usará a mesma senha para se conectar com outros jogadores.
+
+No entanto, os ataques multijogador não envolvem criptografia multijogador.</text>
+<text id="112">Você pode usar o menu de mensagens para enviar mensagens a outros jogadores.
+
+Quando você escreve uma mensagem, ela aparecerá nos mundos de outros jogadores em sua localização.</text>
+<text id="113">Na maioria dos jogos você só pode explorar uma área limitada.
+Extintores de incêndio são usados ​​para vedar áreas externas.
+Eles estarão disponíveis novamente após alguns jogos.</text>
+<text id="114">Às vezes você verá um espírito branco brilhante.
+Eles representam jogadores de outras partes do mundo e suas ações recentes.</text>
+<text id="115">Jogadores estrangeiros sangram quando morrem.
+Você pode examiná-los e ver como eles morreram.</text>
+<text id="116">O objetivo de muitos caçadores é derrotar o atacante.
+Quando o caçador morre ou o guerreiro vence. (O que ocorrer primeiro) O caçador voltou para sua terra natal.</text>
+<text id="117">Existem dois tipos de rastros deixados por jogadores em outros mundos.
+
+O sinal dourado requer um dedo torto.
+Uma bandeira vermelha exige um duelo com o oponente.</text>
+<text id="118">Você pode alterar o formato do texto para torná-lo mais complexo.
+Você também pode aprimorar o texto.
+
+&lt;?keyicon@30?&gt;: Altera o formato da mensagem.</text>
+<text id="119">Na maioria dos jogos ofensivos, o objetivo dos atacantes é vencer os visitantes.
+Quando o atacante morre ou o alienígena vence. (Aquele que vem primeiro) retornará ao seu próprio mundo.</text>
+<text id="120">O coliseu central é onde você luta contra outras pessoas.
+Todo mundo tem suas próprias regras.
+
+A luta pela imagem de Mallika pode começar com uma mesa redonda.
+Use o popular programa Arena</text>
+<text id="121">Cada estágio possui um nível que testa a eficácia dos atacantes.
+Batalhas de duelo, batalhas combinadas / batalhas épicas e espíritos
+
+Cada grupo possui cinco categorias.
+Ganhar aumentará suas estatísticas. Os acertos vencedores têm um efeito diferente.</text>
+<text id="150">Outros ataques relacionados, como incêndio ou raios, podem tornar a proteção ineficaz.
+Além do combate físico normal
+
+Esta segurança não protege contra muitos ataques de interceptação.</text>
+<text id="151">Alguns ataques podem danificar posições inimigas. Isso coloca você em uma situação perigosa.
+Atacar e saltar tornam mais fácil destruir as posições inimigas.</text>
+<text id="152">Ataca repetidamente os inimigos na montanha. Pare-os e destrua seus movimentos.
+Isso permite que você corra mais riscos.
+Ataques de carga e levantamento podem derrubar inimigos montados.</text>
+<text id="153">Ataques de faca são inúteis contra armas de longo alcance.
+Ataques de assassinato têm maior chance de atingir o alvo.</text>
+<text id="154">%null%</text>
+<text id="200">Existem lágrimas vermelhas e azuis.
+Eles ganham dinheiro suficiente para encher garrafas ao seu próprio estilo.
+No entanto, você não pode encher mais garrafas do que o permitido.</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

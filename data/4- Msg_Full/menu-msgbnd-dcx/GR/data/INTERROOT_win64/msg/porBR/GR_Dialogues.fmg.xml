@@ -1,0 +1,835 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Muito bom</text>
+<text id="2">fechado</text>
+<text id="3">Sim</text>
+<text id="4">Música</text>
+<text id="15">Tente novamente</text>
+<text id="16">O que deveríamos fazer</text>
+<text id="17">Voltar ao menu principal</text>
+<text id="40200">Correr não é suficiente.</text>
+<text id="40201">Outras solicitações</text>
+<text id="40202">Ritmo/conteúdo insuficiente</text>
+<text id="40300">Restaura as configurações padrão
+Você concorda?</text>
+<text id="40500">Restaurar todas as configurações padrão
+Você concorda?</text>
+<text id="102000">&lt;Você vai? Nome do Projeto? -
+Pendência?</text>
+<text id="102001">Cancelar &lt;?item?&gt;?
+Pendência?</text>
+<text id="102002">Deixe tudo selecionado
+Pendência?</text>
+<text id="102003">Exclua todos os itens selecionados.
+Pendência?</text>
+<text id="102004">Apenas oito episódios não se perdem no tempo. 
+Se você voltar, está tudo acabado.
+Tudo começa com o antigo
+Você concorda?</text>
+<text id="102005">As cinzas da guerra foram enterradas em &lt;?itemName?&gt;
+Se algo for perdido, novas peças serão perdidas na batalha.
+Você concorda?</text>
+<text id="102006">As cinzas da guerra foram enterradas em &lt;?itemName?&gt;
+Perca isso e você perderá as cinzas da guerra.
+Você concorda?</text>
+<text id="102007">Ashes of War funciona com itens selecionados.
+Se algo for perdido, novas peças serão perdidas na batalha.
+Você concorda?</text>
+<text id="102008">Cinzas da Guerra depende da sua escolha.
+Perca isso e você perderá as cinzas da guerra.
+Você concorda?</text>
+<text id="102009">%null%</text>
+<text id="102010">Isso é mais do que o número máximo de caminhos.
+O número excede o limite zero.
+Você ainda usa?</text>
+<text id="102011">%null%</text>
+<text id="102012">%null%</text>
+<text id="102013">%null%</text>
+<text id="102014">%null%</text>
+<text id="102015">%null%</text>
+<text id="102016">%null%</text>
+<text id="102017">%null%</text>
+<text id="102018">%null%</text>
+<text id="102019">%null%</text>
+<text id="102020">Porque as cinzas da guerra não podem ser removidas.
+Você gasta muito dinheiro</text>
+<text id="102021">As cinzas desta guerra escolhida não podem ser removidas.
+Porque você já fez o máximo de transações permitidas.</text>
+<text id="103000">Esta função não funciona bem com recursos existentes.</text>
+<text id="103001">Esta função não funciona bem com recursos existentes.
+Ele não segurou com as duas mãos.</text>
+<text id="103002">%null%</text>
+<text id="103003">%null%</text>
+<text id="103004">%null%</text>
+<text id="103005">No nível atual, esse tipo de espírito de luta não pode ser chamado.</text>
+<text id="103110">Este teste não está disponível no momento e não pode ser preparado.</text>
+<text id="103130">O dispositivo não pode ser substituído neste momento.</text>
+<text id="103131">%null%</text>
+<text id="103132">%null%</text>
+<text id="103133">%null%</text>
+<text id="103134">%null%</text>
+<text id="103135">%null%</text>
+<text id="103136">%null%</text>
+<text id="103137">%null%</text>
+<text id="103138">%null%</text>
+<text id="103139">%null%</text>
+<text id="103140">O slot de memória pode causar fluido extra ou magia.
+Você concorda?</text>
+<text id="103141">Remova a ortografia e os caracteres que excedem o número de slots de memória.</text>
+<text id="104000">Histórico de múltiplas senhas</text>
+<text id="104001">Escolha uma senha</text>
+<text id="104002">Histórico de senha do grupo</text>
+<text id="104003">Escolha uma senha</text>
+<text id="104004">Não há mais histórico de senha</text>
+<text id="104005">Não há histórico de senha para este grupo</text>
+<text id="104006">%null%</text>
+<text id="104007">%null%</text>
+<text id="104008">%null%</text>
+<text id="104009">%null%</text>
+<text id="104010">Use a poção e os dedos para eliminar o espírito alienígena.
+Você concorda?</text>
+<text id="104011">%null%</text>
+<text id="104012">%null%</text>
+<text id="104013">%null%</text>
+<text id="104014">%null%</text>
+<text id="104015">%null%</text>
+<text id="104016">%null%</text>
+<text id="104017">%null%</text>
+<text id="104018">%null%</text>
+<text id="104019">%null%</text>
+<text id="104020">Removemos o indicativo usando sua impressão digital.
+Você concorda?</text>
+<text id="110000">Quer salvar o jogo e voltar ao menu principal?</text>
+<text id="110001">%null%</text>
+<text id="110002">%null%</text>
+<text id="110003">%null%</text>
+<text id="110004">%null%</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">Quer salvar o jogo e retornar à área de trabalho?</text>
+<text id="110100">A ativação do driver oferece suporte às configurações de exibição.
+A qualidade vem em primeiro lugar</text>
+<text id="110316">Retorne ao menu para alterar as configurações de idioma.</text>
+<text id="111100">As configurações foram alteradas.
+A configuração anterior é devolvida ao módulo. &lt;? Segundos restantes?&gt;
+Quer manter suas configurações atuais?</text>
+<text id="111101">Já definido?</text>
+<text id="111102">Use apenas as configurações que você especificar.
+Voltar ao menu principal</text>
+<text id="111103">Usaremos essa configuração mais tarde.
+Comece um novo jogo</text>
+<text id="111104">As configurações foram alteradas.
+A configuração anterior é devolvida ao módulo. &lt;? Segundos restantes?&gt;
+Quer manter suas configurações atuais?</text>
+<text id="111105">Use apenas as configurações que você especificar.
+Voltar ao menu principal</text>
+<text id="111106">HDR desativado</text>
+<text id="111107">HDR ativado</text>
+<text id="111108">%null%</text>
+<text id="111109">%null%</text>
+<text id="111110">Outras mudanças estruturais não estão incluídas.
+Se você quiser usar o menu traseiro.</text>
+<text id="211001">Abra &lt;?placeName?&gt;
+Você concorda?</text>
+<text id="211002">Você não quer ser forte.</text>
+<text id="211003">Você não pode entrar na área geral durante a maior parte do jogo</text>
+<text id="211004">Você não pode entrar em áreas públicas neste momento</text>
+<text id="211005">Ele caiu em uma armadilha.
+Não chegaremos a lugar nenhum se não nos unirmos.</text>
+<text id="211006">Você não pode entrar em áreas públicas neste momento</text>
+<text id="211007">Você não pode ir a algum lugar e esperar pela guerra.</text>
+<text id="211008">%null%</text>
+<text id="211009">%null%</text>
+<text id="211010">Você não pode entrar em áreas públicas neste momento</text>
+<text id="211100">Remova todas as tags de edição.
+Você concorda?</text>
+<text id="211101">Sua doação atingiu o valor máximo. E não haverá mais.</text>
+<text id="211200">Você não pode se concentrar em sua situação atual.</text>
+<text id="211300">Muitos lugares para destacar
+A elegância é visível.</text>
+<text id="211400">Escolha esta decoração.
+Você concorda?</text>
+<text id="212000">&lt;?demandSoul?&gt; Velocidade e status do tráfego?</text>
+<text id="212001">Cancelar oferta
+Você concorda?</text>
+<text id="212002">Selecione pelo menos um evento para configurar.</text>
+<text id="212003">%null%</text>
+<text id="212004">%null%</text>
+<text id="212005">%null%</text>
+<text id="212006">%null%</text>
+<text id="212007">%null%</text>
+<text id="212008">%null%</text>
+<text id="212009">%null%</text>
+<text id="212010">Alcançamos um nível superior.
+Não consigo levantar o rosto.</text>
+<text id="212750">Você nasceu?</text>
+<text id="212751">Cancelar ressurreição</text>
+<text id="212752">Retorne o desempenho ao nível original.</text>
+<text id="212753">%null%</text>
+<text id="212754">%null%</text>
+<text id="212755">%null%</text>
+<text id="212756">%null%</text>
+<text id="212757">%null%</text>
+<text id="212758">%null%</text>
+<text id="212759">%null%</text>
+<text id="212760">Isso reduz a quantidade de memória disponível.
+Sua morte levaria a uma sentença de prisão.
+Bruxaria ou magia
+Você nasceu?</text>
+<text id="212761">Há mais em magia/encantamento do que apenas o número de slots de memória
+Não apague</text>
+<text id="214000">Levante as cinzas dessas guerras. Definido como &lt;?itemNameBeforeForge?&gt; e &lt;?itemNameAfterForge?&gt;?</text>
+<text id="215000">Complete novamente se você comprar uma runa maior
+O efeito atual da runa principal foi removido.
+Você concorda?</text>
+<text id="216000">Habilitar &lt;?nameBeforeForge?&gt;
+e &lt;?itemNameAfterForge?&gt;?</text>
+<text id="216001">%null%</text>
+<text id="216002">%null%</text>
+<text id="216003">%null%</text>
+<text id="216004">%null%</text>
+<text id="216005">%null%</text>
+<text id="216006">%null%</text>
+<text id="216007">%null%</text>
+<text id="216008">%null%</text>
+<text id="216009">%null%</text>
+<text id="216010">Você não pode ser tão forte quanto você é
+&lt;?Qual é o nome de Afterforge? -</text>
+<text id="221000">Habilitar &lt;?nameBeforeForge?&gt;
+&lt;?itemNameAfterForge?&gt; ou não?</text>
+<text id="221011">As armas não podem ser atualizadas em tabelas simuladas.</text>
+<text id="225000">&lt;?você quer uma alma?&gt; lhe dá um coração de dragão
+Crie seu próprio &lt;?nome?&gt;</text>
+<text id="225020">Eu não posso aceitar isso
+Você pode encontrar as mercadorias e salvar o armazém.</text>
+<text id="225100">Eu tenho esse poder.</text>
+<text id="226000">Estrela &lt;?você quer uma alma?&gt;
+Procure por &lt;?Nome do objeto?&gt;</text>
+<text id="226020">Eu não posso aceitar isso
+Você pode encontrar as mercadorias e salvar o armazém.</text>
+<text id="226100">Este cachorrinho é seu.</text>
+<text id="227000">Muitos &lt;?nome?&gt;</text>
+<text id="227020">Inimitável
+Você pode encontrar as mercadorias e salvar o armazém.</text>
+<text id="227100">A guerra é irreversível.</text>
+<text id="230000">Procure por &lt;?nome do item?&gt;</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">A energia acumulada é maior que a energia interna.</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">Eu não posso aceitar isso
+O número de itens recebidos é superior ao valor máximo.
+Um lugar seguro e um lugar seguro</text>
+<text id="230100">Muitos &lt;?nome?&gt;</text>
+<text id="230101">%null%</text>
+<text id="230102">%null%</text>
+<text id="230103">%null%</text>
+<text id="230104">%null%</text>
+<text id="230105">%null%</text>
+<text id="230106">%null%</text>
+<text id="230107">%null%</text>
+<text id="230108">%null%</text>
+<text id="230109">%null%</text>
+<text id="230110">A energia acumulada é maior que a energia interna.</text>
+<text id="230111">%null%</text>
+<text id="230112">%null%</text>
+<text id="230113">%null%</text>
+<text id="230114">%null%</text>
+<text id="230115">%null%</text>
+<text id="230116">%null%</text>
+<text id="230117">%null%</text>
+<text id="230118">%null%</text>
+<text id="230119">%null%</text>
+<text id="230120">Inimitável
+O número de itens recebidos é superior ao valor máximo.
+Um lugar seguro e um lugar seguro</text>
+<text id="230150">Esta memória não pode ser copiada.</text>
+<text id="231000">comprar &lt;?item?&gt;
+Música de &lt;?demandSoul?&gt;</text>
+<text id="231001">%null%</text>
+<text id="231002">%null%</text>
+<text id="231003">%null%</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">Coloque o excesso na caixa.</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">Eu não posso comprar.
+A quantidade de produtos que você deseja comprar será muito grande.
+Um lugar seguro e um lugar seguro</text>
+<text id="231100">O produto está pronto.
+Você não pode comprar mais</text>
+<text id="231500">Procure por &lt;?nome do item?&gt;
+Música de &lt;?demandSoul?&gt;</text>
+<text id="231501">%null%</text>
+<text id="231502">%null%</text>
+<text id="231503">%null%</text>
+<text id="231504">%null%</text>
+<text id="231505">%null%</text>
+<text id="231506">%null%</text>
+<text id="231507">%null%</text>
+<text id="231508">%null%</text>
+<text id="231509">%null%</text>
+<text id="231510">A energia acumulada é maior que a energia interna.</text>
+<text id="231511">%null%</text>
+<text id="231512">%null%</text>
+<text id="231513">%null%</text>
+<text id="231514">%null%</text>
+<text id="231515">%null%</text>
+<text id="231516">%null%</text>
+<text id="231517">%null%</text>
+<text id="231518">%null%</text>
+<text id="231519">%null%</text>
+<text id="231520">Eu não posso aceitar isso
+Você pode encontrar as mercadorias e salvar o armazém.</text>
+<text id="231550">Você não receberá uma cópia da inscrição vencedora.</text>
+<text id="232000">vendido &lt;? os nomes deles; -
+&lt;?sellaSouls?&gt; runa</text>
+<text id="232001">%null%</text>
+<text id="232002">Seja amigável com as vendas</text>
+<text id="232003">Este item não está à venda.</text>
+<text id="232004">As cinzas da guerra foram enterradas em &lt;?itemName?&gt;
+Se você vende alguma coisa, a pólvora desaparece.
+Você concorda?</text>
+<text id="235000">Vamos compartilhar?</text>
+<text id="235001">face
+Você concorda?</text>
+<text id="236001">Criar &lt;?Nome do projeto?&gt;</text>
+<text id="236002">%null%</text>
+<text id="236003">%null%</text>
+<text id="236004">%null%</text>
+<text id="236005">%null%</text>
+<text id="236006">%null%</text>
+<text id="236007">%null%</text>
+<text id="236008">%null%</text>
+<text id="236009">%null%</text>
+<text id="236010">Esses produtos podem ser ricos em doenças cardíacas.</text>
+<text id="236011">Não foi possível criar o projeto
+O número de coisas que você precisa fazer será enorme.
+Um lugar seguro e um lugar seguro</text>
+<text id="236012">%null%</text>
+<text id="236013">%null%</text>
+<text id="236014">%null%</text>
+<text id="236015">%null%</text>
+<text id="236016">%null%</text>
+<text id="236017">%null%</text>
+<text id="236018">%null%</text>
+<text id="236019">%null%</text>
+<text id="236020">Este item não pode ser fabricado porque você não tem navios explodidos suficientes.</text>
+<text id="236021">Isso é impossível porque você não tem frascos de perfume suficientes.</text>
+<text id="236022">%null%</text>
+<text id="236023">%null%</text>
+<text id="236024">%null%</text>
+<text id="236025">%null%</text>
+<text id="236026">%null%</text>
+<text id="236027">%null%</text>
+<text id="236028">%null%</text>
+<text id="236029">%null%</text>
+<text id="236030">Você não pode fazer isso porque não tem caráter suficiente.</text>
+<text id="236050">Isso não pode ser feito porque não há garrafas quebradas.</text>
+<text id="236051">%null%</text>
+<text id="236052">%null%</text>
+<text id="236053">%null%</text>
+<text id="236054">%null%</text>
+<text id="236055">Isso é impossível porque você não tem uma garrafa de água.</text>
+<text id="236056">%null%</text>
+<text id="236057">%null%</text>
+<text id="236058">%null%</text>
+<text id="236059">%null%</text>
+<text id="236060">Isso é impossível porque você não tem um frasco de perfume.</text>
+<text id="236201">Remova o lembrete e &lt;?demandSoul?&gt;
+Encontre &lt;?itemName?&gt;</text>
+<text id="236202">Coloque &lt;?itemName?&gt; em uma variável de memória</text>
+<text id="236203">%null%</text>
+<text id="236204">%null%</text>
+<text id="236205">%null%</text>
+<text id="236206">%null%</text>
+<text id="236207">%null%</text>
+<text id="236208">%null%</text>
+<text id="236209">%null%</text>
+<text id="236210">A energia acumulada é maior que a energia interna.</text>
+<text id="236211">Você não terá esse poder.
+O número de itens recebidos é superior ao valor máximo.
+Um lugar seguro e um lugar seguro</text>
+<text id="236212">%null%</text>
+<text id="236213">%null%</text>
+<text id="236214">%null%</text>
+<text id="236215">%null%</text>
+<text id="236216">%null%</text>
+<text id="236217">%null%</text>
+<text id="236218">%null%</text>
+<text id="236219">%null%</text>
+<text id="236220">Você não pode obter mais energia desta loja.
+Porque você alcançou o lugar mais alto.</text>
+<text id="236401">Vá para &lt;?Nome do projeto?&gt;</text>
+<text id="236402">Use a runa &lt;?demandSoul?&gt; para mudar isso para &lt;?itemName?&gt;.</text>
+<text id="236403">%null%</text>
+<text id="236404">%null%</text>
+<text id="236405">%null%</text>
+<text id="236406">%null%</text>
+<text id="236407">%null%</text>
+<text id="236408">%null%</text>
+<text id="236409">%null%</text>
+<text id="236410">As coisas mudam dependendo do que a caixa aceita.</text>
+<text id="236411">Você não pode mudar isso.
+O número de itens recebidos é superior ao valor máximo.
+Um lugar seguro e um lugar seguro</text>
+<text id="236412">%null%</text>
+<text id="236413">%null%</text>
+<text id="236414">%null%</text>
+<text id="236415">%null%</text>
+<text id="236416">%null%</text>
+<text id="236417">%null%</text>
+<text id="236418">%null%</text>
+<text id="236419">%null%</text>
+<text id="236420">Algumas coisas que você não pode consertar
+Porque você atingiu o limite.</text>
+<text id="237000">Uma tigela de lágrimas vermelhas</text>
+<text id="237001">lágrimas azuis</text>
+<text id="241000">Temos um novo mapa.
+(Limgrave Oeste)</text>
+<text id="241001">Temos um novo mapa.
+(Península das Lágrimas)</text>
+<text id="241002">Temos um novo mapa.
+(Limgrave Leste)</text>
+<text id="241003">Temos um novo mapa.
+(Leônia Oriental)</text>
+<text id="241004">Temos um novo mapa.
+(Norte da Lituânia)</text>
+<text id="241005">Temos um novo mapa.
+(Cilônia)</text>
+<text id="241006">Temos um novo mapa.
+(Planalto de Altes)</text>
+<text id="241007">Temos um novo mapa.
+(Grande líder)</text>
+<text id="241008">Temos um novo mapa.
+(Morro Golmar)</text>
+<text id="241009">Temos um novo mapa.
+(calidar)</text>
+<text id="241010">Temos um novo mapa.
+(Fenda do Dragão)</text>
+<text id="241011">Temos um novo mapa.
+(oeste de Zhushan)</text>
+<text id="241012">Temos um novo mapa.
+(Zhu Shandong)</text>
+<text id="241013">Temos um novo mapa.
+(Campo de Neve Sagrado)</text>
+<text id="241014">%null%</text>
+<text id="241100">Temos um novo mapa.
+(Rio Einsel)</text>
+<text id="241101">Temos um novo mapa.
+(lago amaldiçoado)</text>
+<text id="241102">Temos um novo mapa.
+(Palácio Mokwen)</text>
+<text id="241103">Temos um novo mapa.
+(Rio Teohoros)</text>
+<text id="241104">Temos um novo mapa.
+(divisão profunda da raiz)</text>
+<text id="241105">%null%</text>
+<text id="251020">Esses itens recomendados não podem ser salvos.</text>
+<text id="251021">O item selecionado não pode ser salvo.</text>
+<text id="251022">%null%</text>
+<text id="251023">%null%</text>
+<text id="251024">%null%</text>
+<text id="251025">%null%</text>
+<text id="251026">%null%</text>
+<text id="251027">%null%</text>
+<text id="251028">%null%</text>
+<text id="251029">%null%</text>
+<text id="251030">Salvando o projeto
+Não despeje água no tanque de água.</text>
+<text id="251031">O que você não pode comprar
+Não perca</text>
+<text id="261000">Memória insuficiente</text>
+<text id="261001">Não há espaço suficiente</text>
+<text id="261002">O espaço de armazenamento acabou</text>
+<text id="261003">Não se lembra de sentar ou repetir medicação</text>
+<text id="261004">Este feitiço ou feitiço não pode ser usado no personagem atual.</text>
+<text id="280001">Restaurar todas as configurações padrão
+Você concorda?</text>
+<text id="281000">Um item por estação</text>
+<text id="290001">Interromper a criação de personagem e retornar ao menu principal?</text>
+<text id="290002">Comece o jogo com este personagem.
+Você concorda?</text>
+<text id="290003">O registro é obrigatório
+
+Digite um nome para completar o design do personagem.</text>
+<text id="290004">As informações do personagem não são armazenadas.</text>
+<text id="290005">%null%</text>
+<text id="290006">%null%</text>
+<text id="290007">%null%</text>
+<text id="290008">%null%</text>
+<text id="290009">%null%</text>
+<text id="290010">%null%</text>
+<text id="290011">A alteração será cancelada.
+Você concorda?</text>
+<text id="290012">%null%</text>
+<text id="290013">%null%</text>
+<text id="290014">%null%</text>
+<text id="290015">%null%</text>
+<text id="290016">%null%</text>
+<text id="290017">%null%</text>
+<text id="290018">%null%</text>
+<text id="290019">%null%</text>
+<text id="290020">O nome selecionado contém idioma incorreto.
+E não pode ser usado
+
+Insira outro nome</text>
+<text id="290021">%null%</text>
+<text id="290022">%null%</text>
+<text id="290023">%null%</text>
+<text id="290024">%null%</text>
+<text id="290025">%null%</text>
+<text id="290026">%null%</text>
+<text id="290027">%null%</text>
+<text id="290028">%null%</text>
+<text id="290029">%null%</text>
+<text id="290030">Mudar de gênero traz consigo algumas mudanças.
+
+Você concorda?</text>
+<text id="290031">%null%</text>
+<text id="290032">%null%</text>
+<text id="290033">%null%</text>
+<text id="290034">%null%</text>
+<text id="290035">%null%</text>
+<text id="290036">%null%</text>
+<text id="290037">%null%</text>
+<text id="290038">%null%</text>
+<text id="290039">%null%</text>
+<text id="290040">Reverter significa reverter alterações não salvas.
+
+Você concorda?</text>
+<text id="290101">Você perdeu a energia e parou de usar maquiagem?</text>
+<text id="290102">Quer continuar esta atividade depois de aplicar a maquiagem?</text>
+<text id="290103">O registro é obrigatório
+Adicione um nome para completar a decoração.</text>
+<text id="290121">Você perdeu a energia e parou de usar maquiagem?</text>
+<text id="290122">Quer continuar esta atividade depois de aplicar a maquiagem?</text>
+<text id="290123">O registro é obrigatório
+Adicione um nome para completar a decoração.</text>
+<text id="290200">Salvar como favorito agora?</text>
+<text id="290201">Substituindo sua cena favorita pela visualização atual?</text>
+<text id="290202">Você está sentindo falta da flexibilidade atual e escolhendo uma carreira que ama?</text>
+<text id="290203">Você não pode mover um modelo para modelos diferentes.</text>
+<text id="290204">Remover favoritos selecionados
+Você concorda?</text>
+<text id="290205">%null%</text>
+<text id="290206">%null%</text>
+<text id="290207">%null%</text>
+<text id="290208">%null%</text>
+<text id="290209">%null%</text>
+<text id="290210">Não há favoritos salvos.</text>
+<text id="290300">Não está sendo editado no momento
+Para edição, feche a visualização de edição.</text>
+<text id="311000">exclua esta mensagem
+Você concorda?</text>
+<text id="311001">Você gostou da história?</text>
+<text id="311002">Você poderia criticar esses artigos?</text>
+<text id="321000">Redija esta mensagem</text>
+<text id="321001">Isso excluirá a mensagem atual.
+Você concorda?</text>
+<text id="322000">Remover esta mensagem da lista?</text>
+<text id="334510">Não é possível acessar &lt;?ServiceName?&gt;
+Isto é mais do que a capacidade máxima de proteção.
+O produto foi derramado</text>
+<text id="334511">Nem todos os &lt;?name?&gt; estão faltando
+Isto é mais do que a capacidade máxima de proteção.
+O produto foi derramado</text>
+<text id="334512">%null%</text>
+<text id="334513">%null%</text>
+<text id="334514">%null%</text>
+<text id="334515">%null%</text>
+<text id="334516">%null%</text>
+<text id="334517">%null%</text>
+<text id="334518">%null%</text>
+<text id="334519">%null%</text>
+<text id="334520">Como a maioria das pessoas, não podemos permitir isso.
+Segurança e proteção da propriedade
+Vai passar</text>
+<text id="401172">O jogo requer conexão com a internet.
+Explorando a rede Alden Ring
+Voltar ao menu principal</text>
+<text id="401701">&lt;?sismasg@401701?&gt;</text>
+<text id="404010">Cancelar as alterações existentes e retornar à página anterior?</text>
+<text id="404011">%null%</text>
+<text id="404012">%null%</text>
+<text id="404013">%null%</text>
+<text id="404014">%null%</text>
+<text id="404015">%null%</text>
+<text id="404016">%null%</text>
+<text id="404017">%null%</text>
+<text id="404018">%null%</text>
+<text id="404019">%null%</text>
+<text id="404020">Nas configurações de HDR:
+Você pode tirar fotos no menu do sistema de jogo.</text>
+<text id="406011">Comece com o perfil selecionado.</text>
+<text id="406012">Quer excluir o perfil selecionado e iniciar um novo jogo?</text>
+<text id="406013">Excluir perfil selecionado
+Você concorda?</text>
+<text id="450000">Iniciar relatório &lt;?extLoopCount?&gt; ?
+Se você ainda não começou, você pode optar por começar.
+Loop&lt;?nextLoopCount?&gt; é preenchido com matrizes de apoio vazias.
+e mesa redonda</text>
+<text id="450001">Se você iniciar o loop &lt;?extLoopCount?&gt;, não poderá continuar.
+Retorne o loopCount atual &lt;?loopCount?&gt;.
+Iniciar relatório &lt;?extLoopCount?&gt; ?</text>
+<text id="502000">Enviar os jogadores selecionados para seu próprio mundo?</text>
+<text id="502001">Os jogadores não podem retornar.</text>
+<text id="506000">Você está entrando no campo de batalha com essas configurações?</text>
+<text id="506001">%null%</text>
+<text id="506002">%null%</text>
+<text id="506003">%null%</text>
+<text id="506004">%null%</text>
+<text id="506005">%null%</text>
+<text id="506006">%null%</text>
+<text id="506007">%null%</text>
+<text id="506008">%null%</text>
+<text id="506009">%null%</text>
+<text id="506010">O torneio foi cancelado.</text>
+<text id="506011">Não exclua a primeira linha.</text>
+<text id="506012">Excluir registro do jogo?</text>
+<text id="506013">Disputa: Parceiros não são suportados.
+Energia e tempo suficientes</text>
+<text id="506014">Ao entrar em um jogo do United Fight, a senha da sua academia deve ser “todos os jogadores” para definir esta opção.</text>
+<text id="506015">Ao fazer login no jogo United Fight, você deve especificar uma senha do Coliseu para que esta opção esteja ativa.</text>
+<text id="506016">%null%</text>
+<text id="506017">%null%</text>
+<text id="506018">%null%</text>
+<text id="506019">%null%</text>
+<text id="506020">Falha na preparação</text>
+<text id="506021">Falha na preparação
+Não é possível criar sessão</text>
+<text id="506022">Falha na preparação
+Não vinculado a uma sessão</text>
+<text id="506023">Nenhum resultado é mostrado para esta postagem.
+
+Selecione "Sim" para tentar ver os resultados da batalha em um novo nível.
+
+Selecione "Não" para limpar os resultados.</text>
+<text id="506100">Histórico de senha do site</text>
+<text id="506101">Selecione a senha que deseja usar.</text>
+<text id="506102">%null%</text>
+<text id="506103">%null%</text>
+<text id="506104">Relatórios sem treinamento de senha</text>
+<text id="507000">Os jogadores lutam por um curto período de tempo (180 segundos) até que um deles vença.
+Não use água vermelha engarrafada.
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Não beba muito.</text>
+<text id="507001">O tempo de ataque do jogador foi reduzido (180 segundos).
+A menos que um deles vença
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Bebidas alcoólicas são recomendadas.</text>
+<text id="507002">%null%</text>
+<text id="507003">%null%</text>
+<text id="507004">%null%</text>
+<text id="507005">%null%</text>
+<text id="507006">%null%</text>
+<text id="507007">%null%</text>
+<text id="507008">%null%</text>
+<text id="507009">%null%</text>
+<text id="507010">Um máximo de 2 jogadores podem participar em cada duelo.</text>
+<text id="507011">Um máximo de 2 jogadores podem participar em cada duelo.</text>
+<text id="507012">%null%</text>
+<text id="507013">%null%</text>
+<text id="507014">%null%</text>
+<text id="507015">%null%</text>
+<text id="507016">%null%</text>
+<text id="507017">%null%</text>
+<text id="507018">%null%</text>
+<text id="507019">%null%</text>
+<text id="507020">Um máximo de 2 jogadores podem participar em cada duelo.</text>
+<text id="507021">Um máximo de 2 jogadores podem participar em cada duelo.</text>
+<text id="507022">%null%</text>
+<text id="507023">%null%</text>
+<text id="507024">%null%</text>
+<text id="507025">%null%</text>
+<text id="507026">%null%</text>
+<text id="507027">%null%</text>
+<text id="507028">%null%</text>
+<text id="507029">%null%</text>
+<text id="507030">Um máximo de 2 jogadores podem participar em cada duelo.</text>
+<text id="507031">Um máximo de 2 jogadores podem participar em cada duelo.</text>
+<text id="507100">Ambos os lados são inimigos e sua duração é curta (300 segundos). 
+Derrote tantos oponentes quanto possível.
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Não beba muito.</text>
+<text id="507101">Ambos os lados são inimigos e sua duração é curta (300 segundos). 
+Derrote tantos oponentes quanto possível.
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Bebidas alcoólicas são recomendadas.</text>
+<text id="507102">%null%</text>
+<text id="507103">%null%</text>
+<text id="507104">%null%</text>
+<text id="507105">%null%</text>
+<text id="507106">%null%</text>
+<text id="507107">%null%</text>
+<text id="507108">%null%</text>
+<text id="507109">%null%</text>
+<text id="507110">Todos os 4 jogadores são inimigos e têm tempo limitado.
+(300s) Lute para derrotar o inimigo com grandes danos.
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Não beba muito.</text>
+<text id="507111">Todos os 4 jogadores são inimigos e têm tempo limitado.
+(300s) Lute para derrotar o inimigo com grandes danos.
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Bebidas alcoólicas são recomendadas.</text>
+<text id="507112">%null%</text>
+<text id="507113">%null%</text>
+<text id="507114">%null%</text>
+<text id="507115">%null%</text>
+<text id="507116">%null%</text>
+<text id="507117">%null%</text>
+<text id="507118">%null%</text>
+<text id="507119">%null%</text>
+<text id="507120">Todos os 6 jogadores são inimigos e têm tempo limitado (300 segundos).
+Competir com oponentes fortes.
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Não beba muito.</text>
+<text id="507121">Todos os 6 jogadores são inimigos e têm tempo limitado (300 segundos).
+Competir com oponentes fortes.
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Bebidas alcoólicas são recomendadas.</text>
+<text id="507122">%null%</text>
+<text id="507123">%null%</text>
+<text id="507124">%null%</text>
+<text id="507125">%null%</text>
+<text id="507126">%null%</text>
+<text id="507127">%null%</text>
+<text id="507128">%null%</text>
+<text id="507129">%null%</text>
+<text id="507130">Cada jogador tem 4 ou 6 inimigos e o tempo é limitado.
+(300s) Lute para derrotar o inimigo com grandes danos.
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Não beba muito.</text>
+<text id="507131">Cada jogador tem 4 ou 6 inimigos e o tempo é limitado.
+(300s) Lute para derrotar o inimigo com grandes danos.
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Bebidas alcoólicas são recomendadas.</text>
+<text id="507200">Os jogadores são divididos em duas equipes com um determinado tempo.
+(300s) Lute para derrotar o inimigo com grandes danos.
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Não beba muito.</text>
+<text id="507201">Os jogadores são divididos em duas equipes com um determinado tempo.
+(300s) Lute para derrotar o inimigo com grandes danos.
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Bebidas alcoólicas são recomendadas.</text>
+<text id="507202">%null%</text>
+<text id="507203">%null%</text>
+<text id="507204">%null%</text>
+<text id="507205">%null%</text>
+<text id="507206">%null%</text>
+<text id="507207">%null%</text>
+<text id="507208">%null%</text>
+<text id="507209">%null%</text>
+<text id="507210">É dividido em dois grupos de até quatro jogadores.
+Hora de derrotar o máximo de inimigos possível (300 segundos)
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Não beba muito.</text>
+<text id="507211">É dividido em dois grupos de até quatro jogadores.
+Hora de derrotar o máximo de inimigos possível (300 segundos)
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Bebidas alcoólicas são recomendadas.</text>
+<text id="507212">%null%</text>
+<text id="507213">%null%</text>
+<text id="507214">%null%</text>
+<text id="507215">%null%</text>
+<text id="507216">%null%</text>
+<text id="507217">%null%</text>
+<text id="507218">%null%</text>
+<text id="507219">%null%</text>
+<text id="507220">6 jogadores são divididos em dois grupos limitados.
+Hora de derrotar o máximo de inimigos possível (300 segundos)
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Não beba muito.</text>
+<text id="507221">6 jogadores são divididos em dois grupos limitados.
+Hora de derrotar o máximo de inimigos possível (300 segundos)
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Bebidas alcoólicas são recomendadas.</text>
+<text id="507222">%null%</text>
+<text id="507223">%null%</text>
+<text id="507224">%null%</text>
+<text id="507225">%null%</text>
+<text id="507226">%null%</text>
+<text id="507227">%null%</text>
+<text id="507228">%null%</text>
+<text id="507229">%null%</text>
+<text id="507230">Divida em duplas de 4 ou 6 pessoas.
+Hora de derrotar o máximo de inimigos possível (300 segundos)
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Não beba muito.</text>
+<text id="507231">Divida em duplas de 4 ou 6 pessoas.
+Hora de derrotar o máximo de inimigos possível (300 segundos)
+Uso ilimitado de Crimson Bottles e Azure Eggs.
+Bebidas alcoólicas são recomendadas.</text>
+<text id="507999">(Lei não disponível atualmente)</text>
+<text id="550000">Você foi temporariamente bloqueado em vários jogos.
+Porque a maioria dos seus jogos termina errado.</text>
+<text id="550100">Você retorna ao seu mundo devido ao desemprego.</text>
+<text id="550200">Os nomes dos parágrafos são substituídos por linhas.
+Porque está vazio</text>
+<text id="550300">Não elimine pontos falsos.
+armado e pronto</text>
+<text id="550301">Não remova munição danificada de uma arma carregada.
+As cinzas são colocadas em um caixão.</text>
+<text id="550302">Não remova munição danificada de uma arma carregada.
+Ainda tenho a arma, a caixa e tudo mais.
+O limite de valor da bagagem despachada foi excedido.</text>
+<text id="620001">Voltar ao menu principal?</text>
+<text id="620002">%null%</text>
+<text id="620003">%null%</text>
+<text id="620004">%null%</text>
+<text id="620005">%null%</text>
+<text id="620006">%null%</text>
+<text id="620007">%null%</text>
+<text id="620008">%null%</text>
+<text id="620009">%null%</text>
+<text id="620010">Quer fechar o painel de controle e iniciar o jogo?</text>
+<text id="620100">Este produto ainda está em desenvolvimento. Então vamos dar algumas propriedades
+(Inclui sistemas que usam Rede Xbox) Sim
+Se não funcionar conforme o esperado, poderá ser forçado a parar.</text>
+<text id="620101">%null%</text>
+<text id="620102">%null%</text>
+<text id="620103">%null%</text>
+<text id="620104">%null%</text>
+<text id="620105">%null%</text>
+<text id="620106">%null%</text>
+<text id="620107">%null%</text>
+<text id="620108">%null%</text>
+<text id="620109">%null%</text>
+<text id="620110">Este produto é diferente dos modelos anteriores.
+Não é necessária conexão com a Internet para reproduzir esta música.</text>
+</entries>
+</fmg>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110601">Escolha se deseja marcar novos itens com um ícone.</text>
+<text id="110602">%null%</text>
+<text id="110603">Mostrar/ocultar a guia Últimas Notícias no menu do produto.</text>
+<text id="111024">Você pode personalizar o movimento do cursor no menu do mapa.</text>
+<text id="111025">Mude as emoções conforme você muda os objetivos.</text>
+<text id="225001">Escolha as licenças Bell e personalize-as.</text>
+<text id="241501">Editar modo multijogador</text>
+<text id="241502">Verifique a lista de chamadas e ative ou desative o padrão.</text>
+<text id="241503">controle de verificação</text>
+<text id="241504">Consulte o mapa do menu para obter detalhes.</text>
+<text id="241600">Selecione Call Stone para ativar/desativar.</text>
+<text id="280600">Mostrar menu do mapa</text>
+</entries>
+</fmg>

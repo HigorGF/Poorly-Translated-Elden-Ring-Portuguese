@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">Nem todos os danos ocorrem imediatamente.</text>
+<text id="1001">Cure HP derrotando inimigos.</text>
+<text id="1002">O FP é redefinido quando um inimigo é derrotado.</text>
+<text id="1003">Ataques bem-sucedidos restauram o HP.</text>
+<text id="1004">Ataques bem-sucedidos restauram o FP.</text>
+<text id="1005">HP está se recuperando lentamente</text>
+<text id="1006">Retorna um PF parcial</text>
+<text id="1007">Aumentar a taxa de recuperação</text>
+<text id="1008">O poder de ataque aumenta com ataques sucessivos.</text>
+<text id="1009">causando danos</text>
+<text id="1010">Ele extinguiu a vontade da fera de lutar.</text>
+<text id="1011">%null%</text>
+<text id="1012">Aumente o poder da magia virtual</text>
+<text id="1013">%null%</text>
+<text id="1014">Aumenta a capacidade mental</text>
+<text id="1015">Melhore o desempenho do seu dispositivo</text>
+<text id="1016">Considere o poder da santidade</text>
+<text id="1017">Oferecer mais oportunidades de apoio e cuidado</text>
+<text id="1018">Cabeça ou cabeça?</text>
+<text id="1019">Usado como pedra complementar</text>
+<text id="1020">Usado como símbolo ortográfico</text>
+<text id="1021">Ataques bem-sucedidos restauram o HP.</text>
+<text id="1022">Ataques contínuos redefinem o FP.</text>
+<text id="1100">Aumente o poder mágico dos cristais</text>
+<text id="1101">Maior sensibilidade à gravidade</text>
+<text id="1102">Fortalece o medicamento.</text>
+<text id="1103">Fortaleça seu leito de morte</text>
+<text id="1104">Maximize o poder dos detalhes lunares.</text>
+<text id="1105">Magia de pedra aprimorada.</text>
+<text id="1106">Mostre o poder mágico do laminado</text>
+<text id="1107">Aumente o poder das espadas dos membros.</text>
+<text id="1108">Aumenta o poder mágico original de Azul.</text>
+<text id="1109">O primeiro discurso de Lukat foi difícil.</text>
+<text id="1110">O que não é visto leva à profecia.</text>
+<text id="1111">Aumente o poder de fogo do seu gigante</text>
+<text id="1112">Aumentando o apelo do ouro</text>
+<text id="1113">Desenvolva a magia da floresta</text>
+<text id="1114">Aumente sua adoração ao dragão</text>
+<text id="1115">Aumente o poder mágico do dragão</text>
+<text id="1116">Melhore o poder da magia do fogo selvagem.</text>
+<text id="1117">Aumente o poder da magia de lava</text>
+<text id="1118">Aumente o poder de matar de Deus</text>
+<text id="6400">Causa venenos menores (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6401">Todos os venenos (&lt;?nsiATKpwr?&gt;)</text>
+<text id="6402">Causa muitos venenos (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">Causa muitos venenos (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6450">Isto resulta no acúmulo de impurezas vermelhas (&lt;?ATKpwr?&gt;).</text>
+<text id="6451">Compostos que causam podridão vermelha (doença &lt;?ATKpwr?&gt;)</text>
+<text id="6452">Isso resulta em um caroço grande, vermelho e podre (&lt;?ATKpwr?&gt;).</text>
+<text id="6500">Causa sangramento leve (&lt;?bleedAT pwr?&gt;)</text>
+<text id="6501">Fluxo sanguíneo total (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6502">causa sangramento excessivo (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">causa sangramento excessivo (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6550">Maldição (&lt;?curseATKpwr?&gt;)</text>
+<text id="6551">A morte causa problemas. (&lt;?curseATKpwr?&gt;)</text>
+<text id="6552">Causa grande morte (&lt;?curseATKpwr?&gt;)</text>
+<text id="6600">Sorvete (&lt;?congelar ATK pwr?&gt;)</text>
+<text id="6601">Motivo do congelamento (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6602">frozentkpower (&lt;?freeztkpower?&gt;)</text>
+<text id="6650">Facilita o sono (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6651">Ajuda você a dormir melhor (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6652">Você sente sono (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6700">popularizar (&lt;?louco e maluco ATKpwr?&gt;)</text>
+<text id="6701">levando à loucura (&lt;?atkpwr?&gt;)</text>
+<text id="6702">Crie mais loucura (&lt;? ATKpwr louco e louco?&gt;)</text>
+</entries>
+</fmg>

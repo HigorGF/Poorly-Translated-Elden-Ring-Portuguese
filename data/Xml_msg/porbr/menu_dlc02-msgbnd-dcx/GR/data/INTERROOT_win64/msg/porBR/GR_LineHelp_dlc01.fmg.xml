@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110601">Escolher marcar ou não os itens novos com um ícone</text>
+<text id="110602">%null%</text>
+<text id="110603">Exibir/esconder a aba de itens recentes no menu de inventário</text>
+<text id="111024">Configurar o movimento do cursor no menu de mapa</text>
+<text id="111025">Muda a sensibilidade do mouse quando trocar de alvo</text>
+<text id="225001">Escolha uma habilidade de Bayle para fazer sua.</text>
+<text id="241501">Configurar exibição de status de multijogador</text>
+<text id="241502">Ver lista de pedras de invocação e habilitar ou desabilitar as pedras</text>
+<text id="241503">Ver lista de controles</text>
+<text id="241504">Ver explicação do menu de mapa</text>
+<text id="241600">Selecionar pedras de invocação para habilitar/desabilitar</text>
+<text id="280600">Exibir o menu de mapa</text>
+</entries>
+</fmg>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="100060">fechado aberto</text>
+<text id="140130">Veja um mapa da área central.</text>
+<text id="140131">%null%</text>
+<text id="140132">%null%</text>
+<text id="140133">%null%</text>
+<text id="140134">%null%</text>
+<text id="140135">%null%</text>
+<text id="140136">%null%</text>
+<text id="140137">%null%</text>
+<text id="140138">%null%</text>
+<text id="140139">%null%</text>
+<text id="140140">Veja o mapa do Reino das Sombras.</text>
+<text id="140141">%null%</text>
+<text id="140142">%null%</text>
+<text id="140143">%null%</text>
+<text id="140144">%null%</text>
+<text id="140145">%null%</text>
+<text id="140146">%null%</text>
+<text id="140147">%null%</text>
+<text id="140148">%null%</text>
+<text id="140149">%null%</text>
+<text id="140150">Menu do mapa</text>
+</entries>
+</fmg>

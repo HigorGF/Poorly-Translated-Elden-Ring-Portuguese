@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Consuma Fragmentos da Umbrárvore em locais da graça para aumentar a bênção da Umbrárvore.
+
+A bênção da Umbrárvore reforça as habilidades de causar e negar dano do recipiente, mas não tem influência fora do reino das sombras.</text>
+<text id="81">Consuma Cinza Espiritual Reverenciada em locais da graça para aumentar a bênção da Cinza Espiritual Reverenciada.
+
+A bênção da Cinza Espiritual Reverenciada reforça as habilidades dos espíritos invocados e do corcel espectral de causar e negar dano, mas não tem influência fora do reino das sombras.</text>
+<text id="205">Itens adquiridos pela primeira vez podem ser marcados com &lt;?newItemIcon?&gt;.
+
+A exibição desta marca pode ser ativada ou desativada na seção Exibir do menu de sistema.</text>
+<text id="206">Os itens adquiridos recentemente podem ser visualizados em uma guia dedicada.
+​
+Você pode ativar ou desativar esta guia na seção Exibir do menu de sistema.</text>
+<text id="207">Pedras de invocação ativadas serão transportadas para os próximos jogos.
+
+Você pode ativar ou desativar pedras de invocação individualmente usando a lista no menu de funções do mapa.</text>
+</entries>
+</fmg>

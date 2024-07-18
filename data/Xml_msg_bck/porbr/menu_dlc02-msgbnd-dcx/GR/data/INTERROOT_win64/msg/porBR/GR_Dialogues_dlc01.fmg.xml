@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="111108">A configuração do limite da taxa de quadros será alterada, pois o valor anterior tornou-se inválido.</text>
+<text id="225001">Oferecer o Coração de Bayle
+para que &lt;?itemName?&gt; te pertença.</text>
+<text id="236031">Não é possível produzir este item, pois você não tem potes rachados pesados suficientes</text>
+<text id="236061">Não é possível produzir este item, pois você não tem nenhum pote rachado pesado</text>
+<text id="241200">Um novo mapa foi encontrado.
+(Planície do Cemitério)</text>
+<text id="241201">Um novo mapa foi encontrado.
+(Umbra Altus)</text>
+<text id="241202">Um novo mapa foi encontrado.
+(Litoral Sul)</text>
+<text id="241203">Um novo mapa foi encontrado.
+(Ruínas de Rauh)</text>
+<text id="241204">Um novo mapa foi encontrado.
+(Abismo)</text>
+</entries>
+</fmg>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10410">Bênção da Umbrárvore</text>
+<text id="10411">Bênção da Cinza Espiritual Reverenciada</text>
+<text id="30205">Força da bênção da Umbrárvore.
+Afeta apenas aqueles no reino das sombras
+que receberam a bênção da Umbrárvore.</text>
+<text id="30206">Força da bênção do Cinza Espiritual Reverenciada.
+Melhora os espíritos e o corcel espectral, mas somente dentro das fronteiras do reino das sombras.</text>
+<text id="40382">Apenas teclado</text>
+<text id="40383">Mouse e teclado</text>
+<text id="40524">Itens recentes</text>
+<text id="60180">Corpo a corpo</text>
+<text id="60181">Frasco de perfume</text>
+<text id="60182">Escudo de fincada</text>
+<text id="60183">Lâmina de arremesso</text>
+<text id="60184">Lâmina de revés</text>
+<text id="60185">Espada grande leve</text>
+<text id="60186">Katana grande</text>
+<text id="60187">Garra de fera</text>
+<text id="63051">Utilizável em armas de corpo a corpo.</text>
+<text id="63052">Utilizável em frascos de perfume.</text>
+<text id="63053">Utilizável em escudos de fincada.</text>
+<text id="63054">Utilizável em lâminas de arremesso.</text>
+<text id="63055">Utilizável em lâminas de revés.</text>
+<text id="63056">Utilizável em espadas grandes leves.</text>
+<text id="63057">Utilizável em katanas grandes.</text>
+<text id="63058">Utilizável em garras de feras.</text>
+<text id="63059">Utilizável em armas perfurantes (exceto garras e lâminas de revés).</text>
+<text id="63060">Utilizável em espadas grandes e colossais.</text>
+<text id="63061">Utilizável em espadas e lanças (exceto armas pequenas, lâminas-gêmeas e lâminas de revés).</text>
+<text id="80020">Pote Rachado Pesado</text>
+<text id="110600">Exibir</text>
+<text id="110601">Marcar itens novos</text>
+<text id="110602">%null%</text>
+<text id="110603">Exibir aba de itens recentes</text>
+<text id="110700">Som</text>
+<text id="111024">Movimento do cursor no menu de mapa</text>
+<text id="111025">Sensibilidade ao trocar de alvo</text>
+<text id="225001">Comunhão do Dragão: Bayle</text>
+<text id="225002">%null%</text>
+<text id="225003">%null%</text>
+<text id="225004">%null%</text>
+<text id="225005">%null%</text>
+<text id="225006">%null%</text>
+<text id="225007">%null%</text>
+<text id="225008">%null%</text>
+<text id="225009">%null%</text>
+<text id="225010">%null%</text>
+<text id="225011">Oferendas</text>
+<text id="241337">Umbra Altus</text>
+<text id="241338">Costa Cerúlea</text>
+<text id="241339">Sopé do Pico Irregular</text>
+<text id="241340">Pico Irregular</text>
+<text id="241341">Túmulo Escondido de Charo</text>
+<text id="241342">Antigas Ruínas de Rauh</text>
+<text id="241343">Umbravista</text>
+<text id="241344">Floresta Abissal</text>
+<text id="241345">Belurat, Assentamento da Torre</text>
+<text id="241346">Enir-Ilim</text>
+<text id="241347">Fortaleza das Sombras</text>
+<text id="241348">Fortaleza das Sombras, Distrito da Igreja</text>
+<text id="241349">Armazém de Espécime</text>
+<text id="241350">Fissura dos Caixões de Pedra</text>
+<text id="241351">Mansão de Midra</text>
+<text id="241352">Castelo Ensis</text>
+<text id="241353">Planície do Cemitério</text>
+<text id="241354">Base de Rauh</text>
+<text id="241417">Planície do Cemitério</text>
+<text id="241418">Umbra Altus</text>
+<text id="241419">Terra da Torre</text>
+<text id="241420">Fortaleza das Sombras</text>
+<text id="241500">Menu de funções do mapa</text>
+<text id="241501">Exibição de status de multijogador</text>
+<text id="241502">Lista de pedras de invocação</text>
+<text id="241503">Ver controles</text>
+<text id="241504">Explicações do Menu</text>
+<text id="241600">Lista de pedras de invocação</text>
+<text id="280060">Menu</text>
+<text id="280600">Mapa</text>
+<text id="331340">CORAÇÃO ROUBADO</text>
+</entries>
+</fmg>

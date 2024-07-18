@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Bênção da Umbrárvore</text>
+<text id="81">Bênção da Cinza Espiritual Reverenciada</text>
+<text id="205">Visualizando itens novos</text>
+<text id="206">Visualizando itens recentes</text>
+<text id="207">Transportando pedras de invocação</text>
+</entries>
+</fmg>

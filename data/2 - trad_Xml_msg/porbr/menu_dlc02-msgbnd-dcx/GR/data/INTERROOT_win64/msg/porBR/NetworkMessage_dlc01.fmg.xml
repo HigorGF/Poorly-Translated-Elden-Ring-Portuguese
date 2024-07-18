@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2601425">Isso é chamado de transição para outro mundo.
+Derrote Needle Knight Leda e sua equipe!</text>
+<text id="2601426">Isso é chamado de transição para outro mundo.
+Derrote Sor Ansbach!</text>
+<text id="2601427">Isso é chamado de transição para outro mundo.
+Derrote o Cavaleiro Spike!</text>
+<text id="2601428">Isso é chamado de transição para outro mundo.
+
+Derrote o anjo com chifres!</text>
+<text id="2601429">Isso é chamado de transição para outro mundo.
+Derrote o Cavaleiro Spike!</text>
+<text id="2611425">Needle Knight derrota Leda e sua equipe.
+Volte para o seu mundo</text>
+<text id="2611426">O rei Ansbach venceu.
+Volte para o seu mundo</text>
+<text id="2611427">O cavaleiro Khem leda venceu
+Volte para o seu mundo</text>
+<text id="2611428">Horn recebeu o prêmio de transmissão.
+Volte para o seu mundo</text>
+<text id="2611429">O cavaleiro Khem leda venceu
+Volte para o seu mundo</text>
+<text id="2621425">Seja esperto, não esqueça do seu plástico.</text>
+<text id="2621426">Seja esperto, não esqueça do seu plástico.</text>
+<text id="2621427">Seja esperto, não esqueça do seu plástico.</text>
+<text id="2621428">Seja esperto, não esqueça do seu plástico.</text>
+<text id="2621429">Seja esperto, não esqueça do seu plástico.</text>
+<text id="2622425">O proprietário morreu.
+Voltar para outro mundo</text>
+<text id="2631425">Volte para o seu mundo</text>
+<text id="2631426">Volte para o seu mundo</text>
+<text id="2631427">Volte para o seu mundo</text>
+<text id="2631428">Volte para o seu mundo</text>
+<text id="2631429">Volte para o seu mundo</text>
+<text id="2632425">Retorne ao seu mundo. Voltar para outro mundo</text>
+<text id="2640425">Os dedos tortos de &lt;?leaveName?&gt; o levaram para seu próprio mundo.</text>
+<text id="2641425">Enviar leitor de impressão digital
+Volte para o seu mundo</text>
+<text id="2642425">Os dedos tortos de &lt;?leaveName?&gt; o levaram para seu próprio mundo.</text>
+<text id="2691425">Seja esperto, não esqueça do seu plástico.</text>
+<text id="2692425">A impressão digital bloqueada &lt;?deadName?&gt; expirou.</text>
+<text id="2693425">Volte para o seu mundo</text>
+<text id="2694425">A impressão digital &lt;?leaveName?&gt; retornou ao seu mundo.</text>
+<text id="4080100">Junte-se aos apoiadores…</text>
+<text id="4080101">%null%</text>
+<text id="4080102">%null%</text>
+<text id="4080103">%null%</text>
+<text id="4080104">%null%</text>
+<text id="4080105">%null%</text>
+<text id="4080106">%null%</text>
+<text id="4080107">%null%</text>
+<text id="4080108">%null%</text>
+<text id="4080109">%null%</text>
+<text id="4080110">Você pode se conectar com outros patrocinadores…</text>
+<text id="4080800">O companheiro guerreiro Aegon chamou Draco.</text>
+<text id="4080801">O companheiro guerreiro Aegon chamou Draco.</text>
+<text id="4080802">Aegon, o herói de Draco, está morto.</text>
+<text id="4080803">%null%</text>
+<text id="4080804">%null%</text>
+<text id="4080805">%null%</text>
+<text id="4080806">%null%</text>
+<text id="4080807">%null%</text>
+<text id="4080808">%null%</text>
+<text id="4080809">%null%</text>
+<text id="4080810">Tiolier é conhecido como o gerente.</text>
+<text id="4080811">Tiolier é conhecido como o gerente.</text>
+<text id="4080812">O princípio está morto.</text>
+<text id="4080813">%null%</text>
+<text id="4080814">%null%</text>
+<text id="4080815">%null%</text>
+<text id="4080816">%null%</text>
+<text id="4080817">%null%</text>
+<text id="4080818">%null%</text>
+<text id="4080819">%null%</text>
+<text id="4080820">Ataque aos princípios!</text>
+<text id="4080821">%null%</text>
+<text id="4080822">O princípio está morto.</text>
+<text id="4080823">%null%</text>
+<text id="4080824">%null%</text>
+<text id="4080825">%null%</text>
+<text id="4080826">%null%</text>
+<text id="4080827">%null%</text>
+<text id="4080828">%null%</text>
+<text id="4080829">%null%</text>
+<text id="4080830">O espadachim Qiao Lan está atacando!</text>
+<text id="4080831">%null%</text>
+<text id="4080832">Espada Noturna Qiao Lan está morta.</text>
+<text id="4080833">%null%</text>
+<text id="4080834">%null%</text>
+<text id="4080835">%null%</text>
+<text id="4080836">%null%</text>
+<text id="4080837">%null%</text>
+<text id="4080838">%null%</text>
+<text id="4080839">%null%</text>
+<text id="4080840">O puro cavaleiro Ansbach foi convidado como amigo.</text>
+<text id="4080841">O puro cavaleiro Ansbach foi convidado como amigo.</text>
+<text id="4080842">Morreu o cavaleiro puro-sangue Ansbach</text>
+<text id="4080843">O cavalo branco de Ansbach acabará por ser escolhido como escravo.</text>
+<text id="4080844">%null%</text>
+<text id="4080845">%null%</text>
+<text id="4080846">%null%</text>
+<text id="4080847">%null%</text>
+<text id="4080848">%null%</text>
+<text id="4080849">%null%</text>
+<text id="4080850">Um teólogo é conhecido como administrador.</text>
+<text id="4080851">Um teólogo é conhecido como administrador.</text>
+<text id="4080852">Theolier está morto</text>
+<text id="4080853">Em breve o teólogo ligará para seu companheiro.</text>
+<text id="4080854">%null%</text>
+<text id="4080855">%null%</text>
+<text id="4080856">%null%</text>
+<text id="4080857">%null%</text>
+<text id="4080858">%null%</text>
+<text id="4080859">%null%</text>
+<text id="4080860">O nobre otimista Nathan foi nomeado sócio.</text>
+<text id="4080861">O nobre otimista Nathan foi nomeado sócio.</text>
+<text id="4080862">O Rei Nathan está morto.</text>
+<text id="4080863">Red Noble Nathan será selecionado em breve como participante.</text>
+<text id="4080864">%null%</text>
+<text id="4080865">%null%</text>
+<text id="4080866">%null%</text>
+<text id="4080867">%null%</text>
+<text id="4080868">%null%</text>
+<text id="4080869">%null%</text>
+<text id="4080870">As trombetas são chamadas de auxiliares.</text>
+<text id="4080871">As trombetas são chamadas de auxiliares.</text>
+<text id="4080872">O trompetista morreu.</text>
+<text id="4080873">%null%</text>
+<text id="4080874">%null%</text>
+<text id="4080875">%null%</text>
+<text id="4080876">%null%</text>
+<text id="4080877">%null%</text>
+<text id="4080878">%null%</text>
+<text id="4080879">%null%</text>
+<text id="4080880">Jolan o chama de amigo em Sword of the Night.</text>
+<text id="4080881">Jolan o chama de amigo em Sword of the Night.</text>
+<text id="4080882">Ye Jian Qiao Lan morreu.</text>
+<text id="4080883">%null%</text>
+<text id="4080884">%null%</text>
+<text id="4080885">%null%</text>
+<text id="4080886">%null%</text>
+<text id="4080887">%null%</text>
+<text id="4080888">%null%</text>
+<text id="4080889">%null%</text>
+<text id="4080890">O pastor Horn o rejeitou.</text>
+<text id="4080891">%null%</text>
+<text id="4080892">O trompetista morreu.</text>
+<text id="4080893">%null%</text>
+<text id="4080894">%null%</text>
+<text id="4080895">%null%</text>
+<text id="4080896">%null%</text>
+<text id="4080897">%null%</text>
+<text id="4080898">%null%</text>
+<text id="4080899">%null%</text>
+<text id="4080900">Moore gritou com seu oponente.</text>
+<text id="4080901">%null%</text>
+<text id="4080902">Moore está morto.</text>
+<text id="4080903">%null%</text>
+<text id="4080904">%null%</text>
+<text id="4080905">%null%</text>
+<text id="4080906">%null%</text>
+<text id="4080907">%null%</text>
+<text id="4080908">%null%</text>
+<text id="4080909">%null%</text>
+<text id="4080910">Freya Redman é chamada de inimiga.</text>
+<text id="4080911">%null%</text>
+<text id="4080912">Freya Redman faleceu</text>
+<text id="4080913">%null%</text>
+<text id="4080914">%null%</text>
+<text id="4080915">%null%</text>
+<text id="4080916">%null%</text>
+<text id="4080917">%null%</text>
+<text id="4080918">%null%</text>
+<text id="4080919">%null%</text>
+<text id="4080920">Needle Knight nomeia Lyda como sua rival.</text>
+<text id="4080921">%null%</text>
+<text id="4080922">A cavaleira de Stitch, Leda, morre.</text>
+<text id="4080923">%null%</text>
+<text id="4080924">%null%</text>
+<text id="4080925">%null%</text>
+<text id="4080926">%null%</text>
+<text id="4080927">%null%</text>
+<text id="4080928">%null%</text>
+<text id="4080929">%null%</text>
+<text id="4080930">Dan Folhaseka dirigiu-se ao seu oponente.</text>
+<text id="4080931">%null%</text>
+<text id="4080932">Dan Forhazegah morreu</text>
+</entries>
+</fmg>

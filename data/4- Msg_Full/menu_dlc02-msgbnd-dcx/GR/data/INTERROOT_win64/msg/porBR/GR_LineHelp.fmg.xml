@@ -1,0 +1,660 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4100">Usar item selecionado</text>
+<text id="4101">Deixa o item selecionado aqui</text>
+<text id="4102">Descarta o item selecionado</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Usa os itens selecionados</text>
+<text id="4111">Deixa os itens selecionados aqui</text>
+<text id="4112">Descarta os itens selecionados </text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">%null%</text>
+<text id="4121">Seleciona itens para deixar aqui</text>
+<text id="4122">Seleciona itens para descartar</text>
+<text id="5100">Usa o número de itens selecionados</text>
+<text id="5101">Deixa o número de itens selecionados aqui</text>
+<text id="5102">Descarta o número de itens selecionados</text>
+<text id="5103">%null%</text>
+<text id="5104">Compra o número de itens selecionados</text>
+<text id="5105">Vende o número de itens selecionados</text>
+<text id="5106">Armazena o número de itens selecionados</text>
+<text id="5107">Retira o número de itens selecionados</text>
+<text id="6000">Seleciona um modo de classificação</text>
+<text id="30000">Selecione a entrada para checar</text>
+<text id="40331">Confirmar configurações e continuar</text>
+<text id="40500">Restaurar configurações padrão</text>
+<text id="102000">Selecione um item para interagir</text>
+<text id="103000">Escolha onde você deseja apoiar.</text>
+<text id="103500">Selecione um item para equipar</text>
+<text id="105000">Verifique a condição do personagem</text>
+<text id="106000">Escolha o que você quer jogar.</text>
+<text id="106001">Selecione as configurações que deseja definir.</text>
+<text id="110001">Altere o movimento horizontal da câmera</text>
+<text id="110002">Altere o movimento horizontal da câmera</text>
+<text id="110003">Alterar a posição da câmera também altera a posição do eixo y.</text>
+<text id="110004">Altere a velocidade da câmera.</text>
+<text id="110005">Defina um novo alvo que será bloqueado automaticamente quando o alvo anterior morrer.</text>
+<text id="110006">Defende automaticamente o inimigo quando você ataca sem bloquear.</text>
+<text id="110007">Configure a câmera para evitar paredes automaticamente.</text>
+<text id="110008">%null%</text>
+<text id="110009">Controles especiais de salto</text>
+<text id="110010">Permite controlar a visibilidade de braços grandes durante a condução.</text>
+<text id="110011">%null%</text>
+<text id="110012">%null%</text>
+<text id="110013">%null%</text>
+<text id="110014">%null%</text>
+<text id="110015">%null%</text>
+<text id="110016">%null%</text>
+<text id="110017">%null%</text>
+<text id="110018">%null%</text>
+<text id="110019">%null%</text>
+<text id="110020">Determine a distância ou média.</text>
+<text id="110021">Ativar/desativar rastreamento de raio</text>
+<text id="110101">Indica muito, pouco ou nenhum sangue.</text>
+<text id="110102">Ative ou desative as legendas do jogo.</text>
+<text id="110103">Você pode personalizar a aparência da interface do jogo.</text>
+<text id="110104">Corrigidos efeitos cinematográficos usados ​​para ataques especiais.</text>
+<text id="110105">Alterar o volume da música</text>
+<text id="110106">Alterar o volume do efeito</text>
+<text id="110107">mudar voz</text>
+<text id="110108">%null%</text>
+<text id="110109">%null%</text>
+<text id="110110">%null%</text>
+<text id="110111">%null%</text>
+<text id="110112">%null%</text>
+<text id="110113">%null%</text>
+<text id="110114">%null%</text>
+<text id="110115">%null%</text>
+<text id="110116">%null%</text>
+<text id="110117">Altere o volume normal.</text>
+<text id="110118">Ajuste a câmera para a esquerda/direita.</text>
+<text id="110201">Alterar o brilho da tela</text>
+<text id="110202">Altere a qualidade da imagem se o HDR estiver disponível</text>
+<text id="110203">%null%</text>
+<text id="110204">%null%</text>
+<text id="110205">%null%</text>
+<text id="110206">%null%</text>
+<text id="110207">%null%</text>
+<text id="110208">%null%</text>
+<text id="110209">Ativar/desativar HDR</text>
+<text id="110301">Ele pegou o telefone e saiu.</text>
+<text id="110302">Permitir ou bloquear a comunicação entre sites.</text>
+<text id="110303">Organize partidas com outros jogadores com a mesma senha.</text>
+<text id="110304">Escolha se deseja ver os nomes de outros jogadores.</text>
+<text id="110305">Escolha iniciar o jogo online ou offline.</text>
+<text id="110306">Impede que suas pesquisas apareçam no mundo inimigo atual.</text>
+<text id="110307">Revise e atualize seu contrato de consentimento para uso de dados.</text>
+<text id="110500">Salve seu jogo e volte ao menu principal.</text>
+<text id="110501">Salve o jogo e volte para a área de trabalho.</text>
+<text id="110900">marca de seleção</text>
+<text id="111006">Especifique a chave de serviço.</text>
+<text id="111007">%null%</text>
+<text id="111008">%null%</text>
+<text id="111009">%null%</text>
+<text id="111010">Configure o dispositivo para aceitar comandos na tela</text>
+<text id="111011">Especifique se deseja exibir os cursos.</text>
+<text id="111012">%null%</text>
+<text id="111013">%null%</text>
+<text id="111014">%null%</text>
+<text id="111015">%null%</text>
+<text id="111016">%null%</text>
+<text id="111017">%null%</text>
+<text id="111018">%null%</text>
+<text id="111019">%null%</text>
+<text id="111020">Altere o efeito do movimento do mouse na câmera</text>
+<text id="111021">%null%</text>
+<text id="111022">Use o mouse para controlar a câmera corretamente.</text>
+<text id="111023">Use o mouse para controlar a câmera corretamente.</text>
+<text id="111110">Defina o modo de tela para iniciar o jogo.</text>
+<text id="111111">Mudar decisão</text>
+<text id="111112">Explique que a degradação do desempenho está associada a falhas.</text>
+<text id="111113">Alterar a qualidade da imagem</text>
+<text id="111114">Defina gráficos altos.</text>
+<text id="111210">Alterar o caráter do campo</text>
+<text id="111211">Escolha as melhores medidas preventivas.</text>
+<text id="111212">Selecione o nível SSAO</text>
+<text id="111213">Selecione o aplicativo PDC</text>
+<text id="111214">Selecione a qualidade do desfoque de movimento.</text>
+<text id="111215">Escolha a qualidade da imagem</text>
+<text id="111216">Escolha a qualidade da luz</text>
+<text id="111217">Escolha o nível de efeito</text>
+<text id="111218">Selecione a voz</text>
+<text id="111219">Escolha um aplicativo de meditação</text>
+<text id="111220">Selecione o nível de água</text>
+<text id="111221">Selecione Propriedades do Shader</text>
+<text id="111222">Escolha as propriedades do traçado de raio</text>
+<text id="111223">Escolha um tipo de iluminação geral</text>
+<text id="111224">Escolha a grama certa</text>
+<text id="212000">Selecione o personagem com o qual deseja começar.</text>
+<text id="212001">Use para atualizar</text>
+<text id="212750">Selecione o personagem com o qual deseja começar.</text>
+<text id="212751">Recupere sua identidade e renasça</text>
+<text id="214000">Escolha sua arma e supere as cinzas da guerra.</text>
+<text id="214001">Selecione Ash's War para participar.</text>
+<text id="214002">Selecione um link para atribuir uma arma.</text>
+<text id="215000">Escolha onde colocar mais tráfego.</text>
+<text id="215001">Escolha uma grande carga de runas.</text>
+<text id="216000">Escolha farinha para fortalecer.</text>
+<text id="221000">Selecione a arma que você deseja atualizar</text>
+<text id="221001">%null%</text>
+<text id="221002">%null%</text>
+<text id="221003">%null%</text>
+<text id="221004">%null%</text>
+<text id="221005">%null%</text>
+<text id="221006">%null%</text>
+<text id="221007">%null%</text>
+<text id="221008">%null%</text>
+<text id="221009">%null%</text>
+<text id="221010">Selecione a arma que você deseja atualizar</text>
+<text id="222000">Escolha um local de armazenamento</text>
+<text id="222001">Selecione o(s) mantra(s) que deseja memorizar.</text>
+<text id="225000">Escolha uma habilidade de dragão para criar sua habilidade de dragão.</text>
+<text id="226000">Selecione o cachorro que deseja comprar</text>
+<text id="227000">Recolha as cinzas da guerra para reconstruir.</text>
+<text id="230000">Selecione o cachorro que deseja comprar</text>
+<text id="230100">Selecione as notas que deseja restaurar.</text>
+<text id="231000">Escolha o que comprar</text>
+<text id="231500">Selecione a entrada vencedora para coletar.</text>
+<text id="232000">Escolha o que vender</text>
+<text id="236000">Escolha o que você deseja criar</text>
+<text id="236200">Selecione o lembrete para confirmar.</text>
+<text id="236201">Selecione a fonte de alimentação que deseja remover do armazenamento.</text>
+<text id="236400">Escolha uma roupa para vestir</text>
+<text id="236401">Após a decoração, escolha um vestido.</text>
+<text id="238000">Escolha onde se conectar.</text>
+<text id="238001">Selecione a camada de cristal para misturar.</text>
+<text id="241000">Olha para o mapa</text>
+<text id="241100">Indicador de status</text>
+<text id="241101">Remover tags</text>
+<text id="241102">Remova todos os sinais</text>
+<text id="241200">Selecione o lugar famoso que deseja visitar.</text>
+<text id="241300">Selecione o lugar famoso que deseja visitar.</text>
+<text id="251000">Escolha o que você deseja lembrar.</text>
+<text id="251001">Selecione os objetos que deseja remover do quadro.</text>
+<text id="280005">Selecione o programa que deseja importar.</text>
+<text id="280006">%null%</text>
+<text id="280007">%null%</text>
+<text id="280008">%null%</text>
+<text id="280009">%null%</text>
+<text id="280010">%null%</text>
+<text id="280011">Clique na tecla à qual deseja atribuir esta função.</text>
+<text id="280100">Clique enquanto avança</text>
+<text id="280101">O que deveríamos fazer</text>
+<text id="280102">volte</text>
+<text id="280103">Vire à esquerda</text>
+<text id="280104">Muito bom</text>
+<text id="280105">Pressione o botão parar para reiniciar.
+Toque para ampliar enquanto se move ou toque e segure para ampliar.</text>
+<text id="280106">passar</text>
+<text id="280107">Pausa e pausa novamente.</text>
+<text id="280200">leve sua câmera
+Mova o alvo para cima enquanto a câmera estiver desligada.</text>
+<text id="280201">Mover a câmera para baixo
+Solte o alvo enquanto a câmera estiver travada.</text>
+<text id="280202">Mover a câmera para a esquerda
+Se a câmera estiver desligada, mova o alvo para a esquerda.</text>
+<text id="280203">Mova a câmera para a direita
+Se a câmera estiver desligada, mova o alvo para a direita.</text>
+<text id="280204">Redefinir a posição da câmera
+Ative ou desative a gravação da câmera.</text>
+<text id="280300">Altere o conteúdo rapidamente</text>
+<text id="280301">Mude para a arma apropriada.</text>
+<text id="280302">Trocar arma esquerda</text>
+<text id="280303">Alterar o feitiço ou feitiço selecionado</text>
+<text id="280400">Um ataque geral contra o dispositivo apropriado.</text>
+<text id="280401">Use as ferramentas certas para conseguir isso. Homem é preso suspeito de agressão</text>
+<text id="280402">Use sua ferramenta esquerda para proteção.</text>
+<text id="280403">Leve vantagem dessa oportunidade</text>
+<text id="280404">faça alguma coisa</text>
+<text id="280405">use o mesmo</text>
+<text id="280406">Segure a arma firmemente com as duas mãos.
+Pegue-o e faça o mesmo com o veículo esquerdo.</text>
+<text id="288000">Selecione o serviço que deseja usar.</text>
+<text id="288001">Escolha sua opção de criação de personagem.</text>
+<text id="291000">Insira o nome</text>
+<text id="291001">Escolha um gênero</text>
+<text id="291002">Escolha um grande ano</text>
+<text id="291003">Selecione a voz</text>
+<text id="291004">%null%</text>
+<text id="291005">%null%</text>
+<text id="291006">%null%</text>
+<text id="291007">%null%</text>
+<text id="291008">%null%</text>
+<text id="291009">%null%</text>
+<text id="291010">Selecione a fonte</text>
+<text id="291011">Escolha um local de armazenamento</text>
+<text id="291012">%null%</text>
+<text id="291013">%null%</text>
+<text id="291014">%null%</text>
+<text id="291015">%null%</text>
+<text id="291016">%null%</text>
+<text id="291017">%null%</text>
+<text id="291018">%null%</text>
+<text id="291019">%null%</text>
+<text id="291020">Sonhe com algo novo</text>
+<text id="291021">Alterar formato do rosto</text>
+<text id="291022">Substitua todas as imagens</text>
+<text id="291023">Alterar a cor e os detalhes da pele</text>
+<text id="291024">%null%</text>
+<text id="291025">Editar detalhes da tela</text>
+<text id="291026">%null%</text>
+<text id="291027">%null%</text>
+<text id="291028">%null%</text>
+<text id="291029">%null%</text>
+<text id="291030">Salvar a configuração atual como favorita</text>
+<text id="291031">Carregar favoritos salvos</text>
+<text id="291050">serviço completo</text>
+<text id="291051">Comece com olhos novos.</text>
+<text id="291052">Comece com olhos novos.</text>
+<text id="292000">Melhora a aparência facial</text>
+<text id="292001">Melhora a aparência facial</text>
+<text id="292002">%null%</text>
+<text id="292003">%null%</text>
+<text id="292004">%null%</text>
+<text id="292005">%null%</text>
+<text id="292006">%null%</text>
+<text id="292007">%null%</text>
+<text id="292008">%null%</text>
+<text id="292009">%null%</text>
+<text id="292010">Aproximadamente</text>
+<text id="292011">Cuide dos seus cílios</text>
+<text id="292012">Reduzir os pelos faciais</text>
+<text id="292013">Cuide dos seus cílios</text>
+<text id="292014">%null%</text>
+<text id="292015">%null%</text>
+<text id="292016">%null%</text>
+<text id="292017">%null%</text>
+<text id="292018">%null%</text>
+<text id="292019">%null%</text>
+<text id="292020">consertar os olhos</text>
+<text id="292021">%null%</text>
+<text id="292022">%null%</text>
+<text id="292023">%null%</text>
+<text id="292024">%null%</text>
+<text id="292025">Editar textura da pele</text>
+<text id="292026">%null%</text>
+<text id="292027">%null%</text>
+<text id="292028">%null%</text>
+<text id="292029">%null%</text>
+<text id="292030">Mais tarde</text>
+<text id="292031">%null%</text>
+<text id="292032">%null%</text>
+<text id="292033">%null%</text>
+<text id="292034">%null%</text>
+<text id="292035">%null%</text>
+<text id="292036">%null%</text>
+<text id="292037">%null%</text>
+<text id="292038">%null%</text>
+<text id="292039">%null%</text>
+<text id="292040">Correção de tatuagens/cicatrizes/tachas nos olhos</text>
+<text id="292041">%null%</text>
+<text id="292042">%null%</text>
+<text id="292043">%null%</text>
+<text id="292044">%null%</text>
+<text id="292045">%null%</text>
+<text id="292046">%null%</text>
+<text id="292047">%null%</text>
+<text id="292048">%null%</text>
+<text id="292049">%null%</text>
+<text id="292050">Selecione a face que corresponde à face atual.</text>
+<text id="292051">%null%</text>
+<text id="292052">%null%</text>
+<text id="292053">%null%</text>
+<text id="292054">%null%</text>
+<text id="292055">%null%</text>
+<text id="292056">%null%</text>
+<text id="292057">%null%</text>
+<text id="292058">%null%</text>
+<text id="292059">%null%</text>
+<text id="292060">mudar de cabeça</text>
+<text id="292061">Substitua a fonte de alimentação</text>
+<text id="292062">Alterar a idade do personagem</text>
+<text id="292063">Trocar armas</text>
+<text id="292064">Trocar pernas</text>
+<text id="292065">%null%</text>
+<text id="292066">%null%</text>
+<text id="292067">%null%</text>
+<text id="292068">%null%</text>
+<text id="292069">%null%</text>
+<text id="292070">mude seu cabelo</text>
+<text id="292071">Mudança na cor do cabelo</text>
+<text id="292072">Escolha um valor</text>
+<text id="292073">%null%</text>
+<text id="292074">%null%</text>
+<text id="292075">%null%</text>
+<text id="292076">%null%</text>
+<text id="292077">%null%</text>
+<text id="292078">%null%</text>
+<text id="292079">%null%</text>
+<text id="292080">Defina se deseja exibir o símbolo de luz.</text>
+<text id="293000">Escolha a estrutura óssea</text>
+<text id="293001">O poder que muda seu rosto</text>
+<text id="293002">Alterar a idade real</text>
+<text id="293003">mudar de forma</text>
+<text id="293004">%null%</text>
+<text id="293005">%null%</text>
+<text id="293006">%null%</text>
+<text id="293007">%null%</text>
+<text id="293008">%null%</text>
+<text id="293009">%null%</text>
+<text id="293010">ajustamento</text>
+<text id="293011">Prepare sua testa e sobrancelhas.</text>
+<text id="293012">Substitua o anel superior</text>
+<text id="293013">consertar os olhos</text>
+<text id="293014">Substitua a sela do nariz</text>
+<text id="293015">consertar seu nariz</text>
+<text id="293016">Personalize seu rosto.</text>
+<text id="293017">reparação labial</text>
+<text id="293018">planejar juntos</text>
+<text id="293019">mudar cor</text>
+<text id="293020">mudar cor</text>
+<text id="293100">Escolha um penteado</text>
+<text id="293101">correção de cor de cabelo</text>
+<text id="293102">Transição para cabelos brilhantes</text>
+<text id="293103">Mude o tom das raízes do cabelo</text>
+<text id="293104">Alterar nível de cinza</text>
+<text id="293105">%null%</text>
+<text id="293106">%null%</text>
+<text id="293107">%null%</text>
+<text id="293108">%null%</text>
+<text id="293109">%null%</text>
+<text id="293110">Escolha o formato da sua sobrancelha</text>
+<text id="293111">mudar a cor dos olhos</text>
+<text id="293112">Abra a luz</text>
+<text id="293113">Alterar a cor principal dos olhos</text>
+<text id="293114">Mude a quantidade de cinza em suas sobrancelhas</text>
+<text id="293115">%null%</text>
+<text id="293116">%null%</text>
+<text id="293117">%null%</text>
+<text id="293118">%null%</text>
+<text id="293119">%null%</text>
+<text id="293120">Escolha um estilo de barba</text>
+<text id="293121">Ajustar a cor do bigode</text>
+<text id="293122">Mude a cor da barba</text>
+<text id="293123">Mude a cor das raízes da sua barba</text>
+<text id="293124">Alterar a quantidade de cabelos grisalhos</text>
+<text id="293125">A espessura da grama varia</text>
+<text id="293126">%null%</text>
+<text id="293127">%null%</text>
+<text id="293128">%null%</text>
+<text id="293129">%null%</text>
+<text id="293130">Escolha o formato da sua sobrancelha</text>
+<text id="293131">correção de cor de sobrancelha</text>
+<text id="293132">%null%</text>
+<text id="293133">%null%</text>
+<text id="293134">%null%</text>
+<text id="293135">%null%</text>
+<text id="293136">%null%</text>
+<text id="293137">%null%</text>
+<text id="293138">%null%</text>
+<text id="293139">%null%</text>
+<text id="293140">Vamos escrever a equação no lado direito.</text>
+<text id="293141">Mude a cor correta do arco-íris.</text>
+<text id="293142">Distorção com mudança de cor no olho direito</text>
+<text id="293143">Mude a cor da nuvem do olho direito</text>
+<text id="293144">Mude o branco dos seus olhos</text>
+<text id="293145">Altere a distância entre o olho direito e o centro do rosto.</text>
+<text id="293146">%null%</text>
+<text id="293147">%null%</text>
+<text id="293148">%null%</text>
+<text id="293149">%null%</text>
+<text id="293150">Vamos substituir a equação à esquerda.</text>
+<text id="293151">Alterando a cor da íris esquerda</text>
+<text id="293152">Substitua a dor da grama esquerda.</text>
+<text id="293153">Mude a cor preta do olho esquerdo</text>
+<text id="293154">Mudando a cor do branco do olho esquerdo</text>
+<text id="293155">Substitua o olho esquerdo do meio do rosto.</text>
+<text id="293156">Insira o formato da imagem</text>
+<text id="293157">%null%</text>
+<text id="293158">%null%</text>
+<text id="293159">%null%</text>
+<text id="293160">Alterar a visibilidade da porta</text>
+<text id="293161">Mude o brilho da sua pele</text>
+<text id="293162">Mude a cor do círculo preto</text>
+<text id="293163">Mude a cor do cartão</text>
+<text id="293164">O poder da vergonha para a mudança</text>
+<text id="293165">mudar cor</text>
+<text id="293166">Ajuste a densidade do delineador</text>
+<text id="293167">Mudando a cor do delineador</text>
+<text id="293168">Ajuste a intensidade da sombra.</text>
+<text id="293169">Altere a sombra e a cor da tampa superior.</text>
+<text id="293170">Ajuste a intensidade da sombra abaixo.</text>
+<text id="293171">Altere a sombra e a cor da tampa inferior.</text>
+<text id="293172">Mude a espessura do batom</text>
+<text id="293173">Mudar a cor do batom</text>
+<text id="293174">%null%</text>
+<text id="293175">%null%</text>
+<text id="293176">%null%</text>
+<text id="293177">%null%</text>
+<text id="293178">%null%</text>
+<text id="293179">%null%</text>
+<text id="293180">Escolha seu estilo/símbolo de tatuagem.</text>
+<text id="293181">Boas tatuagens/sinais</text>
+<text id="293182">Alterando a posição dos gráficos/ícones</text>
+<text id="293183">%null%</text>
+<text id="293184">%null%</text>
+<text id="293185">%null%</text>
+<text id="293186">%null%</text>
+<text id="293187">%null%</text>
+<text id="293188">%null%</text>
+<text id="293189">%null%</text>
+<text id="293190">Escolha uma máscara para os olhos</text>
+<text id="293191">Mude a cor das pálpebras</text>
+<text id="297100">O corpo é muito forte.
+As condições não afetam os direitos.</text>
+<text id="297101">O corpo é macio
+As condições não afetam os direitos.</text>
+<text id="297102">%null%</text>
+<text id="297103">%null%</text>
+<text id="297104">%null%</text>
+<text id="297105">%null%</text>
+<text id="297106">%null%</text>
+<text id="297107">%null%</text>
+<text id="297108">%null%</text>
+<text id="297109">%null%</text>
+<text id="297110">deixar
+A idade afeta apenas a aparência.
+O talento não conhece fronteiras</text>
+<text id="297111">eles são imaturos
+A idade afeta apenas a aparência.
+O talento não conhece fronteiras</text>
+<text id="297112">mais velho
+A idade afeta apenas a aparência.
+O talento não conhece fronteiras</text>
+<text id="297113">%null%</text>
+<text id="297114">%null%</text>
+<text id="297115">%null%</text>
+<text id="297116">%null%</text>
+<text id="297117">%null%</text>
+<text id="297118">%null%</text>
+<text id="297119">%null%</text>
+<text id="297120">Modo Volume 1</text>
+<text id="297121">Versão 1 áudio melhorado</text>
+<text id="297122">1 Som antiquado</text>
+<text id="297123">%null%</text>
+<text id="297124">%null%</text>
+<text id="297125">2 tipos de pescoço rosa</text>
+<text id="297126">Voz Real 2</text>
+<text id="297127">Tipo 2, Pele Velha</text>
+<text id="297128">%null%</text>
+<text id="297129">%null%</text>
+<text id="297130">Esta pessoa foi deportada do seu país.
+Eles começaram a usar armas maiores para se moverem por mais tempo</text>
+<text id="297131">Um guerreiro nômade
+Lâmina Dupla
+Início do processo</text>
+<text id="297132">Um grande guerreiro com um machado de madeira
+A guerra acabou com a família real.</text>
+<text id="297133">Ele foi atacado por um ladrão perigoso.
+Sua maior fraqueza é a utilidade em batalha.
+Deixe de lado a culpa.</text>
+<text id="297134">Os astrônomos estudam fortunas e estrelas.
+Herdeiro da Escola de Magia Padrihan</text>
+<text id="297135">O Profeta parou de profetizar.
+Não é assim. você é lindo.
+tratamento</text>
+<text id="297136">Um soldado importante em uma terra distante
+Honkos, katanas e arcos longos são os principais.</text>
+<text id="297137">O juiz foi preso.
+Você conhece a magia do metal e das pedras.
+Seja um dos sábios enquanto luta;</text>
+<text id="297138">Um espião da igreja trabalhando disfarçado. Ele também gosta de espadas e magia.</text>
+<text id="297139">Triste, tolo, nu como ela
+Vamos, é apenas um grande clube.</text>
+<text id="297140">%null%</text>
+<text id="297141">%null%</text>
+<text id="297142">%null%</text>
+<text id="297143">%null%</text>
+<text id="297144">%null%</text>
+<text id="297145">%null%</text>
+<text id="297146">%null%</text>
+<text id="297147">%null%</text>
+<text id="297148">%null%</text>
+<text id="297149">%null%</text>
+<text id="297150">Lembrando que o passado é real
+Mão esquerda para trás.</text>
+<text id="297151">chapéu vermelho
+HP máximo alto</text>
+<text id="297152">Olhos brilhando com a cor dourada da bondade.
+residentes de Madhya Pradesh.
+Qual deles corre muito rápido?</text>
+<text id="297153">Meias lavaram a cabeça amarela
+Exercício moderado. Ele disse que havia muita pressão.
+livro sagrado</text>
+<text id="297154">A criança é pequena.
+Diz-se que Ash revive a alma.</text>
+<text id="297155">%null%</text>
+<text id="297156">Três placas separadas foram quebradas sem motivo.
+Faça você mesmo uma sacola na rua
+Pode ser desperdício para outros produtos</text>
+<text id="297157">Duas chaves de pedra em forma de espadas.
+Foi pintado com a imagem de um demônio
+No entanto, só pode ser usado uma vez.</text>
+<text id="297158">Cinco ramos sagrados desempenham esta função.
+Diz-se que começa sua capacidade de influenciar as pessoas.
+Deusa Miguel.</text>
+<text id="297159">uma grama morta
+Aumentar a resistência a danos físicos</text>
+<text id="297160">fotos famosas
+olhos removidos 
+Atrai a energia do inimigo</text>
+<text id="297161">%null%</text>
+<text id="297162">%null%</text>
+<text id="297163">%null%</text>
+<text id="297164">%null%</text>
+<text id="297165">%null%</text>
+<text id="297166">%null%</text>
+<text id="297167">%null%</text>
+<text id="297168">%null%</text>
+<text id="297169">%null%</text>
+<text id="297170">processamento central</text>
+<text id="297171">corpo físico</text>
+<text id="297172">%null%</text>
+<text id="297173">%null%</text>
+<text id="297174">%null%</text>
+<text id="297175">%null%</text>
+<text id="297176">%null%</text>
+<text id="297177">%null%</text>
+<text id="297178">%null%</text>
+<text id="297179">%null%</text>
+<text id="297180">Tatuagens e sinais</text>
+<text id="297181">Sem tatuagens ou cicatrizes</text>
+<text id="297182">%null%</text>
+<text id="297183">%null%</text>
+<text id="297184">%null%</text>
+<text id="297185">Insira o formato da imagem</text>
+<text id="297186">Mudanças visuais também foram adicionadas.</text>
+<text id="297187">Mostrar sinal luminoso</text>
+<text id="297188">Sinais de incêndio são mostrados.</text>
+<text id="297200">cara mais suja
+Mas todos eles foram heróis naquele dia.</text>
+<text id="297201">O rosto do viajante estava triste.
+Existem muitas maneiras de descobrir a verdade.</text>
+<text id="297202">Encontre pessoas para agradecer
+Sangue verdadeiro de Midland</text>
+<text id="297203">Escolha uma pessoa que você conheceu durante o jogo.
+Civilizações antigas (ou segundo alguns pagãos).
+e outras empresas</text>
+<text id="297204">Personagens criados têm rostos
+Nas montanhas sem fim alguém disse
+Eles são filhos de heróis.</text>
+<text id="297205">Um rosto flutuando no mar
+Ele olha para dentro da sala.</text>
+<text id="297206">alguém de longe
+Dos Juncos pode facilmente ver sangue.</text>
+<text id="297207">dragão com cara de pedra
+Idosos que vivem entre
+geralmente curto</text>
+<text id="297208">Isso é chamado de lado destrutivo da humanidade.
+Homens da noite, lendas do seu tempo
+Ouro e prata são produzidos desde os tempos antigos.</text>
+<text id="297209">Ele é considerado o rosto de Newman.
+Estrangeiros
+Vida longa e sem filhos</text>
+<text id="297220">cara mais suja
+Mas todos eles foram heróis naquele dia.</text>
+<text id="297221">O rosto do viajante estava triste.
+Existem muitas maneiras de descobrir a verdade.</text>
+<text id="297222">Encontre pessoas para agradecer
+Sangue verdadeiro de Midland</text>
+<text id="297223">Escolha uma pessoa que você conheceu durante o jogo.
+Cultura antiga (ou de acordo com alguns crimes).
+e outras empresas</text>
+<text id="297224">Personagens criados têm rostos
+Nas montanhas sem fim alguém disse
+Eles são filhos de heróis.</text>
+<text id="297225">Um rosto flutuando no mar
+Ele olha para dentro da sala.</text>
+<text id="297226">alguém de longe
+Dos Juncos pode facilmente ver sangue.</text>
+<text id="297227">dragão com cara de pedra
+Idosos que vivem entre
+geralmente curto</text>
+<text id="297228">Isso é chamado de lado destrutivo da humanidade.
+Homens da noite, lendas do seu tempo
+Ouro e prata são produzidos desde os tempos antigos.</text>
+<text id="297229">Ele é considerado o rosto de Newman.
+Estrangeiros
+Vida longa e sem filhos</text>
+<text id="301000">Escolha se mudar para algum lugar</text>
+<text id="301001">Considere o que você usa.</text>
+<text id="321000">Alterar formato de texto</text>
+<text id="321001">Mudando um comportamento</text>
+<text id="321002">Escreva a mensagem inteira</text>
+<text id="321003">Escolha um método</text>
+<text id="321004">Mudando um comportamento</text>
+<text id="321005">escolha uma palavra</text>
+<text id="321006">Escolha um método</text>
+<text id="321007">Escolha um nome</text>
+<text id="321008">Escolha um link</text>
+<text id="322000">Verifique as informações fornecidas.</text>
+<text id="324000">Ver mensagens visualizadas recentemente</text>
+<text id="406000">Selecione o perfil a ser instalado.</text>
+<text id="406001">Selecione o perfil que deseja excluir.</text>
+<text id="506000">Escolha um método de ataque</text>
+<text id="506001">Escolha um campo de batalha</text>
+<text id="506002">Edite sua senha da Arena para jogar com outros jogadores com a mesma senha.</text>
+<text id="506003">Entre no campo de batalha e comece a lutar.</text>
+<text id="506004">Cancelamento do Evento de Competição</text>
+<text id="506005">As configurações de senha do United Battles devem ser as mesmas para todos os jogadores, independentemente de como você deseja fazer login.</text>
+<text id="506006">Escolha uma política específica de gerenciamento de senhas para o Coliseu. O treinamento de senha foi instalado.</text>
+<text id="506007">Selecione o número de soldados nos Colossos.</text>
+<text id="506008">Depende de você querer ouvir ou não.</text>
+</entries>
+</fmg>

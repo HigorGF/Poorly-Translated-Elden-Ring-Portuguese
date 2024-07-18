@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Cinzas da Guerra: Tempestade dos Mortos</text>
+<text id="200100">Cinzas da Guerra: Capítulo Cruz (Asas)</text>
+<text id="400000">Cinzas da Guerra: Gravidade Reversa</text>
+<text id="401000">Cinzas da Guerra: Bolsa</text>
+<text id="402000">Guerra Cinzenta: Voz do Terror</text>
+<text id="403000">Cinzas da Guerra: Espalhadas e Perdidas</text>
+<text id="404000">Cinzas da Guerra: Parede de Faíscas</text>
+<text id="405000">Cinzas da Guerra: Ondas de Faíscas</text>
+<text id="406000">Guerra Cinzenta: Besta</text>
+<text id="407000">Cinzas da Guerra: Garra da Besta</text>
+<text id="409000">Guerra Cinza: Ponto Cego</text>
+<text id="410000">Cinzas da Guerra: Queda Rápida</text>
+<text id="411000">Cinzas da Guerra: Toque do Ar</text>
+<text id="412000">Cinzas da Guerra: Postura de Asa</text>
+<text id="413000">Cinzas da Guerra: Flash Ray</text>
+<text id="414000">Cinzas de Guerra: Cinto de Fogo</text>
+<text id="415000">Cinza: leão selvagem</text>
+<text id="416000">Cinzas da Guerra: Deus Animal</text>
+<text id="417000">Batalha Cinza: Lança de Fogo</text>
+<text id="418000">Guerra Cinzenta: Império da Carniça</text>
+<text id="419000">Cinzas da Guerra: Lágrimas</text>
+<text id="422000">Cinzas da Guerra: Invocando Demônios</text>
+<text id="505000">Ashes of War: A flor mortal desabrocha duas vezes</text>
+<text id="548000">Cinzas da Guerra: A Caçada de Aegon por Draco</text>
+<text id="800000">Cinzas da Guerra: Escudo de Assalto</text>
+</entries>
+</fmg>
